@@ -1,0 +1,1841 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 21:31+0100\n"
+"PO-Revision-Date: 2019-10-29 21:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: settings.php:47 settings.php:271 settings.php:279
+msgid "HomePage"
+msgstr "HomePage"
+
+#: settings.php:49 settings.php:271 settings.php:281
+msgid "Impostazioni"
+msgstr "Settings"
+
+#: settings.php:51 settings.php:271 settings.php:283
+msgid "Test CPS"
+msgstr "CPS Test"
+
+#: settings.php:53 settings.php:69 settings.php:271 settings.php:285
+#: settings.php:333 settings.php:344 settings.php:612 settings.php:960
+#: settings.php:978
+msgid "Sconosciuto"
+msgstr "Unknown"
+
+#: settings.php:65 settings.php:333 settings.php:340 settings.php:365
+#: settings.php:366 settings.php:367 settings.php:371 settings.php:372
+#: settings.php:373 settings.php:377 settings.php:378 settings.php:379
+#: settings.php:496 settings.php:824
+msgid "Mese"
+msgstr "Month"
+
+#: settings.php:67 settings.php:333 settings.php:342 settings.php:365
+#: settings.php:366 settings.php:367 settings.php:371 settings.php:372
+#: settings.php:373 settings.php:377 settings.php:378 settings.php:379
+#: settings.php:496
+msgid "Anno"
+msgstr "Year"
+
+#: settings.php:79
+msgid "Ciao"
+msgstr "Hello"
+
+#: settings.php:81
+msgid "Buon pomeriggio"
+msgstr "Good afternoon"
+
+#: settings.php:83
+msgid "Buonasera"
+msgstr "Good evening"
+
+#: settings.php:88
+#, php-format
+msgid "Impostazioni di %s"
+msgstr "%s's Settings"
+
+#: settings.php:119
+msgid "Siamo così felici di rivederti!"
+msgstr "We are so happy to see you again!"
+
+#: settings.php:123
+msgid "Vai allo Scanner"
+msgstr "Go to the Scanner"
+
+#: settings.php:123
+msgid "Clicca qui per andare allo Scanner"
+msgstr "Click here to go to the Scanner"
+
+#: settings.php:131 settings.php:469
+msgid "ATTIVA"
+msgstr "ACTIVE"
+
+#: settings.php:131 settings.php:483
+msgid "NON ATTIVA"
+msgstr "NOT ACTIVE"
+
+#: settings.php:132
+msgid "ID Licenza"
+msgstr "License ID"
+
+#: settings.php:134
+msgid "Tipo licenza"
+msgstr "License type"
+
+#: settings.php:134
+msgid "Mensile"
+msgstr "Monthly"
+
+#: settings.php:134
+msgid "Permanente"
+msgstr "Permanent"
+
+#: settings.php:134
+msgid "Singola"
+msgstr "Single"
+
+#: settings.php:134
+msgid "Network"
+msgstr "Network"
+
+#: settings.php:137
+msgid "Scadenza licenza"
+msgstr "License expiration"
+
+#: settings.php:139
+msgid "Mai"
+msgstr "Never"
+
+#: settings.php:141
+msgid "Scade tra"
+msgstr "Will expire in"
+
+#: settings.php:141 settings.php:144
+msgid "giorno"
+msgstr "day"
+
+#: settings.php:141 settings.php:144 settings.php:662 settings.php:759
+#: settings.php:767 settings.php:1004
+msgid "giorni"
+msgstr "days"
+
+#: settings.php:144
+msgid "Licenza scaduta il"
+msgstr "License expired on"
+
+#: settings.php:144
+msgid "Scaduta da"
+msgstr "License expired by"
+
+#: settings.php:150
+msgid ""
+"La licenza risulta scaduta, puoi riattivarla cliccando il pulsante "
+"sottostante"
+msgstr "The license is expired, renew it by clicking the button below"
+
+#: settings.php:169
+msgid "Pagamenti in manutenzione"
+msgstr "Payments system under maintenance"
+
+#: settings.php:171
+msgid ""
+"Attualmente il sistema di licenze è in fase di manutenzione, pertanto non è "
+"possibile fare acquisti mentre lo staff indaga sul problema. Ci scusiamo per "
+"il disagio."
+msgstr ""
+"Currently the licensing system is undergoing maintenance, so it is not "
+"possible to make purchases while the staff investigates the problem. We "
+"apologize for the inconvenience."
+
+#: settings.php:181
+msgid "Errore Licenza"
+msgstr "License Error"
+
+#: settings.php:182
+msgid ""
+"Si è verificato un errore cercando di ottenere la scadenza della licenza."
+msgstr "An error has occurred trying to get the license expiration."
+
+#: settings.php:182
+msgid "Contatta lo staff."
+msgstr "Contact the staff."
+
+#: settings.php:191
+msgid "Codice OTP (One Time Password)"
+msgstr "OTP Code (One Time Password)"
+
+#: settings.php:191
+msgid "Clicca qui per vedere un tutorial"
+msgstr "Click here to see a tutorial"
+
+#: settings.php:193
+msgid ""
+"Genera un nuovo codice OTP, se ne esiste già uno quello precedente viene "
+"sovrascritto"
+msgstr ""
+"Generates a new OTP code, if one already exists, the previous one is "
+"overwritten"
+
+#: settings.php:193
+msgid "Genera codice OTP"
+msgstr "Generate OTP code"
+
+#: settings.php:193
+msgid "Elimina l’attuale codice OTP"
+msgstr "Deletes the current OTP code"
+
+#: settings.php:193
+msgid "Elimina codice OTP"
+msgstr "Delete OTP code"
+
+#: settings.php:193
+msgid "Copia l’attuale codice OTP"
+msgstr "Copies the current OTP code"
+
+#: settings.php:193 settings.php:1117
+msgid "Copia codice OTP"
+msgstr "Copy the OTP code"
+
+#: settings.php:198
+msgid "Codice OTP"
+msgstr "OTP Code"
+
+#: settings.php:199
+msgid "Inizio sessione"
+msgstr "Session start"
+
+#: settings.php:200
+msgid "Stato sessione"
+msgstr "Session status"
+
+#: settings.php:201
+msgid "Scansioni eseguite"
+msgstr "Performed scans"
+
+#: settings.php:202
+msgid "La sessione terminerà tra"
+msgstr "The OTP session will end in"
+
+#: settings.php:207 settings.php:208 settings.php:209 settings.php:210
+#: settings.php:211
+msgid "Caricamento..."
+msgstr "Loading..."
+
+#: settings.php:216
+msgid "Preferenze"
+msgstr "Preferences"
+
+#: settings.php:217
+#, php-format
+msgid ""
+"In questa sezione puoi modificare alcune impostazioni relative al tuo "
+"account %s."
+msgstr "You can modify here all the settings related to your %s account."
+
+#: settings.php:222 settings.php:1395 settings.php:1397 settings.php:1399
+#: settings.php:1401 settings.php:1403 settings.php:1405
+msgid "NewsLetter"
+msgstr "NewsLetter"
+
+#: settings.php:228 settings.php:234
+msgid "Autorizzato"
+msgstr "Permitted"
+
+#: settings.php:229 settings.php:233
+msgid "Non autorizzato"
+msgstr "Not permitted"
+
+#: settings.php:239
+#, php-format
+msgid ""
+"Consentici di inviarti Email promozionali e di aggiornamento alla casella di "
+"posta collegata al tuo account %s."
+msgstr ""
+"Allow us to send you promotional Emails to the mailbox linked to your %s "
+"account."
+
+#: settings.php:246 settings.php:1425 settings.php:1432 settings.php:1434
+#: settings.php:1436 settings.php:1438 settings.php:1440
+msgid "Lingua preferenziale"
+msgstr "Favorite language"
+
+#: settings.php:257
+msgid ""
+"Seleziona la lingua che l'interfaccia deve assumere, indipendentemente "
+"dall'indirizzo IP e dalla tua posizione attuale."
+msgstr ""
+"Select the language of the GUI, instead of using the automatic selection "
+"based on your IP address or your current position."
+
+#: settings.php:264 settings.php:1454 settings.php:1456 settings.php:1458
+#: settings.php:1460 settings.php:1462 settings.php:1464
+msgid "Login redirect"
+msgstr "Login redirect"
+
+#: settings.php:276
+msgid ""
+"Seleziona la pagina dove vuoi essere portato una volta effettuato il login. "
+"Puoi scegliere tra:"
+msgstr ""
+"Select the webpage where you want to be redirected after the log in. You can "
+"choose from:"
+
+#: settings.php:300 settings.php:1478 settings.php:1480 settings.php:1482
+#: settings.php:1484 settings.php:1486 settings.php:1488
+msgid "Popup scansione"
+msgstr "Scan popup"
+
+#: settings.php:306 settings.php:312 settings.php:418 settings.php:424
+#: settings.php:445 settings.php:451
+msgid "Sì"
+msgstr "Yes"
+
+#: settings.php:307 settings.php:311 settings.php:419 settings.php:423
+#: settings.php:446 settings.php:450
+msgid "No"
+msgstr "No"
+
+#: settings.php:317
+msgid ""
+"Scegli se vuoi visualizzare automaticamente la schermata di informazioni "
+"aggiuntive delle scansioni con esito 'Cheat' o 'Sospetto'."
+msgstr ""
+"Choose if you want to see automatically more information for all the scans "
+"with the 'Cheat' or 'Suspect' outcome."
+
+#: settings.php:326 settings.php:1502 settings.php:1504 settings.php:1506
+#: settings.php:1508 settings.php:1510 settings.php:1512
+msgid "Intervallo preferenziale"
+msgstr "Favorite interval"
+
+#: settings.php:337
+msgid ""
+"Scegli l'intervallo preferito di visualizzazione del grafico sottostante. "
+"Puoi scegliere tra:"
+msgstr ""
+"Choose the preferred display range of the graph below. You can choose from:"
+
+#: settings.php:359 settings.php:1526 settings.php:1528 settings.php:1530
+#: settings.php:1532 settings.php:1534 settings.php:1536
+msgid "Formato data"
+msgstr "Date format"
+
+#: settings.php:365 settings.php:366 settings.php:367 settings.php:371
+#: settings.php:372 settings.php:373 settings.php:377 settings.php:378
+#: settings.php:379 settings.php:822
+msgid "Giorno"
+msgstr "Day"
+
+#: settings.php:384
+msgid ""
+"Scegli il formato della data che vuoi venga mostrato in tutta la "
+"piattaforma. L'ora sarà sempre mostrata con il formato a 24 ore."
+msgstr ""
+"Choose the date format that you want to see on the website. The time will "
+"always be shown in 24-hour format."
+
+#: settings.php:391 settings.php:1550 settings.php:1552 settings.php:1554
+#: settings.php:1556 settings.php:1558 settings.php:1560
+msgid "Riepilogo scansioni"
+msgstr "Scan summary"
+
+#: settings.php:395 settings.php:399 settings.php:516 settings.php:1133
+#: settings.php:1205
+msgid "scansioni"
+msgstr "scans"
+
+#: settings.php:405
+msgid ""
+"Scegli quante scansioni devono essere visualizzate nella sezione 'Le tue "
+"ultime scansioni'."
+msgstr ""
+"Choose how many scans should be displayed in the 'Your last scans' section."
+
+#: settings.php:412 settings.php:1574 settings.php:1576 settings.php:1578
+#: settings.php:1580 settings.php:1582 settings.php:1584
+msgid "Esito Scansioni Autom."
+msgstr "Auto Scan Outcome"
+
+#: settings.php:429
+msgid ""
+"Scegli se andare alla sezione<br>'Le tue ultime scansioni' automaticamente "
+"al termine di una sessione OTP."
+msgstr ""
+"Choose if you want to be redirected to the 'Your last scans' section "
+"automatically after terminating a OTP session."
+
+#: settings.php:439 settings.php:464 settings.php:1598 settings.php:1600
+#: settings.php:1602 settings.php:1604 settings.php:1606 settings.php:1608
+msgid "Autenticazione a 2 fattori"
+msgstr "2-factor authentication"
+
+#: settings.php:456
+msgid ""
+"Scegli se abilitare l'autenticazione a 2 fattori. Consigliamo di tenere "
+"abilitata questa impostazione."
+msgstr ""
+"Choose whether to enable 2-factor authentication. We recommend keeping this "
+"setting enabled."
+
+#: settings.php:470
+#, php-format
+msgid ""
+"Un codice 2FA è composto da 6 cifre casuali generate ogni 30 secondi "
+"dall'app %sGoogle Authenticator%s."
+msgstr ""
+"A 2FA code is made of 6 random digits generated every 30 seconds from the "
+"%sGoogle Authenticator%s app."
+
+#: settings.php:473
+msgid ""
+"Nel caso di smarrimento dei codici 2FA è possibile usare i codici di "
+"recupero visibili"
+msgstr ""
+"In case of loss of 2FA codes it is possible to use the recovery codes visible"
+
+#: settings.php:473
+msgid "qui"
+msgstr "here"
+
+#: settings.php:475
+msgid ""
+"Per favore genera dei codici di recupero, nel caso non avessi più accesso ai "
+"codici 2FA! Accedi a"
+msgstr ""
+"Please generate recovery codes in case you no longer have access to 2FA "
+"codes! Access"
+
+#: settings.php:475
+msgid "questa pagina"
+msgstr "this page"
+
+#: settings.php:484
+msgid ""
+"Il tuo account non è totalmente al sicuro, in quanto un malintenzionato con "
+"le tue credenziali potrebbe essere in grado di accedere a dati sensibili e "
+"al tuo account senza il tuo consenso."
+msgstr ""
+"Your account is not totally secure, as an attacker with your credentials may "
+"be able to access your account with your personal data without consent."
+
+#: settings.php:486
+msgid "Per favore, abilita la autenticazione a 2 fattori"
+msgstr "Please enable the 2-factor authentication"
+
+#: settings.php:486
+msgid "Clicca per iniziare"
+msgstr "Click here to begin"
+
+#: settings.php:486
+msgid "cliccando qui"
+msgstr "by clicking here"
+
+#: settings.php:495
+msgid "Statistiche"
+msgstr "Stats"
+
+#: settings.php:496
+msgid "Visualizzando le scansioni effettuate in questo"
+msgstr "Showing the scans done in this"
+
+#: settings.php:498 settings.php:502
+msgid "Passa a visualizzazione annuale"
+msgstr "Switch to annual view"
+
+#: settings.php:500
+msgid "Passa a visualizzazione mensile"
+msgstr "Switch to monthly view"
+
+#: settings.php:516
+msgid "Le tue ultime"
+msgstr "Your last"
+
+#: settings.php:519
+msgid "Nessuna scansione trovata."
+msgstr "No scans found."
+
+#: settings.php:523
+msgid "ID scansione"
+msgstr "Scan ID"
+
+#: settings.php:524
+msgid "Data scansione"
+msgstr "Scan date"
+
+#: settings.php:525
+msgid "Durata scansione"
+msgstr "Scan duration"
+
+#: settings.php:526
+msgid "Tipo scansione"
+msgstr "Scan type"
+
+#: settings.php:527
+msgid "Esito scansione"
+msgstr "Scan outcome"
+
+#: settings.php:528
+msgid "Log scansione"
+msgstr "Scan log"
+
+#: settings.php:547
+msgid "I tuoi Ticket"
+msgstr "Your Tickets"
+
+#: settings.php:548
+msgid ""
+"Qui puoi vedere i ticket inviati da te ai nostri membri dello staff. Puoi "
+"passare sopra al testo con il mouse per vedere tutto il testo del ticket e "
+"la risposta dello staff (se presente)."
+msgstr ""
+"Here you can see the tickets sent by you to our staff members. You can hover "
+"the text to see the full body of the ticket and the answer of the staff "
+"member (if present)."
+
+#: settings.php:552
+msgid "Non hai ancora inviato nessun ticket."
+msgstr "You have not sent any tickets yet."
+
+#: settings.php:556
+msgid "ID"
+msgstr "ID"
+
+#: settings.php:557
+msgid "Testo"
+msgstr "Text"
+
+#: settings.php:558
+msgid "Data"
+msgstr "Date"
+
+#: settings.php:559
+msgid "Tipo"
+msgstr "Type"
+
+#: settings.php:560
+msgid "Nome staffer"
+msgstr "Staffer name"
+
+#: settings.php:561
+msgid "Risposta staffer"
+msgstr "Staff answer"
+
+#: settings.php:562
+msgid "Stato"
+msgstr "Status"
+
+#: settings.php:576
+msgid "Domanda"
+msgstr "Question"
+
+#: settings.php:578
+msgid "Bug / Errore"
+msgstr "Bug / Error"
+
+#: settings.php:580
+msgid "Falso positivo"
+msgstr "False positive"
+
+#: settings.php:582
+msgid "Altro"
+msgstr "Other"
+
+#: settings.php:606
+msgid "Chiuso"
+msgstr "Closed"
+
+#: settings.php:608
+msgid "Aperto"
+msgstr "Open"
+
+#: settings.php:610
+msgid "Da visualizzare"
+msgstr "To be seen"
+
+#: settings.php:629 settings.php:1627 settings.php:1630 settings.php:1649
+#: settings.php:1654 settings.php:1656 settings.php:1658 settings.php:1660
+#: settings.php:1662 settings.php:1664 settings.php:1666 settings.php:1668
+#: settings.php:1670 settings.php:1675 settings.php:1677 settings.php:1679
+#: settings.php:1681 settings.php:1686 settings.php:1688 settings.php:1690
+#: settings.php:1692 settings.php:1699 settings.php:1702 settings.php:1704
+#: settings.php:1706 settings.php:1708 settings.php:1710
+msgid "Cambio Username"
+msgstr "Username Change"
+
+#: settings.php:631
+msgid "Puoi cambiare il tuo Username in questa sezione."
+msgstr "You can change your Username in this section."
+
+#: settings.php:633
+#, php-format
+msgid "Attenzione: Si può fare solo una volta ogni %d giorni."
+msgstr "Warning: You can do it only once every %d days."
+
+#: settings.php:644
+msgid "Nuovo Username"
+msgstr "New Username"
+
+#: settings.php:653 settings.php:739
+msgid "Conferma Password"
+msgstr "Confirm Password"
+
+#: settings.php:657
+msgid "Cambia Username"
+msgstr "Change Username"
+
+#: settings.php:662
+msgid "Hai già effettuato un cambio in data"
+msgstr "You have already made a change on"
+
+#: settings.php:662 settings.php:767 settings.php:1014 settings.php:1624
+#: settings.php:1722 settings.php:1776 settings.php:1824 settings.php:1878
+#: settings.php:1918 settings.php:1961 settings.php:1983
+msgid "Attendi"
+msgstr "Please wait"
+
+#: settings.php:662
+msgid "prima di cambiare nuovamente Username"
+msgstr "before changing your Username again"
+
+#: settings.php:672 settings.php:1733 settings.php:1735 settings.php:1737
+#: settings.php:1739 settings.php:1741 settings.php:1743 settings.php:1745
+#: settings.php:1747 settings.php:1749 settings.php:1751 settings.php:1756
+#: settings.php:1759 settings.php:1762
+msgid "Cambio Password"
+msgstr "Change Password"
+
+#: settings.php:673
+msgid ""
+"Puoi cambiare la password inserendo prima quella vecchia e poi quella nuova "
+"nei campi sottostanti."
+msgstr ""
+"You can change the password by entering the old one first and then the new "
+"one in the fields below."
+
+#: settings.php:682
+msgid "Vecchia Password"
+msgstr "Old Password"
+
+#: settings.php:691
+msgid "Nuova Password"
+msgstr "New Password"
+
+#: settings.php:694 settings.php:708
+msgid "Requisiti minimi:"
+msgstr "Minimal requirements:"
+
+#: settings.php:694 settings.php:708
+msgid "Non deve essere vuota"
+msgstr "It cannot be empty"
+
+#: settings.php:694 settings.php:708
+msgid "Lunghezza minima"
+msgstr "Minimum length"
+
+#: settings.php:694 settings.php:708
+msgid "caratteri"
+msgstr "characters"
+
+#: settings.php:694 settings.php:708
+msgid "Lunghezza massima"
+msgstr "Maximum length"
+
+#: settings.php:705
+msgid "Ripeti Nuova Password"
+msgstr "Repeat New Password"
+
+#: settings.php:714
+msgid "Aggiorna Password"
+msgstr "Update Password"
+
+#: settings.php:720 settings.php:1784 settings.php:1786 settings.php:1788
+#: settings.php:1790 settings.php:1792 settings.php:1794 settings.php:1796
+#: settings.php:1801 settings.php:1803 settings.php:1805 settings.php:1807
+#: settings.php:1809 settings.php:1814 settings.php:1817
+msgid "Cambio Email"
+msgstr "Change Email"
+
+#: settings.php:721
+msgid ""
+"Puoi cambiare l'indirizzo Email utilizzato per ricevere notifiche e "
+"Newsletter qui."
+msgstr ""
+"You can change the email address used to receive notifications and "
+"newsletters here."
+
+#: settings.php:721
+msgid "Indirizzo Email attuale:"
+msgstr "Current Email Address:"
+
+#: settings.php:730
+msgid "Nuova Email"
+msgstr "New Email address"
+
+#: settings.php:743
+msgid "Aggiorna Email"
+msgstr "Update Email address"
+
+#: settings.php:757 settings.php:1003
+msgid "Richiesta dati utente"
+msgstr "User data request"
+
+#: settings.php:759
+msgid ""
+"Se desideri, puoi richiedere una copia dei tuoi dati personali, ma solo una "
+"volta ogni"
+msgstr ""
+"If you wish, you can ask for a copy of your personal data, but only once "
+"every"
+
+#: settings.php:759
+msgid ""
+"Tutte le informazioni che possediamo ti saranno inviate tramite Email "
+"all'indirizzo di posta che ci hai fornito."
+msgstr ""
+"All the information will be sent to you by Email at the Email address you "
+"provided."
+
+#: settings.php:763
+msgid "Puoi effettuare la richiesta adesso"
+msgstr "You can make a request now"
+
+#: settings.php:767
+msgid "Hai già effettuato una richiesta in data"
+msgstr "You have already made a request on"
+
+#: settings.php:767
+msgid "prima di richiedere nuovamente i dati"
+msgstr "before requesting your personal data again"
+
+#: settings.php:771
+msgid "Richiedi dati personali"
+msgstr "Request personal data"
+
+#: settings.php:776 settings.php:1972
+msgid "Elimina questo account"
+msgstr "Delete this account"
+
+#: settings.php:778
+msgid ""
+"Se desideri, puoi richiedere l'eliminazione PERMANENTE di tutti i tuoi dati. "
+"Nota che le licenze acquistate non saranno rimborsate. L'operazione non è "
+"annullabile."
+msgstr ""
+"If you wish, you can ask for a PERMANENT removal of all your data. Note that "
+"the licenses purchased will not be refunded. The operation cannot be "
+"canceled."
+
+#: settings.php:788
+msgid "Il tuo Username"
+msgstr "Your Username"
+
+#: settings.php:799
+msgid "La tua Password"
+msgstr "Your Password"
+
+#: settings.php:803
+msgid "Cancella questo account"
+msgstr "Delete this account"
+
+#: settings.php:817
+msgid "Scansioni mensili"
+msgstr "Monthly Scans"
+
+#: settings.php:819
+msgid "Scansioni annuali"
+msgstr "Yearly scans"
+
+#: settings.php:831 settings.php:903
+msgid "Scansioni"
+msgstr "Scans"
+
+#: settings.php:839
+msgid "Caricamento dati. Attendi."
+msgstr "Loading data. Please wait."
+
+#: settings.php:840
+msgid "Errore durante il caricamento dei dati."
+msgstr "Error loading data."
+
+#: settings.php:841
+msgid "Dati non validi."
+msgstr "Invalid data."
+
+#: settings.php:842
+msgid "Nessun dato da mostrare."
+msgstr "No data to show."
+
+#: settings.php:843
+msgid "Tipo di grafico non supportato."
+msgstr "Unsupported chart type."
+
+#: settings.php:844
+msgid "Caricamento grafico. Attendi."
+msgstr "Loading chart. Please wait."
+
+#: settings.php:845
+msgid "Errore durante il rendering del grafico."
+msgstr "Error rendering graph."
+
+#: settings.php:866
+msgid "Oggi"
+msgstr "Today"
+
+#: settings.php:952 settings.php:954 settings.php:956 settings.php:958
+#: settings.php:972
+msgid "Sospetto"
+msgstr "Suspect"
+
+#: settings.php:966
+msgid "Codice errore:"
+msgstr "Error code:"
+
+#: settings.php:966
+msgid "Errore"
+msgstr "Error"
+
+#: settings.php:969
+msgid "Pulito"
+msgstr "Clean"
+
+#: settings.php:975
+msgid "Cheat"
+msgstr "Cheat"
+
+#: settings.php:982
+msgid "Clicca per scaricare il log della scansione n°"
+msgstr "Click here to download the scan log n°"
+
+#: settings.php:1004
+msgid ""
+"Cliccando su 'Conferma' i tuoi dati personali saranno inviati al tuo "
+"indirizzo Email"
+msgstr ""
+"By clicking on 'Confirm' your personal data will be sent to your email "
+"address"
+
+#: settings.php:1004 settings.php:1973
+msgid "Confermi l'operazione?"
+msgstr "Confirm the operation?"
+
+#: settings.php:1004
+msgid "Non potrai effettuare nuove richieste per i prossimi"
+msgstr "You will not be able to make new requests for the next"
+
+#: settings.php:1005 settings.php:1974
+msgid "Il processo potrebbe richiedere alcuni minuti"
+msgstr "The process may take several minutes"
+
+#: settings.php:1008 settings.php:1871 settings.php:1977
+msgid "Conferma"
+msgstr "Confirm"
+
+#: settings.php:1009 settings.php:1872 settings.php:1978
+msgid "Annulla"
+msgstr "Cancel"
+
+#: settings.php:1015
+msgid "Raccolta dati in corso"
+msgstr "Data collection in progress"
+
+#: settings.php:1026 settings.php:1996
+msgid "Operazione completata"
+msgstr "Operation complete"
+
+#: settings.php:1027
+msgid ""
+"L'Email con la raccolta dei tuoi dati è stata inviata alla casella di posta"
+msgstr ""
+"The Email with the collection of your data has been sent to the mailbox"
+
+#: settings.php:1035 settings.php:1041 settings.php:1047 settings.php:1281
+#: settings.php:1287 settings.php:1397 settings.php:1432 settings.php:1456
+#: settings.php:1480 settings.php:1504 settings.php:1528 settings.php:1552
+#: settings.php:1576 settings.php:1600 settings.php:1842 settings.php:1848
+#: settings.php:1854 settings.php:1894 settings.php:1900 settings.php:1934
+#: settings.php:1940 settings.php:2005 settings.php:2011 settings.php:2028
+#: settings.php:2034 settings.php:2040 settings.php:2055
+msgid "Si è verificato un errore"
+msgstr "An error has occurred"
+
+#: settings.php:1036 settings.php:2006
+msgid "Non è stato possibile elaborare la richiesta"
+msgstr "The request could not be processed"
+
+#: settings.php:1042
+msgid ""
+"È passato troppo poco tempo perché tu possa richiedere ancora i tuoi dati"
+msgstr "It has been too little time for you to request your data again"
+
+#: settings.php:1048 settings.php:1149 settings.php:1288 settings.php:2012
+msgid "Sessione utente non valida. Rieffettua il login"
+msgstr "Invalid user session. Try to log-in again"
+
+#: settings.php:1053 settings.php:2017
+msgid "Errore imprevisto"
+msgstr "Unexpected error"
+
+#: settings.php:1087 settings.php:1213 settings.php:1250
+msgid "Notifica OTP"
+msgstr "OTP Notification"
+
+#: settings.php:1088
+msgid "Il codice OTP"
+msgstr "The OTP code"
+
+#: settings.php:1088
+msgid "è stato utilizzato con successo"
+msgstr "has been used successfully"
+
+#: settings.php:1097
+msgid "Il codice OTP è stato utilizzato con successo"
+msgstr "The OTP code has been used successfully"
+
+#: settings.php:1115
+msgid "Codice OTP copiato!"
+msgstr "OTP code copied!"
+
+#: settings.php:1130 settings.php:1131 settings.php:1155 settings.php:1160
+msgid "//"
+msgstr "//"
+
+#: settings.php:1132 settings.php:1186
+msgid "Chiusa"
+msgstr "Closed"
+
+#: settings.php:1147 settings.php:1282 settings.php:1843 settings.php:1855
+#: settings.php:1895 settings.php:1935
+msgid "Errore interno: Esecuzione script fallita"
+msgstr "Internal error: Script execution failed"
+
+#: settings.php:1169
+msgid "minuto"
+msgstr "minute"
+
+#: settings.php:1172
+msgid "minuti"
+msgstr "minutes"
+
+#: settings.php:1175
+msgid "secondo"
+msgstr "second"
+
+#: settings.php:1177
+msgid "secondi"
+msgstr "seconds"
+
+#: settings.php:1190
+msgid "In attesa..."
+msgstr "Waiting..."
+
+#: settings.php:1194
+msgid "In uso..."
+msgstr "In use..."
+
+#: settings.php:1197 settings.php:1876 settings.php:1916
+msgid "In chiusura..."
+msgstr "Closing..."
+
+#: settings.php:1200 settings.php:1293 settings.php:1405 settings.php:1440
+#: settings.php:1464 settings.php:1488 settings.php:1512 settings.php:1536
+#: settings.php:1560 settings.php:1584 settings.php:1608 settings.php:1670
+#: settings.php:1681 settings.php:1692 settings.php:1710 settings.php:1751
+#: settings.php:1796 settings.php:1809 settings.php:1906 settings.php:1946
+#: settings.php:2046
+msgid "Errore non pianificato"
+msgstr "Unexpected error"
+
+#: settings.php:1203
+msgid "scansione"
+msgstr "scan"
+
+#: settings.php:1207
+msgid "Limite raggiunto"
+msgstr "Limit reached"
+
+#: settings.php:1214 settings.php:1223
+msgid "Una scansione effettuata nella sessione OTP è terminata"
+msgstr "A scan made by the OTP session has ended"
+
+#: settings.php:1214
+msgid ""
+"Controlla la condivisione schermo o ricarica questa pagina per maggiori "
+"informazioni"
+msgstr ""
+"Check the screen-sharing software or reload this page for more information"
+
+#: settings.php:1223
+msgid "Clicca qui per tornare al tuo browser"
+msgstr "Click here to go back to your browser"
+
+#: settings.php:1251 settings.php:1260
+msgid "La sessione aperta è scaduta ed è stata chiusa"
+msgstr "The OTP session has expired and has been closed"
+
+#: settings.php:1338
+#, php-format
+msgid ""
+"%s invia notifiche al tuo browser durante uno screenshare in determinate "
+"circostanze. Se desideri, puoi abilitare le notifiche PUSH %scliccando qui%s."
+msgstr ""
+"%s sends notifications to your browser during a screenshare in certain "
+"circumstances. If you wish, you can enable PUSH notifications by %sclicking "
+"here%s."
+
+#: settings.php:1357
+msgid "Benvenuto su"
+msgstr "Welcome on"
+
+#: settings.php:1359
+msgid "Ci auguriamo il servizio sia di tuo gradimento."
+msgstr "We hope you enjoy our service."
+
+#: settings.php:1359
+msgid "I nostri membri dello staff sono a tua completa disposizione."
+msgstr "Our staff members are at your disposal."
+
+#: settings.php:1359
+msgid "Puoi contattarli inviando una"
+msgstr "You can contact them by sending a"
+
+#: settings.php:1359
+msgid "Email"
+msgstr "Email"
+
+#: settings.php:1361
+msgid "Per iniziare ti consigliamo di dare un`occhiata a"
+msgstr "To start we suggest you take a look at"
+
+#: settings.php:1361
+msgid "questo tutorial introduttivo"
+msgstr "this introductive tutorial"
+
+#: settings.php:1375
+msgid "Localizzazione"
+msgstr "Localization"
+
+#: settings.php:1377
+msgid ""
+"è al momento disponibile ufficialmente in Inglese e Italiano. Le altre "
+"traduzioni potrebbero non essere accurate finché non saranno supportate "
+"completamente. Grazie per la comprensione."
+msgstr ""
+"is currently available officially in English and Italian. Other translations "
+"may not be accurate until they are fully supported. Thanks for understanding."
+
+#: settings.php:1379
+msgid "Clicca qui"
+msgstr "Click here"
+
+#: settings.php:1379
+msgid "per modificare la lingua di visualizzazione predefinita"
+msgstr "to change the default display language"
+
+#: settings.php:1395 settings.php:1425 settings.php:1454 settings.php:1478
+#: settings.php:1502 settings.php:1526 settings.php:1550 settings.php:1574
+#: settings.php:1598
+msgid "Preferenze salvate"
+msgstr "Preferences updated"
+
+#: settings.php:1399 settings.php:1434 settings.php:1458 settings.php:1482
+#: settings.php:1506 settings.php:1530 settings.php:1554 settings.php:1578
+#: settings.php:1602
+msgid "Errore interno: Parametri insufficienti"
+msgstr "Internal error: Script execution failed"
+
+#: settings.php:1401 settings.php:1436 settings.php:1460 settings.php:1484
+#: settings.php:1508 settings.php:1532 settings.php:1556 settings.php:1580
+#: settings.php:1604
+msgid "Errore interno: Tipo non valido"
+msgstr "Error: Invalid data"
+
+#: settings.php:1403 settings.php:1438 settings.php:1462 settings.php:1486
+#: settings.php:1510 settings.php:1534 settings.php:1558 settings.php:1582
+#: settings.php:1606 settings.php:1668 settings.php:1679 settings.php:1690
+#: settings.php:1708 settings.php:1749 settings.php:1794 settings.php:1807
+#: settings.php:1849 settings.php:1901 settings.php:1941
+msgid "Sessione non valida: Rieffettua il login"
+msgstr "Invalid user session: Try to log-in again"
+
+#: settings.php:1624 settings.php:1722 settings.php:1776 settings.php:1825
+#: settings.php:1879 settings.php:1919 settings.php:1962 settings.php:1984
+msgid "Elaborazione richiesta"
+msgstr "Processing request"
+
+#: settings.php:1627 settings.php:1662
+msgid "L′Username deve avere una lunghezza tra i"
+msgstr "The Username must have a length between"
+
+#: settings.php:1627 settings.php:1662 settings.php:1759
+msgid "ed i"
+msgstr "and"
+
+#: settings.php:1627 settings.php:1662 settings.php:1759
+msgid " caratteri"
+msgstr " characters"
+
+#: settings.php:1630 settings.php:1664
+msgid "L′Username contiene caratteri non validi"
+msgstr "The Username contains invalid characters"
+
+#: settings.php:1649
+msgid "Username modificato con successo"
+msgstr "Username changed successfully"
+
+#: settings.php:1654
+msgid "Non è stato possibile cambiare l'Username"
+msgstr "An error occured while trying to change the Username"
+
+#: settings.php:1656 settings.php:1677 settings.php:1688 settings.php:1704
+#: settings.php:1737 settings.php:1788 settings.php:1803 settings.php:2041
+msgid "Compila tutti i campi"
+msgstr "Set all fields"
+
+#: settings.php:1658 settings.php:1675
+msgid "Questo Username esiste già"
+msgstr "This Username already exists"
+
+#: settings.php:1660
+msgid ""
+"È passato troppo poco tempo perché tu possa cambiare ancora il tuo Username"
+msgstr "Too little time has passed before you can change your username again"
+
+#: settings.php:1666 settings.php:1686
+msgid "Scegli un altro Username"
+msgstr "Choose another Username"
+
+#: settings.php:1699
+msgid "Questo Username è già in uso"
+msgstr "This Username is already in use"
+
+#: settings.php:1702 settings.php:1801
+msgid "La password non è corretta"
+msgstr "The password is not valid"
+
+#: settings.php:1706 settings.php:1805 settings.php:2035
+msgid "L'ID non è stato trovato"
+msgstr "The ID was not found"
+
+#: settings.php:1733
+msgid "Password cambiata con successo"
+msgstr "Password changed successfully"
+
+#: settings.php:1735
+msgid "Non è stato possibile cambiare la password"
+msgstr "An error occured while trying to change the password"
+
+#: settings.php:1739
+msgid "Le password non devono essere vuote"
+msgstr "Passwords cannot be empty"
+
+#: settings.php:1741
+msgid "Le nuove password devono corrispondere"
+msgstr "The new passwords must match"
+
+#: settings.php:1743
+msgid "La vecchia password non è corretta"
+msgstr "The old password is not correct"
+
+#: settings.php:1745
+msgid "La password vecchia e quella nuova corrispondono"
+msgstr "The old password and the new one match"
+
+#: settings.php:1747
+msgid "ID Utente non valido"
+msgstr "Invalid User ID"
+
+#: settings.php:1756
+msgid "La password vecchia e la nuova corrispondono"
+msgstr "The old password and the new one match"
+
+#: settings.php:1759
+msgid "Le password devono avere una lunghezza tra i"
+msgstr "Passwords must have a length between"
+
+#: settings.php:1762
+msgid "Le password non corrispondono"
+msgstr "Passwords do not match"
+
+#: settings.php:1784
+msgid "Mail di conferma inviata all'indirizzo specificato"
+msgstr "Confirmation Email sent to the specified Email address"
+
+#: settings.php:1786
+msgid "Non è stato possibile inviare la mail all'indirizzo specificato"
+msgstr ""
+"The confirmation e-mail could not be sent to the specified Email address"
+
+#: settings.php:1790
+msgid "Questo indirizzo Email è già in uso"
+msgstr "This Email address is already in use"
+
+#: settings.php:1792
+msgid "Non è stato possibile impostare il token di sicurezza"
+msgstr "The security token could not be set"
+
+#: settings.php:1814
+msgid "Questo indirizzo Email non è valido"
+msgstr "This Email address is not valid"
+
+#: settings.php:1817
+msgid ""
+"Questo indirizzo Email è uguale a quello attualmente associato a questo "
+"account"
+msgstr ""
+"This Email address is the same as the one currently associated with this "
+"account"
+
+#: settings.php:1829
+msgid "In apertura..."
+msgstr "Opening..."
+
+#: settings.php:1866
+msgid "Chiusura sessione"
+msgstr "Session closing procedure"
+
+#: settings.php:1867
+msgid ""
+"Cliccando su 'Conferma' la sessione OTP attuale sarà chiusa forzatamente. "
+"Sei sicuro?"
+msgstr ""
+"By clicking on 'Confirm' the current OTP session will be forcefully closed. "
+"Are you sure?"
+
+#: settings.php:1868
+msgid ""
+"Se una scansione è in corso la sessione sarà chiusa al termine "
+"dell'operazione"
+msgstr ""
+"If a scan is in progress the session will be closed at the end of the "
+"operation"
+
+#: settings.php:1973
+msgid ""
+"Cliccando su 'Conferma' i tuoi dati personali saranno eliminati "
+"PERMANENTEMENTE senza possibilità di recuperarli"
+msgstr ""
+"By clicking on 'Confirm' your personal data will be deleted PERMANENTLY "
+"without the possibility of recovering them"
+
+#: settings.php:1973
+msgid "Le licenze acquistate non saranno rimborsate"
+msgstr "The purchased licenses will not be refunded"
+
+#: settings.php:1997
+msgid "Il tuo account è stato cancellato. Ritorno alla Homepage in corso..."
+msgstr "Your account has been deleted. Returning to the Homepage now..."
+
+#: settings.php:2029
+msgid "Password errata"
+msgstr "Wrong password"
+
+#: settings.php:2056
+msgid "Inserisci il tuo Username"
+msgstr "Enter your Username"
+
+#~ msgid "Non hai i permessi per modificare questa preferenza."
+#~ msgstr "You do not have the permissions to edit this preference."
+
+#~ msgid "clicca qui"
+#~ msgstr "click here"
+
+#~ msgid "Reset codice 2FA"
+#~ msgstr "2FA Code Reset"
+
+#~ msgid ""
+#~ "Stai per inviare al nostro staff una richiesta di eliminazione del tuo "
+#~ "codice 2FA. Sei sicuro?"
+#~ msgstr ""
+#~ "You are going to send our staff members a request to delete your current "
+#~ "2FA code. Are you sure?"
+
+#~ msgid ""
+#~ "L'abuso di questa funzione potrebbe causare la limitazione di questo "
+#~ "account"
+#~ msgstr "The abuse of this feature may cause this account to be restricted"
+
+#~ msgid "Invio richiesta in corso"
+#~ msgstr "Sending request"
+
+#~ msgid "Ti notificheremo sullo stato della tua richiesta via Email"
+#~ msgstr "We will notify you about the status of your request via Email"
+
+#~ msgid "Clicca qui per scriverci una Mail"
+#~ msgstr "Click here to send us an Email"
+
+#~ msgid "Per favore scrivi qui il tuo Username per confermare l'operazione"
+#~ msgstr "Please write here your Username to confirm the operation"
+
+#~ msgid "una Email"
+#~ msgstr "an Email"
+
+#~ msgid "Caso imprevisto"
+#~ msgstr "Unexpected case"
+
+#~ msgid "Codice della sessione OTP"
+#~ msgstr "Code of the OTP session"
+
+#~ msgid "Inizio della sessione"
+#~ msgstr "Session start"
+
+#~ msgid "Numero scansioni eseguite"
+#~ msgstr "Number of scans performed"
+
+#~ msgid "Fine della sessione"
+#~ msgstr "End of the session"
+
+#~ msgid "Scegli il formato della data che preferisci"
+#~ msgstr "Choose your favorite date format"
+
+#~ msgid "Queste scansioni sono relative all'intervallo"
+#~ msgstr "These scans are related to the interval"
+
+#~ msgid "ID univoco di ogni scansione"
+#~ msgstr "Unique ID for each scan"
+
+#~ msgid "Data di inizio scansione"
+#~ msgstr "Scan Date"
+
+#~ msgid "Durata della scansione"
+#~ msgstr "Scan Duration"
+
+#~ msgid "Tipo della scansione"
+#~ msgstr "Scan Type"
+
+#~ msgid "Esito della scansione"
+#~ msgstr "Scan Outcome"
+
+#~ msgid "Scarica il log della scansione"
+#~ msgstr "Download scan log"
+
+#~ msgid "Effettuate da te questo mese"
+#~ msgstr "Made by you this month"
+
+#~ msgid " scansione(i)"
+#~ msgstr " scan(s)"
+
+#~ msgid "Effettuate da te quest'anno"
+#~ msgstr "Made by you this year"
+
+#~ msgid "Ottenendo informazioni... Attendere."
+#~ msgstr "Getting informations… Please wait."
+
+#~ msgid "Errore: Lettura dati fallita."
+#~ msgstr "Error: Reading data failed."
+
+#~ msgid "Errore: Impossibile generare grafico."
+#~ msgstr "Error: Unable to create graph."
+
+#~ msgid "L′Username contiene dei caratteri non validi"
+#~ msgstr "The Username contains invalid characters"
+
+#~ msgid "e-mail"
+#~ msgstr "e-mail"
+
+#~ msgid "Informazioni licenza"
+#~ msgstr "License information"
+
+#~ msgid ""
+#~ "Si è verificato un errore cercando di ottenere le informazioni sulla "
+#~ "Licenza."
+#~ msgstr "An error occurred trying to get the license information."
+
+#~ msgid "Copiato!"
+#~ msgstr "Copied!"
+
+#~ msgid "Questa licenza è collegata al network"
+#~ msgstr "This license is linked to the network"
+
+#~ msgid "e tu ne sei il gestore"
+#~ msgstr "and you are the manager"
+
+#~ msgid "Clicca qui per gestire il tuo network"
+#~ msgstr "Click here to manage your network"
+
+#~ msgid "e il tuo gestore è"
+#~ msgstr "and your manager is"
+
+#~ msgid "Clicca per aggiornare la pagina con la nuova lingua"
+#~ msgstr "Click to update this page with the new selected language"
+
+#~ msgid "Data di inizio sessione"
+#~ msgstr "Session start date"
+
+#~ msgid ""
+#~ "Clicca il pulsante 'Genera codice OTP' per creare un codice monouso da "
+#~ "utilizzare per le condivisioni schermo"
+#~ msgstr ""
+#~ "Click the 'Generate OTP Code' button to create a one-time code to be used "
+#~ "for screen shares"
+
+#~ msgid ""
+#~ "Con ogni codice si può effettuare solo una scansione e la sessione è "
+#~ "protetta"
+#~ msgstr ""
+#~ "With each code, only one scan can be performed and the session is "
+#~ "protected"
+
+#~ msgid "Verifica stato codici..."
+#~ msgstr "Checking code status..."
+
+#~ msgid "Il codice OTP che hai generato"
+#~ msgstr "The generated OTP code"
+
+#~ msgid "Va bene"
+#~ msgstr "Got it"
+
+#~ msgid "Nessun codice OTP generato"
+#~ msgstr "No OTP code generated"
+
+#~ msgid "CODICE OTP"
+#~ msgstr "OTP CODE"
+
+#~ msgid "Data di inizio scansione (giorno/mese/anno ore:minuti:secondi)"
+#~ msgstr "Start scan date (day/month/year hours:minutes:seconds)"
+
+#~ msgid "Durata scansione (ore:minuti:secondi)"
+#~ msgstr "Scan duration (hours:minutes:seconds)"
+
+#~ msgid "ID Cliente"
+#~ msgstr "Customer ID"
+
+#~ msgid "Richiesta Dati Utente"
+#~ msgstr "User Data Request"
+
+#~ msgid "Eliminazione permanente dell'account"
+#~ msgstr "Permanent account deletion"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Se hai smarrito il codice 2FA"
+#~ msgstr "If you have lost the 2FA code"
+
+#~ msgid "scrivici una Mail"
+#~ msgstr "write us an eMail"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Leader Sito Web e Sviluppatore Web"
+#~ msgstr "Website Leader and Web Developer"
+
+#~ msgid "Leader Progetto e Sviluppatore Software"
+#~ msgstr "Project Leader and Software Developer"
+
+#~ msgid "Bot Manager"
+#~ msgstr "Bot Manager"
+
+#~ msgid "Sviluppatore Software"
+#~ msgstr "Software Developer"
+
+#~ msgid "Aiuto-Sviluppatore"
+#~ msgstr "Help-Developer"
+
+#~ msgid "Grazie a tutti coloro che hanno contribuito alla realizzazione del"
+#~ msgstr "Thanks to all those who contributed to the realization of the"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid "Accesso fallito (401)"
+#~ msgstr "Zugriff fehlgeschlagen (401)"
+
+#~ msgid "Il server ti ha impedito di accedere a questa risorsa."
+#~ msgstr ""
+#~ "Der Server hat Sie daran gehindert, auf diese Ressource zuzugreifen."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta."
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet."
+
+#~ msgid "La pagina che stavi cercando non esiste o è stata rimossa."
+#~ msgstr "Die von Ihnen gesuchte Seite existiert nicht oder wurde entfernt."
+
+#~ msgid ""
+#~ "Il metodo specificato nella linea di richiesta non autorizzato per la "
+#~ "risorsa specificata."
+#~ msgstr ""
+#~ "Die in der nicht autorisierten Anforderungszeile für die angegebene "
+#~ "Ressource angegebene Methode."
+
+#~ msgid ""
+#~ "Il browser ha fallito l'invio della richiesta nel tempo autorizzato dal "
+#~ "server."
+#~ msgstr ""
+#~ "Der Browser konnte die Anfrage nicht innerhalb der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid ""
+#~ "La richiesta è fallita a causa di una condizione inaspettata incontrata "
+#~ "dal server."
+#~ msgstr ""
+#~ "Die Anforderung ist aufgrund einer unerwarteten Bedingung beim Server "
+#~ "fehlgeschlagen."
+
+#~ msgid ""
+#~ "Il server ha ricevuto una risposta non valida dal server di upstream "
+#~ "mentre cercava di rispondere alla tua richiesta"
+#~ msgstr ""
+#~ "Der Server hat vom Upstream-Server eine ungültige Antwort erhalten, als "
+#~ "er versucht hat, auf Ihre Anfrage zu antworten"
+
+#~ msgid ""
+#~ "Il server di upstream ha fallito l'invio della richiesta nel tempo "
+#~ "autorizzato dal server."
+#~ msgstr ""
+#~ "Der Upstream-Server konnte die Anforderung nicht in der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta. (!)"
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet. (!)"
+
+#~ msgid ""
+#~ "Puoi tornare alla Homepage ora. Se pensi che questo sia un errore, "
+#~ "inviaci una mail cliccando il tasto sottostante, grazie!"
+#~ msgstr ""
+#~ "Sie können jetzt zur Homepage zurückkehren. Wenn Sie denken, dass dies "
+#~ "ein Fehler ist, senden Sie uns eine E-Mail durch Klicken auf die "
+#~ "Schaltfläche unten, danke!"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Melde ein Problem"
+
+#~ msgid "(Non ci sono manutenzioni previste)"
+#~ msgstr "(Es gibt keine geplante Wartung)"
+
+#~ msgid "(Inserire un url con stato pagina corretto)"
+#~ msgstr "(Geben Sie eine URL mit dem korrekten Seitenstatus ein)"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must be logged in to be able to scan"
+
+#~ msgid "Accedi"
+#~ msgstr "Log in"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign in"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Each <b>.zip</b> file entered must not exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of weight"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Enter the ProcessHacker™ search results in the respective section. More "
+#~ "information"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service not available at the moment, please try again later."
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same name as the .txt file!"
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress since"
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must be .zip"
+
+#~ msgid "Tutti i file devono essere impostati"
+#~ msgstr "All files must be set up"
+
+#~ msgid "FireShield Cheat Detector"
+#~ msgstr "FireShield Cheat Detector"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Registrazione"
+#~ msgstr "Sign up"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid ""
+#~ "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid ""
+#~ "Un membro dello Staff ha visualizzato la tua precedente segnalazione. "
+#~ "Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid ""
+#~ "In questo form è possibile segnalare un problema relativo alla "
+#~ "piattaforma FireShield. Una volta inviata la richiesta non sarà possibile "
+#~ "inviarne altre finché la precedente non sarà visionata. Grazie per "
+#~ "aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr ""
+#~ "In this form you can report a problem related to the FireShield platform. "
+#~ "Once the report has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. Thanks for helping us make FireShield "
+#~ "Detector better!"
+
+#~ msgid "Reports disabilitati."
+#~ msgstr "Reports disabled."
+
+#~ msgid "Sii il più completo possibile, limite caratteri: 1000"
+#~ msgstr "Be as complete as possible, character limitation: 1000"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"

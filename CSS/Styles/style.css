@@ -1,0 +1,30 @@
+body {
+    color:#FFF;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+a {
+    color: #F29B1B;
+}
+
+a:link {
+    text-decoration:none;
+}
+
+a:hover {
+    color: #E75309;
+}
+
+.jpg {
+    background-image:url(../Images/wallpaper.jpg);
+}
+
+.webp {
+    background-image:url(../Images/wallpaper.webp);
+}

@@ -1,0 +1,553 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-17 17:55+0100\n"
+"PO-Revision-Date: 2019-03-17 17:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: suggestString.php:39
+msgid "Grazie per la proposta!"
+msgstr "Thanks for the suggestion!"
+
+#: suggestString.php:39
+msgid "Si è verificato un errore."
+msgstr "An error has occured."
+
+#: suggestString.php:41 suggestString.php:86
+msgid "Proposte disabilitate."
+msgstr "Suggestions disabled."
+
+#: suggestString.php:41
+msgid "Imposta tutti i parametri."
+msgstr "Set all parameters."
+
+#: suggestString.php:41
+msgid "Token non valido, impossibile continuare."
+msgstr "A token error occurred, cannot continue."
+
+#: suggestString.php:41
+msgid "Imposta tutti i campi."
+msgstr "Set all parameters."
+
+#: suggestString.php:41
+msgid "Tipo stringa non valido."
+msgstr "String type invalid."
+
+#: suggestString.php:41
+msgid "Errore di esecuzione interno."
+msgstr "An internal execution error has occured."
+
+#: suggestString.php:41
+msgid ""
+"La tua proposta sarà visionata quanto prima da un nostro membro dello staff."
+msgstr ""
+"Your proposal will be viewed as soon as possible by one of our staff members."
+
+#: suggestString.php:53
+msgid "Proponi una Stringa"
+msgstr "Suggest a String"
+
+#: suggestString.php:55
+#, php-format
+msgid ""
+"In questo form puoi proporre una stringa che identifica un client. In "
+"seguito all'invio, verificheremo noi la validità della proposta.%sGrazie per "
+"l'aiuto a rendere %s sempre migliore!"
+msgstr ""
+"In this form you can propose a string that identifies a client. Following "
+"the submission, we will verify the validity of the proposal.%sThanks for the "
+"help to make %s always better!"
+
+#: suggestString.php:60
+msgid "Seleziona il tipo di processo"
+msgstr "Select the process type"
+
+#: suggestString.php:65
+msgid "Altro"
+msgstr "Other"
+
+#: suggestString.php:74
+msgid "Inserisci la stringa che identifica il cheat"
+msgstr "Enter the string that identifies the cheat"
+
+#: suggestString.php:83
+msgid "Inserisci il nome del client identificato dalla stringa"
+msgstr "Enter the client name identified by the string"
+
+#: suggestString.php:86
+msgid "Note riguardanti la proposta, limite caratteri: 1000"
+msgstr "Notes regarding the suggestion, character limit: 1000"
+
+#: suggestString.php:89
+msgid "Invia proposta"
+msgstr "Send suggestion"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid ""
+#~ "Un altro ticket risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another ticket is already sent, wait until the other is closed"
+
+#~ msgid "Seleziona il tipo di ticket da inviare."
+#~ msgstr "Select the ticket type."
+
+#~ msgid ""
+#~ "Il tuo aiuto è fondamentale per rendere questa piattaforma sempre "
+#~ "migliore."
+#~ msgstr "Your help is essential to make this platform always better."
+
+#~ msgid "Apri un Ticket"
+#~ msgstr "Open a Ticket"
+
+#~ msgid "Un altro ticket risulta già inviato, attendi che venga chiuso"
+#~ msgstr "Another ticket is already sent, wait until it is closed"
+
+#~ msgid "ID ticket"
+#~ msgstr "Ticket ID"
+
+#~ msgid "Tipo ticket"
+#~ msgstr "Ticket type"
+
+#~ msgid "Domanda"
+#~ msgstr "Question"
+
+#~ msgid "Bug / Errore"
+#~ msgstr "Bug / Error"
+
+#~ msgid "Falso positivo"
+#~ msgstr "False positive"
+
+#~ msgid "Spiegazione ticket"
+#~ msgstr "Ticket explanation"
+
+#~ msgid "Username di Telegram"
+#~ msgstr "Telegram Username"
+
+#~ msgid "Non fornito"
+#~ msgstr "Not provided"
+
+#~ msgid "Data invio"
+#~ msgstr "Send date"
+
+#~ msgid "Un membro dello Staff ha visto il tuo ticket. Ecco la risposta:"
+#~ msgstr "A staff member saw your ticket. Here is the answer:"
+
+#~ msgid ""
+#~ "In questo form è possibile richiedere assistenza o segnalare problemi "
+#~ "relativi alla piattaforma"
+#~ msgstr ""
+#~ "In this form you can request assistance or report problems related to the "
+#~ "platform"
+
+#~ msgid ""
+#~ "Una volta inviata la richiesta non sarà possibile inviarne altre finché "
+#~ "la precedente non sarà visionata. Ti ringraziamo per la collaborazione."
+#~ msgstr ""
+#~ "Once the request has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. We appreciate your cooperation."
+
+#~ msgid "In attesa della risposta..."
+#~ msgstr "Waiting for the answer..."
+
+#~ msgid "Username di Telegram (Opzionale)"
+#~ msgstr "Telegram Username (Optional)"
+
+#~ msgid "Apri il ticket"
+#~ msgstr "Open a ticket"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Report a problem"
+
+#~ msgid "Informazioni sul tuo report"
+#~ msgstr "Information about your report"
+
+#~ msgid "ID report"
+#~ msgstr "Report ID"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Staff member answer:"
+
+#~ msgid "A cosa serve?"
+#~ msgstr "What is it for?"
+
+#~ msgid ""
+#~ "Inserisci il tuo Username di telegram (quello che inizia con il carattere "
+#~ "@) per permetterci di aiutarti meglio in caso di problemi"
+#~ msgstr ""
+#~ "Enter your Telegram Username (the one that starts with the @) to allow us "
+#~ "to help you better in case of particular problems"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thank you!"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Registrazione"
+#~ msgstr "Sign up"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign up"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "Clicca qui per effettuare il login"
+#~ msgstr "Click here to log-in"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Clicca qui per registrarti"
+#~ msgstr "Click here to sign up"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must log-in first before scanning files"
+
+#~ msgid "Accedi"
+#~ msgstr "Login"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Every file <b>.zip</b> added cannot exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of size"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Add your search results of ProcessHacker™ in the corresponding section. "
+#~ "More informations"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Inizia la scansione!"
+#~ msgstr "Scan now!"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service temporarly unavailable, try again later."
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan complete!"
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same file of the .txt file!"
+
+#~ msgid "Errore, upload file fallito."
+#~ msgstr "Error, file upload failed."
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Servizio non disponibile."
+#~ msgstr "Service unavailable."
+
+#~ msgid "Login necessario per effettuare scansioni."
+#~ msgstr "Login required to scan."
+
+#~ msgid "Caso imprevisto:"
+#~ msgstr "Unexpected event:"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress from"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must have .zip extension"
+
+#~ msgid "Tutti i file devono essere impostati."
+#~ msgstr "All files must be set."
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Pannello Artista"
+#~ msgstr "Artist Panel"
+
+#~ msgid "Clicca qui per segnalare il problema"
+#~ msgstr "Click here to report the problem"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

@@ -1,0 +1,21 @@
+{
+  "short_name": "FireShield",
+  "name": "FireShield Cheat Detector",
+  "icons": [
+    {
+      "src": "/CSS/Images/Manifest/logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/CSS/Images/Manifest/logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.php",
+  "background_color": "#343A40",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#343A40"
+}

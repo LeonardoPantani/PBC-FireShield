@@ -1,0 +1,519 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-23 20:33+0200\n"
+"PO-Revision-Date: 2019-04-17 02:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: scan.php:60
+msgid "Scansione"
+msgstr "Scan"
+
+#: scan.php:60
+msgid "ID scansione non valido"
+msgstr "ID d'analyse invalide"
+
+#: scan.php:67
+msgid "Esito scansione"
+msgstr "Résultat d'analyse"
+
+#: scan.php:69
+msgid "Errore"
+msgstr "Erreur"
+
+#: scan.php:71
+msgid "Pulito"
+msgstr "Propre"
+
+#: scan.php:73
+msgid "Sospetto"
+msgstr "Soupçonné"
+
+#: scan.php:75
+msgid "Cheat"
+msgstr "Triche"
+
+#: scan.php:79
+msgid "Iniziata il"
+msgstr "Commencé le"
+
+#: scan.php:81
+msgid "Durata"
+msgstr "Durée"
+
+#: scan.php:83
+msgid "Tipo"
+msgstr "Type"
+
+#: scan.php:111
+msgid "Risultato"
+msgstr "Résultat"
+
+#: scan.php:115
+msgid "Utente"
+msgstr "Utilisateur"
+
+#: scan.php:120
+msgid "Scarica log"
+msgstr "Télécharger le journal"
+
+#: scan.php:122
+msgid "Avviso"
+msgstr "Avis"
+
+#: scan.php:122
+msgid "Una controllo completo è composto da"
+msgstr "Un contrôle complet est composé de"
+
+#: scan.php:122
+msgid "scansioni separate. In questa pagina ne viene mostrata solo una"
+msgstr "scans séparés. Un seul est affiché sur cette page"
+
+#: scan.php:128
+msgid "L'ID inserito non è valido. Controlla di averlo inserito correttamente"
+msgstr "L'ID entré n'est pas valide. Vérifiez que vous l'avez entré correctement"
+
+#: scan.php:128
+msgid "Sintassi ricerca"
+msgstr "Syntaxe de recherche"
+
+#~ msgid "minuti"
+#~ msgstr "minutes"
+
+#~ msgid "minuto"
+#~ msgstr "minute"
+
+#~ msgid "e"
+#~ msgstr "and"
+
+#~ msgid "secondi"
+#~ msgstr "seconds"
+
+#~ msgid "secondo"
+#~ msgstr "second"
+
+#~ msgid "è attualmente in manutenzione, ci scusiamo per il disagio."
+#~ msgstr "is currently undergoing maintenance, we apologize for the inconvenience."
+
+#~ msgid "AVVISO"
+#~ msgstr "WARNING"
+
+#~ msgid "Il periodo di prova è terminato!"
+#~ msgstr "The trial time is over!"
+
+#~ msgid "Per effettuare scansioni è richiesto l'acquisto di una licenza."
+#~ msgstr "To start the file analysis, a license is required."
+
+#~ msgid "Clicca qui per comprarne una!"
+#~ msgstr "Click here to buy one!"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Each <b>.zip</b> file entered must not exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of weight"
+
+#~ msgid "Durata media scansione"
+#~ msgstr "Average scan duration"
+
+#~ msgid "Media delle scansioni JAVAW totali. (È un valore indicativo, una scansione può impiegare qualche secondo oppure 3/4 minuti)"
+#~ msgstr "JAVAW scan time average. (It is an approximative value, a single scan can take some seconds or 3/4 minutes)"
+
+#~ msgid "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva sezione. Maggiori informazioni"
+#~ msgstr "Enter the ProcessHacker™ search results in the respective section. More information"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "o Log Antivirus"
+#~ msgstr "or Antivirus Log"
+
+#~ msgid "Inserisci TUTTI i file per effettuare una scansione più completa ed efficace. Alcuni cheats possono essere trovati solo inserendo tutti i files"
+#~ msgstr "Enter ALL the files to perform a complete and effective scan. Some cheats can only be found by scanning all the files"
+
+#~ msgid "Esito & Download"
+#~ msgstr "Outcome & Download"
+
+#~ msgid "Annulla"
+#~ msgstr "Cancel"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Cheats Detected"
+#~ msgstr "Cheats Detected"
+
+#~ msgid "Maggiori Info"
+#~ msgstr "More Info"
+
+#~ msgid "Suspect"
+#~ msgstr "Suspect"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Nothing Found"
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error has occurred"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same name as the .txt file!"
+
+#~ msgid "Errore, upload file fallito."
+#~ msgstr "Error, file upload failed."
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Errore, file inserito non valido."
+#~ msgstr "Error, invalid file."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Login necessario per effettuare scansioni"
+#~ msgstr "Login required to scan"
+
+#~ msgid "Caso imprevisto:"
+#~ msgstr "Unexpected event:"
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan completed!"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Uploading..."
+#~ msgstr "Uploading..."
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "Scanning..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Skipped"
+#~ msgstr "Skipped"
+
+#~ msgid "Tutti i file devono pesare meno di "
+#~ msgstr "All files must be less than "
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must be .zip"
+
+#~ msgid "Seleziona almeno 1 file"
+#~ msgstr "Select at least 1 file"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service not available at the moment, please try again later."
+
+#~ msgid "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia browser per continuare"
+#~ msgstr "This site requires JavaScript to work, enable or change browser to continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php!!"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must be logged in to be able to scan"
+
+#~ msgid "Accedi"
+#~ msgstr "Log in"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign in"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress since"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Registrazione"
+#~ msgstr "Sign up"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Benvenuto"
+#~ msgstr "Welcome"
+
+#~ msgid "Clicca qui per segnalarci un problema"
+#~ msgstr "Click here to report a problem"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid "Imposta tutti i parametri."
+#~ msgstr "Set all parameters."
+
+#~ msgid "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Report a problem"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid "Un membro dello Staff ha visualizzato la tua precedente segnalazione. Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid "In questo form è possibile segnalare un problema relativo alla piattaforma FireShield. Una volta inviata la richiesta non sarà possibile inviarne altre finché la precedente non sarà visionata. Grazie per aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr "In this form you can report a problem related to the FireShield platform. Once the report has been sent, it will not be possible to send others until the previous one is viewed. Thanks for helping us make FireShield Detector better!"
+
+#~ msgid "Reports disabilitati."
+#~ msgstr "Reports disabled."
+
+#~ msgid "In attesa della risposta..."
+#~ msgstr "Waiting for an answer..."
+
+#~ msgid "Sii il più completo possibile, limite caratteri: 1000"
+#~ msgstr "Be as complete as possible, character limitation: 1000"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "Clicca qui per effettuare il login"
+#~ msgstr "Click here to log-in"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Clicca qui per registrarti"
+#~ msgstr "Click here to sign up"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo semplice e veloce."
+#~ msgstr "Explore, search and listen to all the songs on our site quickly and easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno che ti piace!"
+#~ msgstr "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni singolo evento"
+#~ msgstr "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

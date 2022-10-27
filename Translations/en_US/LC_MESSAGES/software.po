@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-09 16:50+0100\n"
+"PO-Revision-Date: 2018-12-09 16:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: software.php:33
+msgid ""
+"Perché perdere tempo con infiniti controlli quando un'applicazione può fare "
+"tutto per te?"
+msgstr ""
+"Why you should waste time with endless screenshares when a software can do "
+"everything for you?"
+
+#: software.php:33
+msgid "Presentiamo"
+msgstr "We present"
+
+#: software.php:33
+msgid "uno Screenshare Tool dalle incredibili funzionalità!"
+msgstr "a Screenshare Tool with incredible features!"
+
+#: software.php:67
+msgid "Affidabile"
+msgstr "Reliable"
+
+#: software.php:69
+msgid "Potrai trovare i cheat più famosi in modo completamente gratuito."
+msgstr "You will be able to find the most famous cheats completely free."
+
+#: software.php:81
+msgid "Semplice"
+msgstr "Easy to Use"
+
+#: software.php:83
+msgid ""
+"L'interfaccia è pulita ed intuitiva e ogni sezione presenta un pulsante di "
+"aiuto."
+msgstr "The GUI is clean and intuitive and every section has an Help area."
+
+#: software.php:95
+msgid "Veloce"
+msgstr "Fast"
+
+#: software.php:97
+msgid "Non sarai mai interrotto da inutili pubblicità e caricamenti."
+msgstr ""
+"You will never get interrupted by advertisements and useless loading screens."
+
+#: software.php:111
+msgid "Completo"
+msgstr "Complete"
+
+#: software.php:113
+msgid ""
+"Munito di tutte le funzionalità essenziali per eseguire controlli accurati."
+msgstr "Equipped with all the essential features to perform accurate checks."
+
+#: software.php:125
+msgid "Leggero"
+msgstr "Lightweight"
+
+#: software.php:127
+msgid ""
+"Abbiamo ridotto il peso del Software in modo che possa essere facilmente "
+"scaricabile da tutti."
+msgstr ""
+"We reduced the weight of our Software so everyone can download it easily."
+
+#: software.php:139
+msgid "Aggiornato"
+msgstr "Updated"
+
+#: software.php:141
+msgid ""
+"Riceverai in tempo reale le notifiche di aggiornamento tramite l'auto-"
+"updater."
+msgstr "You will receive real-time updates thanks to the auto-updater."
+
+#: software.php:149
+msgid "Clicca qui per scaricare GRATUITAMENTE il software"
+msgstr "Click here to download the software for FREE"
+
+#: software.php:149
+msgid "Il download non è al momento disponibile"
+msgstr "The download is not available at the moment"
+
+#: software.php:149
+msgid "Scarica il Software"
+msgstr "Download the Software"
+
+#~ msgid "Ciao"
+#~ msgstr "Hello"
+
+#~ msgid "Siamo così felici di rivederti!"
+#~ msgstr "We are so happy to see you again!"
+
+#~ msgid "Vai allo Scanner"
+#~ msgstr "Go to the Scanner"
+
+#~ msgid "Clicca qui per andare allo Scanner"
+#~ msgstr "Click here to go to the Scanner"
+
+#~ msgid "Stato licenza"
+#~ msgstr "License status"
+
+#~ msgid "Network"
+#~ msgstr "Network"
+
+#~ msgid "ATTIVA"
+#~ msgstr "ACTIVE"
+
+#~ msgid "NON ATTIVA"
+#~ msgstr "NOT ACTIVE"
+
+#~ msgid "ID Licenza"
+#~ msgstr "License ID"
+
+#~ msgid "ID Cliente"
+#~ msgstr "Customer ID"
+
+#~ msgid "Tipo Licenza"
+#~ msgstr "License Type"
+
+#~ msgid "Scadenza licenza"
+#~ msgstr "License expiration"
+
+#~ msgid "Mai"
+#~ msgstr "Never"
+
+#~ msgid "Scade tra"
+#~ msgstr "Will expire in"
+
+#~ msgid "giorni"
+#~ msgstr "days"
+
+#~ msgid "Licenza scaduta il"
+#~ msgstr "License expired on"
+
+#~ msgid "Scaduta da"
+#~ msgstr "License expired for"
+
+#~ msgid ""
+#~ "La licenza risulta scaduta, puoi riattivarla cliccando il pulsante "
+#~ "sottostante."
+#~ msgstr "The license is expired, renew it by clicking the button below."
+
+#~ msgid ""
+#~ "Si è verificato un errore cercando di ottenere le informazioni sulla "
+#~ "Licenza."
+#~ msgstr "An error occurred trying to get the license information."
+
+#~ msgid "Codice"
+#~ msgstr "Code"
+
+#~ msgid "Clicca qui per vedere un esempio"
+#~ msgstr "Click here to see an example"
+
+#~ msgid ""
+#~ "Clicca il pulsante 'Genera codice OTP' per creare un codice monouso da "
+#~ "utilizzare per le condivisioni schermo"
+#~ msgstr ""
+#~ "Click the 'Generate OTP Code' button to create a one-time code to be used "
+#~ "for screen shares"
+
+#~ msgid ""
+#~ "Con ogni codice si può effettuare solo una scansione e la sessione è "
+#~ "protetta"
+#~ msgstr ""
+#~ "With each code, only one scan can be performed and the session is "
+#~ "protected"
+
+#~ msgid ""
+#~ "Genera un nuovo codice OTP, se ne esiste già uno quello precedente viene "
+#~ "sovrascritto"
+#~ msgstr ""
+#~ "Generates a new OTP code, if one already exists, the previous one is "
+#~ "overwritten"
+
+#~ msgid "Genera codice OTP"
+#~ msgstr "Generate OTP code"
+
+#~ msgid "Elimina l’attuale codice OTP"
+#~ msgstr "Deletes the current OTP code"
+
+#~ msgid "Elimina codice OTP"
+#~ msgstr "Delete OTP code"
+
+#~ msgid "Verifica stato codici..."
+#~ msgstr "Checking code status..."
+
+#~ msgid "Cambio Password"
+#~ msgstr "Change Password"
+
+#~ msgid ""
+#~ "Puoi cambiare la password inserendo la vecchia password e quella nuova "
+#~ "nei campi sottostanti."
+#~ msgstr ""
+#~ "You can change your password by entering the old password and the new "
+#~ "password in the fields below."
+
+#~ msgid "Vecchia Password"
+#~ msgstr "Old Password"
+
+#~ msgid "Nuova Password"
+#~ msgstr "New Password"
+
+#~ msgid "Requisiti minimi:"
+#~ msgstr "Minimal requirements:"
+
+#~ msgid "Non deve essere vuota"
+#~ msgstr "It cannot be empty"
+
+#~ msgid "Lunghezza minima"
+#~ msgstr "Minimum length"
+
+#~ msgid "caratteri"
+#~ msgstr "characters"
+
+#~ msgid "Lunghezza massima"
+#~ msgstr "Maximum length"
+
+#~ msgid "Ripeti Nuova Password"
+#~ msgstr "Repeat New Password"
+
+#~ msgid "Aggiorna Password"
+#~ msgstr "Update Password"
+
+#~ msgid "Preferenze"
+#~ msgstr "Preferences"
+
+#~ msgid ""
+#~ "In questa sezione potrai modificare alcune impostazioni relative al tuo "
+#~ "account"
+#~ msgstr "You can modify here all the settings related to your account"
+
+#~ msgid "NewsLetter"
+#~ msgstr "NewsLetter"
+
+#~ msgid "Autorizzato"
+#~ msgstr "Permitted"
+
+#~ msgid "Non autorizzato"
+#~ msgstr "Not permitted"
+
+#~ msgid ""
+#~ "Consentici di inviarti email promozionali e di aggiornamento alla casella "
+#~ "di posta collegata al tuo account"
+#~ msgstr ""
+#~ "Allow us to send you promotional e-mails to the mailbox linked to your "
+#~ "account"
+
+#~ msgid "Lingua preferenziale"
+#~ msgstr "Favorite language"
+
+#~ msgid ""
+#~ "Seleziona la lingua che l'interfaccia deve assumere, indipendentemente "
+#~ "dall'indirizzo IP e dal luogo di residenza"
+#~ msgstr ""
+#~ "Select the Language of the GUI, instead of the automatic selection based "
+#~ "on IP address or country of residence"
+
+#~ msgid "Login Redirect"
+#~ msgstr "Login Redirect"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "HomePage"
+#~ msgstr "HomePage"
+
+#~ msgid ""
+#~ "Seleziona la pagina dove vuoi essere portato una volta effettuato il "
+#~ "login. Puoi scegliere tra Impostazioni e HomePage"
+#~ msgstr ""
+#~ "Select the webpage where you want to be redirected after a successful "
+#~ "login. You can choose between Settings and HomePage"
+
+#~ msgid "Codice 2FA"
+#~ msgstr "2FA Code"
+
+#~ msgid "Se hai smarrito il codice 2FA"
+#~ msgstr "If you have lost the 2FA code"
+
+#~ msgid "scrivici una Mail"
+#~ msgstr "write us an eMail"
+
+#~ msgid "Statistiche"
+#~ msgstr "Stats"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Queste scansioni sono relative all'intervallo"
+#~ msgstr "This scans are related to the interval"
+
+#~ msgid "Passa a visualizzazione annuale"
+#~ msgstr "Switch to annual view"
+
+#~ msgid "Passa a visualizzazione mensile"
+#~ msgstr "Switch to monthly view"
+
+#~ msgid "Non hai ancora effettuato scansioni"
+#~ msgstr "You have not scanned anything yet"
+
+#~ msgid "Le tue ultime 20 scansioni"
+#~ msgstr "Your last 20 scans"
+
+#~ msgid "ID univoco di ogni scansione"
+#~ msgstr "Unique ID for each scan"
+
+#~ msgid "ID Scansione"
+#~ msgstr "Scan ID"
+
+#~ msgid "Data di inizio scansione (giorno/mese/anno ore:minuti:secondi)"
+#~ msgstr "Start scan date (day/month/year hours:minutes:seconds)"
+
+#~ msgid "Data Scansione"
+#~ msgstr "Scan Date"
+
+#~ msgid "Durata scansione (ore:minuti:secondi)"
+#~ msgstr "Scan duration (hours:minutes:seconds)"
+
+#~ msgid "Durata Scansione"
+#~ msgstr "Scan Duration"
+
+#~ msgid "Esito della scansione"
+#~ msgstr "Scan Result"
+
+#~ msgid "Esito Scansione"
+#~ msgstr "Scan Result"
+
+#~ msgid "Scansioni mensili"
+#~ msgstr "Monthly Scans"
+
+#~ msgid "Effettuate da te questo mese"
+#~ msgstr "Made by you this month"
+
+#~ msgid "Giorno"
+#~ msgstr "Day"
+
+#~ msgid "Scansioni"
+#~ msgstr "Scans"
+
+#~ msgid " scansione(i)"
+#~ msgstr " scan(s)"
+
+#~ msgid "Oggi"
+#~ msgstr "Today"
+
+#~ msgid "Scansioni annuali"
+#~ msgstr "Yearly scans"
+
+#~ msgid "Effettuate da te quest'anno"
+#~ msgstr "Made by you this year"
+
+#~ msgid "Mese"
+#~ msgstr "Month"
+
+#~ msgid "Ottenendo informazioni... Attendere."
+#~ msgstr "Getting informations… Please wait."
+
+#~ msgid "Errore: Lettura dati fallita."
+#~ msgstr "Error: Reading data failed."
+
+#~ msgid "Errore: Dati non validi."
+#~ msgstr "Error: Invalid data."
+
+#~ msgid "Niente da mostrare."
+#~ msgstr "Nothing to show."
+
+#~ msgid "Errore: Grafico non supportato."
+#~ msgstr "Error: Graph not supported."
+
+#~ msgid "Caricamento grafico, attendere..."
+#~ msgstr "Loading graph, please wait..."
+
+#~ msgid "Errore: Impossibile generare grafico."
+#~ msgstr "Error: Unable to create graph."
+
+#~ msgid "Errore"
+#~ msgstr "Error"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Sconosciuto"
+#~ msgstr "Unknown"
+
+#~ msgid "Nessun codice OTP generato"
+#~ msgstr "No OTP code generated"
+
+#~ msgid "Errore interno: Esecuzione script fallita"
+#~ msgstr "Internal error: Script execution failed"
+
+#~ msgid "CODICE OTP"
+#~ msgstr "OTP CODE"
+
+#~ msgid "Preferenze salvate"
+#~ msgstr "Preferences updated"
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error has occurred"
+
+#~ msgid "Errore interno: Parametri insufficienti"
+#~ msgstr "Internal error: Script execution failed"
+
+#~ msgid "Errore interno: Tipo non valido"
+#~ msgstr "Error: Invalid data"
+
+#~ msgid "Caso imprevisto"
+#~ msgstr "Unexpected case"
+
+#~ msgid "Clicca per aggiornare la pagina con la nuova lingua"
+#~ msgstr "Click to update this page with the new selected language"
+
+#~ msgid "Attendi"
+#~ msgstr "Please Wait"
+
+#~ msgid "Password cambiata!"
+#~ msgstr "Password changed!"
+
+#~ msgid "Non è stato possibile cambiare la password"
+#~ msgstr "An error occured while trying to change the password"
+
+#~ msgid "Compila tutti i campi"
+#~ msgstr "Set all fields"
+
+#~ msgid "Le password non devono essere vuote"
+#~ msgstr "Passwords cannot be empty"
+
+#~ msgid "Le nuove password devono corrispondere"
+#~ msgstr "The new passwords must match"
+
+#~ msgid "La vecchia password non corrisponde"
+#~ msgstr "The old password does not match"
+
+#~ msgid "La password vecchia e la nuova corrispondono"
+#~ msgstr "The old password and the new one match"
+
+#~ msgid "ID Utente non valido"
+#~ msgstr "Invalid User ID"
+
+#~ msgid "Le password devono avere una lunghezza tra i"
+#~ msgstr "Passwords must have a length between"
+
+#~ msgid "ed i"
+#~ msgstr "and"
+
+#~ msgid " caratteri"
+#~ msgstr " characters"
+
+#~ msgid "Le password non corrispondono"
+#~ msgstr "Passwords do not match"
+
+#~ msgid "Codice OTP generato!"
+#~ msgstr "OTP code generated!"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Leader Sito Web e Sviluppatore Web"
+#~ msgstr "Website Leader and Web Developer"
+
+#~ msgid "Leader Progetto e Sviluppatore Software"
+#~ msgstr "Project Leader and Software Developer"
+
+#~ msgid "Bot Manager"
+#~ msgstr "Bot Manager"
+
+#~ msgid "Aiuto-Sviluppatore"
+#~ msgstr "Help-Developer"
+
+#~ msgid "Grazie a tutti coloro che hanno contribuito alla realizzazione del"
+#~ msgstr "Thanks to all those who contributed to the realization of the"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid "Accesso fallito (401)"
+#~ msgstr "Zugriff fehlgeschlagen (401)"
+
+#~ msgid "Il server ti ha impedito di accedere a questa risorsa."
+#~ msgstr ""
+#~ "Der Server hat Sie daran gehindert, auf diese Ressource zuzugreifen."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta."
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet."
+
+#~ msgid "La pagina che stavi cercando non esiste o è stata rimossa."
+#~ msgstr "Die von Ihnen gesuchte Seite existiert nicht oder wurde entfernt."
+
+#~ msgid ""
+#~ "Il metodo specificato nella linea di richiesta non autorizzato per la "
+#~ "risorsa specificata."
+#~ msgstr ""
+#~ "Die in der nicht autorisierten Anforderungszeile für die angegebene "
+#~ "Ressource angegebene Methode."
+
+#~ msgid ""
+#~ "Il browser ha fallito l'invio della richiesta nel tempo autorizzato dal "
+#~ "server."
+#~ msgstr ""
+#~ "Der Browser konnte die Anfrage nicht innerhalb der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid ""
+#~ "La richiesta è fallita a causa di una condizione inaspettata incontrata "
+#~ "dal server."
+#~ msgstr ""
+#~ "Die Anforderung ist aufgrund einer unerwarteten Bedingung beim Server "
+#~ "fehlgeschlagen."
+
+#~ msgid ""
+#~ "Il server ha ricevuto una risposta non valida dal server di upstream "
+#~ "mentre cercava di rispondere alla tua richiesta"
+#~ msgstr ""
+#~ "Der Server hat vom Upstream-Server eine ungültige Antwort erhalten, als "
+#~ "er versucht hat, auf Ihre Anfrage zu antworten"
+
+#~ msgid ""
+#~ "Il server di upstream ha fallito l'invio della richiesta nel tempo "
+#~ "autorizzato dal server."
+#~ msgstr ""
+#~ "Der Upstream-Server konnte die Anforderung nicht in der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta. (!)"
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet. (!)"
+
+#~ msgid ""
+#~ "Puoi tornare alla Homepage ora. Se pensi che questo sia un errore, "
+#~ "inviaci una mail cliccando il tasto sottostante, grazie!"
+#~ msgstr ""
+#~ "Sie können jetzt zur Homepage zurückkehren. Wenn Sie denken, dass dies "
+#~ "ein Fehler ist, senden Sie uns eine E-Mail durch Klicken auf die "
+#~ "Schaltfläche unten, danke!"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Melde ein Problem"
+
+#~ msgid "(Non ci sono manutenzioni previste)"
+#~ msgstr "(Es gibt keine geplante Wartung)"
+
+#~ msgid "(Inserire un url con stato pagina corretto)"
+#~ msgstr "(Geben Sie eine URL mit dem korrekten Seitenstatus ein)"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must be logged in to be able to scan"
+
+#~ msgid "Accedi"
+#~ msgstr "Log in"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign in"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Each <b>.zip</b> file entered must not exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of weight"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Enter the ProcessHacker™ search results in the respective section. More "
+#~ "information"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service not available at the moment, please try again later."
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan completed!"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same name as the .txt file!"
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress since"
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must be .zip"
+
+#~ msgid "Tutti i file devono essere impostati"
+#~ msgstr "All files must be set up"
+
+#~ msgid "FireShield Cheat Detector"
+#~ msgstr "FireShield Cheat Detector"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Registrazione"
+#~ msgstr "Sign up"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Benvenuto"
+#~ msgstr "Welcome"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid ""
+#~ "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid ""
+#~ "Un membro dello Staff ha visualizzato la tua precedente segnalazione. "
+#~ "Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid ""
+#~ "In questo form è possibile segnalare un problema relativo alla "
+#~ "piattaforma FireShield. Una volta inviata la richiesta non sarà possibile "
+#~ "inviarne altre finché la precedente non sarà visionata. Grazie per "
+#~ "aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr ""
+#~ "In this form you can report a problem related to the FireShield platform. "
+#~ "Once the report has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. Thanks for helping us make FireShield "
+#~ "Detector better!"
+
+#~ msgid "Reports disabilitati."
+#~ msgstr "Reports disabled."
+
+#~ msgid "In attesa della risposta..."
+#~ msgstr "Waiting for an answer..."
+
+#~ msgid "Sii il più completo possibile, limite caratteri: 1000"
+#~ msgstr "Be as complete as possible, character limitation: 1000"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Clicca qui per registrarti"
+#~ msgstr "Click here to sign up"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

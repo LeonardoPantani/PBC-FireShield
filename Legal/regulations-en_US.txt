@@ -1,0 +1,74 @@
+The FireShield Cheat Detector (hereafter called "FCSD" by convention) is a platform for scanning on-line files for fast and reliable execution of Minecraft© anti-cheating checks.
+
+The services provided by FCSD are available on www.fireshield.it and are hosted by FireShield.
+
+FCSD does not act as a provider of access to the Internet or as an electronic public communication service.
+
+These Terms of Service govern the use of the FSCD Services. By using the FSCD Services, regardless of whether or not you request a registration, you agree to be bound by these Terms.
+
+<i>Please read them carefully.</i>
+
+<b>These Terms of Service were updated on August 15, 2019.</b>
+<hr>
+<b>User Name / Nickname</b>
+
+Please respect FCSD, Content owners and other users of the FCSD Service. Do not engage in activities, publish User Content or register and / or use a user name that is or includes material:
+<b>1. </b>Offensive, denigrating, defamatory, pornographic, threatening or obscene;
+<b>2. </b>Illegal or designed to promote or commit illegal acts of any kind, including without limitation the violation of intellectual property rights, privacy rights or exclusive rights of the FCSD or third parties;
+<b>3. </b>Purposely containing your password, the password of another user or personal data of third parties, or designed to solicit the granting of such personal data;
+<b>4. </b>Malicious like malware, Trojans (Trojan horses) or viruses, or otherwise able to interfere with user access to the Service;
+<b>5. </b>Conceived or capable of causing disturbance or harassment to other users;
+<b>6. </b>Able to fake or misrepresent your affiliation with other users, persons or entities, or otherwise fraudulent, false, deceptive or misleading;
+<b>7. </b>That makes use of automated means to artificially promote a content;
+<b>8. </b>That involves the transmission of unsolicited bulk messages or other forms of spam, junk mail, message chains or the like through the FCSD in-box;
+<b>9. </b>Whether you engage in commercial or sales activities, such as advertising, promotions, contests, lotteries or pyramid schemes, that are not expressly authorized by FCSD;
+<b>10. </b>As a colleague, please refer or otherwise promote commercial products or services, unless expressly authorized by FCSD;
+<b>11. </b>Capable of interfering with or disrupting the FCSD Service in any way, tampering with, violating or attempting to probe, investigate, or test vulnerability the Service or computer systems or the FCSD network, the rules of use or any other security component, authentication measure or other security measure of the FCSD applicable to Service, Content or any part thereof;
+<b>12. </b>That causes conflicts with the Agreements, as established by FCSD.
+
+<b>Purchases</b>
+Through payments using the PayPal © system the user will provide all data such as Name, Surname, residential address, date of birth, Email address and other information to uniquely identify the payment. They will not be provided in any way to third parties. All payments made are to be considered final and for this reason no refunds will be provided under any circumstances.
+
+<b>Client Recognition Strings</b>
+The tampering of the client recognition system is prohibited in any way to prevent the FSCD Service from functioning properly.
+
+<b>User's File Keeping</b>
+Files sent for anti-cheating scans will be automatically saved by the FSCD platform to enable us to provide optimal service to our users. For example, we could use these files to detect even more clients, or even to eliminate any false positives.
+
+<b>Account Sharing</b>
+It is strictly forbidden to share the license with anyone else. Improper use of the Service may result in cancellation of your license. FSCD reserves the right to revoke the user's rights to access certain resources. It is forbidden to provide access to one's own account to other users who do not have their own license to allow them to perform tests and/or scans.
+
+<b>Limitation of liability</b>
+FSCD will not be liable for any direct, indirect, incidental, special or consequential damages, made by the users, which will be responsible for them.
+
+<b>Copyright & Trademarks</b>
+The name, logo and trademarks are under the copyright protection of the site. They are not reproducible and can not be counterfeited or modified without FSCD authorization.
+
+<b>Licenses</b>
+A FireShield license is required to use the scanning service. The single license is intended for a single user while the network license can be assigned to several users at a time. The single license can be purchased only and exclusively through the PayPal© payment system and is available in a Monthly version lasting 30 (thirty) days and a Permanent version. The duration and constraints of network licenses are decided by FireShield staff members in agreement with the network owner.
+
+<B>Privacy</b>
+We will collect personal data such as Nickname, Email addresses and IP address for security reasons and for the proper functioning of the Service. They will not be provided in any way to third parties.
+
+<b>The following is not allowed for any reason:</b>
+
+<b>1. </b> Copy, redistribute, reproduce, "extract", record, transfer, perform or display in public, transmit or make available to the public any part of the FSCD Service or the Content, or alternatively make any use of the FSCD Service or of the Content that is not expressly permitted under the Agreement or under applicable law, or which otherwise violates the intellectual property rights (such as copyrights) of FSCD Service, Content or any part thereof;
+<b>2. </b> Use the FSCD Service to import or copy local files for which you do not have the legal rights to do so in this way;
+<b>3. </b> Transfer copies of Content in the cache from a Device authorized to any other Device by any means;
+<b>4. </b> You may not copy, modify, distribute, sell or lease portions of our services, or reverse engineer or attempt to extract the source code from such software, unless the law prohibits such restrictions or in cases where have our written authorization.
+<b>5. </b> Sell, rent, subcontract or lease any part of the FSCD Service or the Content;
+<b>6. </b> To circumvent any territorial restrictions applied by FSCD;
+<b>7. </b> Manipulate services in any other way by scripts or other automated processes;
+<b>8. </b> Remove or modify copyright, registered trademarks or other intellectual property indications contained in or provided through the FSCD Service (including for the purpose of concealing or modifying any proprietary or proven indications of any Content);
+<b>9. </b> Provide your password to other people, or use other people's user name and password;
+<b>10. </b> Run "crawling" within the FSCD Service, or use other automated means (including bots, scraper and spiders) to gather information from FSCD;
+
+<b>Violation and reporting of user content</b>
+FireShield respects the rights of intellectual property owners. If you believe that a Content violates your intellectual property rights or other rights, please consult the FSCD copyright policy. If it is informed by a copyright holder of a copyright infringement by a Content, FSCD may intervene in its sole discretion without prior communication to the provider of such Content. If you believe that the content in question does not cause any violation, the supplier may file a counter-notification to FSCD with a request to restore the removed content.
+
+<b>Changes to this regulation</b>
+FSCD takes all the power to change the aforementioned "Terms & Conditions" at any time and any changes will take effect immediately upon updating this page. Continued use of the site by the user implies acceptance of any revision of the terms and conditions of this agreement. FSCD reserves the right to modify the regulations at its own discretion.
+
+
+For information or concerns about privacy conditions, please contact info@fireshield.it
+For children under the age of 13 it is forbidden to register without the authorization of a parent or guardian, according to the Children's Privacy Act.

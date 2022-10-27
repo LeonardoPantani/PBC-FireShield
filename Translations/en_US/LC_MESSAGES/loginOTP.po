@@ -1,0 +1,491 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-25 15:36+0100\n"
+"PO-Revision-Date: 2019-02-25 15:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: loginOTP.php:36
+msgid "Si è verificato un errore"
+msgstr "An error has occured"
+
+#: loginOTP.php:38 loginOTP.php:75
+msgid "Login OTP disabilitati."
+msgstr "OTP login disabled."
+
+#: loginOTP.php:38
+msgid "Imposta tutti i parametri."
+msgstr "Set all parameters."
+
+#: loginOTP.php:38
+msgid "Codice OTP non valido."
+msgstr "Invalid OTP code."
+
+#: loginOTP.php:38
+msgid "Errore token, impossibile continuare."
+msgstr "Token error, cannot continue."
+
+#: loginOTP.php:38
+msgid "Errore cercando di impostare la sessione."
+msgstr "An error occured while trying to set session."
+
+#: loginOTP.php:38
+msgid "Questo account è disabilitato."
+msgstr "This account is disabled."
+
+#: loginOTP.php:38
+msgid "Contatta lo staff per maggiori informazioni"
+msgstr "Contact the staff for more information"
+
+#: loginOTP.php:38
+msgid "L'account principale non ha l'autenticazione a 2 fattori abilitata."
+msgstr "The primary account does not have the 2-factor authentication enabled."
+
+#: loginOTP.php:50
+msgid "Login"
+msgstr "Login"
+
+#: loginOTP.php:52
+msgid "Benvenuto nel login OTP del"
+msgstr "Welcome to the OTP log-in of the"
+
+#: loginOTP.php:54
+msgid ""
+"Se sei un utente aspetta che il membro dello staff inserisca qui il suo "
+"codice OTP (One Time Password)"
+msgstr ""
+"If you are a user, wait for the staff member to enter his OTP (One Time "
+"Password) code here"
+
+#: loginOTP.php:56
+msgid "Se sei un membro dello staff inserisci il codice OTP fornito da"
+msgstr "If you are a staff member enter the OTP code provided by"
+
+#: loginOTP.php:56
+msgid "questa pagina"
+msgstr "this page"
+
+#: loginOTP.php:56
+msgid "per continuare"
+msgstr "to continue"
+
+#: loginOTP.php:66
+msgid "Codice OTP (One time password)"
+msgstr "OTP Code (One time password)"
+
+#: loginOTP.php:69
+msgid "Cosa devo fare qui?"
+msgstr "What should I do here?"
+
+#: loginOTP.php:69
+msgid ""
+"Inserisci il codice monouso creato dalla relativa sezione nella pagina "
+"Impostazioni"
+msgstr ""
+"Enter the disposable code created by the related section on the Settings page"
+
+#: loginOTP.php:75
+msgid "Effettua il Login sicuro"
+msgstr "Secure Login"
+
+#: loginOTP.php:92
+msgid "Caricamento"
+msgstr "Loading"
+
+#~ msgid ""
+#~ "Questo account è disabilitato. Se fai parte di un Network è necessario "
+#~ "attendere che questo profilo sia approvato."
+#~ msgstr ""
+#~ "This account is disabled. If you are part of a Network, you must wait for "
+#~ "this profile to be approved."
+
+#~ msgid ""
+#~ "Il codice OTP è il metodo più sicuro per accedere a FireShield senza "
+#~ "lasciare tracce sul PC dell'ospite"
+#~ msgstr ""
+#~ "The OTP code is the safest method to access FireShield without leaving a "
+#~ "trace on the host PC"
+
+#~ msgid "Grazie per star utilizzando il"
+#~ msgstr "Thanks for using the"
+
+#~ msgid ""
+#~ "Questo account è in attesa di approvazione, sei pregato di attendere."
+#~ msgstr "This account is in waiting for approval, please wait."
+
+#~ msgid "Per accedere è necessario acquistare la versione completa del"
+#~ msgstr "To log-in you must have purchased the complete version of the"
+
+#~ msgid "Compra una licenza"
+#~ msgstr "Buy a license"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Username errato."
+#~ msgstr "Wrong Username."
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Login richiesto per accedere a questa zona."
+#~ msgstr "Login required to access this area."
+
+#~ msgid "Login richiesto per effettuare scansioni."
+#~ msgstr "Login required to scan."
+
+#~ msgid "Codice 2FA richiesto per il login."
+#~ msgstr "2FA Code required to log-in."
+
+#~ msgid "Verifica codice 2FA fallita."
+#~ msgstr "Verification of the 2FA Code failed."
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Codice Segreto 2FA (Ometti se primo login)"
+#~ msgstr "2FA Secret Code (Omit if it's your first login)"
+
+#~ msgid "Mandaci una mail a questo indirizzo"
+#~ msgstr "Send us a mail to this address"
+
+#~ msgid "Password dimenticata?"
+#~ msgstr "Forgot password?"
+
+#~ msgid "Clicca qui!"
+#~ msgstr "Click here!"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid "Sei nuovo? Registrati adesso al pannello FireShield"
+#~ msgstr "Are you new here? Register now to the FireShield panel"
+
+#~ msgid "Clicca qui per registrarti"
+#~ msgstr "Click here to sign up"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must log-in first before scanning files"
+
+#~ msgid "Accedi"
+#~ msgstr "Login"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign up"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Every file <b>.zip</b> added cannot exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of size"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Add your search results of ProcessHacker™ in the corresponding section. "
+#~ "More informations"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to tutorial"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Inizia la scansione!"
+#~ msgstr "Scan now!"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service temporarly unavailable, try again later."
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan complete!"
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same file of the .txt file!"
+
+#~ msgid "Errore, upload file fallito."
+#~ msgstr "Error, file upload failed."
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Errore, estensione non valida."
+#~ msgstr "Error, wrong extension."
+
+#~ msgid "Servizio non disponibile."
+#~ msgstr "Service unavailable."
+
+#~ msgid "Caso imprevisto:"
+#~ msgstr "Unexpected event:"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress from"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must have .zip extension"
+
+#~ msgid "Tutti i file devono essere impostati."
+#~ msgstr "All files must be set."
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Pannello Artista"
+#~ msgstr "Artist Panel"
+
+#~ msgid "Clicca qui per segnalare il problema"
+#~ msgstr "Click here to report the problem"
+
+#~ msgid "Clicca qui per effettuare il logout"
+#~ msgstr "Click here to logout"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Invia Messaggio"
+#~ msgstr "Send Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

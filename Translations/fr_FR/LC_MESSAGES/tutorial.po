@@ -1,0 +1,717 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-17 14:44+0200\n"
+"PO-Revision-Date: 2019-04-19 16:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tutorial.php:26
+#, php-format
+msgid "Tutorial del %s"
+msgstr "%s Tutoriel"
+
+#: tutorial.php:28
+#, php-format
+msgid ""
+"Se preferisci, abbiamo pubblicato un video che spiega come utilizzare lo "
+"Scanner: %sclicca qui per vederlo%s."
+msgstr ""
+"Si vous préférez, nous avons publié une vidéo expliquant comment utiliser le "
+"scanner: %sCliquez ici pour la voir%s."
+
+#: tutorial.php:36
+#, php-format
+msgid ""
+"%sPasso 1:%s Scarica Process Hacker da %squesto link%s o premi il pulsante "
+"'Process Hacker' nel %s Software."
+msgstr ""
+"%sÉtape 1:%s Télécharger Process Hacker à partir de %sce lien%s ou appuyez "
+"sur le bouton 'Process Hacker' dans le %s Logiciel."
+
+#: tutorial.php:42
+#, php-format
+msgid ""
+"%sPasso 2:%s Per trovare i cheat più sofisticati è necessario l'utilizzo di "
+"4 processi: Javaw.exe, Dwm.exe, MsMpEng.exe (o log Antivirus) e lsass.exe."
+"<br><br>Mostreremo come ottenere le stringhe da uno solo di questi processi."
+"<br><br>In questo caso abbiamo scelto il processo Javaw.exe."
+msgstr ""
+"%sÉtape 2:%s Pour trouver les astuces les plus sophistiquées, vous devrez "
+"utiliser 4 processus: Javaw.exe, Dwm.exe, MsMpEng.exe (ou journal antivirus) "
+"et lsass.exe.<br><br>Nous montrerons comment obtenir des strings d'un seul "
+"de ces processus.<br><br>Dans ce tutoriel, nous avons choisi le processus "
+"Javaw.exe."
+
+#: tutorial.php:54
+#, php-format
+msgid ""
+"%sPasso 3:%s Click destro e poi 'Proprietà' oppure clicca sul processo e poi "
+"premi Invio; leva la spunta da 'nascondi regioni vuote', clicca su "
+"'Strings', scrivi 4 e spunta 'image' e 'mapped' e premi 'Ok'."
+msgstr ""
+"%sÉtape 3:%s Cliquez avec le bouton droit de la souris sur 'Propriétés' ou "
+"cliquez sur le processus, puis appuyez sur Entrée. cochez la case 'masquer "
+"les régions vides', cliquez sur 'Strings', tapez 4 et cochez 'image' et "
+"'mappé' et appuyez sur 'OK'."
+
+#: tutorial.php:60
+#, php-format
+msgid ""
+"%sPasso 4:%s Ora clicca su 'Salva...' per salvare i risultati della ricerca."
+"<br><br>ATTENZIONE: Potrebbe volerci un po' di tempo in base alle "
+"prestazioni del computer dell'utente."
+msgstr ""
+"%sÉtape 4:%s Maintenant, cliquez sur \"Enregistrer ...\" pour enregistrer "
+"les résultats de la recherche.<br><br>AVERTISSEMENT: Cela peut prendre un "
+"certain temps en fonction des performances de l'ordinateur de l'utilisateur."
+
+#: tutorial.php:72
+#, php-format
+msgid ""
+"%sPasso 5:%s Scegli una cartella dove vuoi salvare il file contenente le "
+"stringhe estratte da Process Hacker e poi premi 'Salva'."
+msgstr ""
+"%sÉtape 5:%s Choisissez un dossier dans lequel vous souhaitez enregistrer le "
+"fichier contenant les Strings extraites de Process Hacker, puis appuyez sur "
+"'Enregistrer'."
+
+#: tutorial.php:78
+#, php-format
+msgid ""
+"%sPasso 6:%s Se desideri una velocità di upload migliore, puoi comprimere il "
+"file utilizzando il %s Software. Altrimenti premi il tasto destro del mouse "
+"sul file .txt e comprimilo.<br><br>Si possono anche utilizzare altri "
+"strumenti di compressione come 7Zip o WinRar, basta che l'estensione del "
+"file sia .zip."
+msgstr ""
+"%sÉtape 6:%s Si vous voulez une meilleure vitesse de téléchargement, vous "
+"pouvez compresser le fichier en utilisant le %s Logiciel. Sinon, appuyez sur "
+"le bouton droit de la souris sur le fichier .txt et compressez-le.."
+"<br><br>Vous pouvez également utiliser d'autres outils de compression tels "
+"que 7Zip ou WinRar, à condition que l'extension de fichier soit .zip."
+
+#: tutorial.php:90
+#, php-format
+msgid ""
+"%sPasso 7:%s Ripeti questi passi per gli altri processi (opzionale)."
+"<br>Adesso passa allo Scanner e clicca su 'Inserisci *nomeprocesso*' per "
+"caricare i risultati di ricerca di Process Hacker.<br>Minimo: 1 file, "
+"Massimo: 4 file.<br><br>Consigliamo di caricare tutti e 4 i file per avere "
+"una scansione più accurata e completa, ma puoi anche caricare i 4 file "
+"separatamente."
+msgstr ""
+"%sÉtape 7:%s Répétez ces étapes pour d’autres processus (facultatif)."
+"<br>Maintenant, allez dans le scanner et cliquez sur 'Entrer * nomprocessus "
+"*' pour charger les résultats de la recherche Process Hacker.<br>Minimum: 1 "
+"fichier, Maximum: 4 fichiers.<br><br>Nous vous recommandons de télécharger "
+"les 4 fichiers pour une analyse plus précise et complète, mais vous pouvez "
+"également télécharger les 4 fichiers séparément."
+
+#: tutorial.php:96
+#, php-format
+msgid ""
+"%sPasso finale:%s Clicca su 'Inizia la scansione' e aspetta che lo scanner "
+"completi la scansione. La durata approssimativa per ogni file è visibile "
+"passando il mouse sopra l'icona 'i' di ogni processo."
+msgstr ""
+"%sDernière étape:%s Cliquez sur 'Démarrer l'analyse' et attendez que le "
+"scanner termine l'analyse. La durée approximative de chaque fichier est "
+"visible en plaçant le curseur de la souris sur l'icône 'i' de chaque "
+"processus."
+
+#: tutorial.php:105
+msgid ""
+"Se il giocatore non sta facendo uso di cheats, tutti e 4 i risultati "
+"mostreranno 'Pulito'."
+msgstr ""
+"Si le joueur n'utilise pas de codes de triche, les 4 résultats afficheront "
+"'Propre'."
+
+#: tutorial.php:108
+msgid ""
+"Altrimenti lo Scanner ti informerà con un avviso di colore rosso (Cheat) o "
+"giallo (Sospetto Cheat)."
+msgstr ""
+"Sinon, le scanner vous informera par une alerte rouge (triche) ou jaune "
+"(triche suspectée)."
+
+#: tutorial.php:122
+#, php-format
+msgid "Grazie per aver scelto %s%s%s"
+msgstr "Merci d'avoir choisi %s%s%s"
+
+#~ msgid "Licenze %s"
+#~ msgstr "%s Licenses"
+
+#~ msgid ""
+#~ "Acquistare una qualsiasi licenza garantirà l'accesso al servizio di "
+#~ "scansioni. La licenza singola darà accesso ad una singola persona, la "
+#~ "licenza network darà accesso ad un numero illimitato di membri dello "
+#~ "staff del tuo network."
+#~ msgstr ""
+#~ "Purchasing any license will give you access to the scanner service. The "
+#~ "single license will give access to a single user, the network license "
+#~ "will give access to an unlimited number of staff members of your network."
+
+#~ msgid "Effettuando l'acquisto accetterai automaticamente i nostri"
+#~ msgstr "By making the purchase you will automatically accept ours"
+
+#~ msgid "Termini di Servizio"
+#~ msgstr "Terms of Service"
+
+#~ msgid "Licenze Singole"
+#~ msgstr "Single Licenses"
+
+#~ msgid "Durata licenza"
+#~ msgstr "License duration"
+
+#~ msgid "Mensile"
+#~ msgstr "Monthly"
+
+#~ msgid "Permanente"
+#~ msgstr "Permanent"
+
+#~ msgid "Scegli uno Username"
+#~ msgstr "Choose a Username"
+
+#~ msgid "Licenze Network"
+#~ msgstr "Network Licenses"
+
+#~ msgid ""
+#~ "Se sei il proprietario di un Network?%s Vogliamo metterci in contatto con "
+#~ "te per poterti offrire uno sconto sulla licenza per ogni tuo membro dello "
+#~ "Staff!%s %sContattaci%s"
+#~ msgstr ""
+#~ "Are you a Network owner?%s We want to get in touch with you in order to "
+#~ "offer you a discount on the license for each of your Staff members!%s "
+#~ "%sContact us%s"
+
+#~ msgid "Visualizzazione opzioni di pagamento di DEBUG"
+#~ msgstr "Showing DEBUGGING payment options"
+
+#~ msgid "Pagamenti in manutenzione"
+#~ msgstr "Payments system under maintenance"
+
+#~ msgid ""
+#~ "Attualmente il sistema di licenze è in fase di manutenzione, pertanto non "
+#~ "è possibile fare acquisti mentre lo staff indaga sul problema. Ci "
+#~ "scusiamo per il disagio."
+#~ msgstr ""
+#~ "Currently the licensing system is undergoing maintenance, so it is not "
+#~ "possible to make purchases while the staff investigates the problem. We "
+#~ "apologize for the inconvenience."
+
+#~ msgid "L′Username deve avere una lunghezza tra i"
+#~ msgstr "The Username must have a length between"
+
+#~ msgid "ed i"
+#~ msgstr "and"
+
+#~ msgid " caratteri"
+#~ msgstr " characters"
+
+#~ msgid "L′Username contiene caratteri non validi"
+#~ msgstr "The Username contains invalid characters"
+
+#~ msgid "Tutti i campi sono corretti. Clicca di nuovo per CONFERMARE"
+#~ msgstr "All fields are correct. Click again to CONFIRM"
+
+#~ msgid "Scegli un altro Username"
+#~ msgstr "Choose another Username"
+
+#~ msgid "Inserisci uno Username"
+#~ msgstr "Enter a Username"
+
+#~ msgid "Caso imprevisto"
+#~ msgstr "Unexpected event"
+
+#~ msgid "Questo Username è già in uso"
+#~ msgstr "This Username is already in use"
+
+#~ msgid "Se vuoi avere maggiori informazioni puoi scriverci a"
+#~ msgstr "If you'd like to get more informations send us a mail by clicking"
+
+#~ msgid "questa mail"
+#~ msgstr "here"
+
+#~ msgid "Rispondiamo in Italiano e Inglese"
+#~ msgstr "We answer in Italian and English"
+
+#~ msgid "Scegli un Nome Network"
+#~ msgstr "Choose a Network Name"
+
+#~ msgid "Il Nome Network deve avere una lunghezza tra i"
+#~ msgstr "The Network Name must have a length between"
+
+#~ msgid "Il Nome Network contiene caratteri non validi"
+#~ msgstr "The Network Name contains invalid characters"
+
+#~ msgid "Scegli un altro Nome Network"
+#~ msgstr "Choose another Network Name"
+
+#~ msgid "Inserisci un Nome Network"
+#~ msgstr "Enter a Network Name"
+
+#~ msgid "Questo Nome Network è già in uso."
+#~ msgstr "This Network Name is already in use."
+
+#~ msgid ""
+#~ "Questo Username è già in uso. (Le licenze Network non si possono "
+#~ "rinnovare)"
+#~ msgstr ""
+#~ "This Username is already in use. (Network licenses can not be renewed)"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find the config file!!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable it or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you don't know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid ""
+#~ "Username già in uso. Clicca di nuovo per confermare il RINNOVO della "
+#~ "licenza per"
+#~ msgstr ""
+#~ "Username already in use. Click again to confirm the RENEWAL of the "
+#~ "license for"
+
+#~ msgid "Clicca per visualizzare i Termini di Servizio"
+#~ msgstr "Click to view the Terms of Service"
+
+#~ msgid "Clicca qui per cambiare lingua"
+#~ msgstr "Click here to change language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Spagnolo"
+#~ msgstr "Spanish"
+
+#~ msgid "Portoghese"
+#~ msgstr "Portuguese"
+
+#~ msgid "Francese"
+#~ msgstr "French"
+
+#~ msgid "Tedesco"
+#~ msgstr "German"
+
+#~ msgid "Clicca qui per andare alla Homepage"
+#~ msgstr "Click here to go to the Homepage"
+
+#~ msgid "Novità"
+#~ msgstr "News"
+
+#~ msgid "Login"
+#~ msgstr "Log in"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Gestione del Network"
+#~ msgstr "Network Management"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Impostazioni & Stato Licenza"
+#~ msgstr "Settings & License Status"
+
+#~ msgid "Benvenuto"
+#~ msgstr "Welcome"
+
+#~ msgid "Questa è la versione attuale del"
+#~ msgstr "This is the current version of the"
+
+#~ msgid "Clicca qui per segnalarci un problema"
+#~ msgstr "Click here to report a problem"
+
+#~ msgid "Clicca qui per vedere chi sta sviluppando"
+#~ msgstr "Click here to see who is developing the"
+
+#~ msgid "FireShield Cheat Detector"
+#~ msgstr "FireShield Cheat Detector"
+
+#~ msgid "Registrazione"
+#~ msgstr "Sign in"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must log-in first before scanning files"
+
+#~ msgid "Accedi"
+#~ msgstr "Login"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign up"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Every file <b>.zip</b> added cannot exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of size"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Add your search results of ProcessHacker™ in the corresponding section. "
+#~ "More informations"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Inizia la scansione!"
+#~ msgstr "Scan now!"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service temporarly unavailable, try again later."
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan complete!"
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error occured"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same file of the .txt file!"
+
+#~ msgid "Errore, upload file fallito."
+#~ msgstr "Error, file upload failed."
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Errore, estensione non valida."
+#~ msgstr "Error, wrong file extension."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service unavailable"
+
+#~ msgid "Login necessario per effettuare scansioni"
+#~ msgstr "Login required to scan"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress from"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must have .zip extension"
+
+#~ msgid "Tutti i file devono essere impostati"
+#~ msgstr "All files must be set"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid "Imposta tutti i parametri."
+#~ msgstr "Set all parameters."
+
+#~ msgid ""
+#~ "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Report a problem"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid ""
+#~ "Un membro dello Staff ha visualizzato la tua precedente segnalazione. "
+#~ "Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid ""
+#~ "In questo form è possibile segnalare un problema relativo alla "
+#~ "piattaforma FireShield. Una volta inviata la richiesta non sarà possibile "
+#~ "inviarne altre finché la precedente non sarà visionata. Grazie per "
+#~ "aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr ""
+#~ "In this form you can report a problem related to the FireShield platform. "
+#~ "Once the report has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. Thanks for helping us make FireShield "
+#~ "Detector better!"
+
+#~ msgid "Reports disabilitati."
+#~ msgstr "Reports disabled."
+
+#~ msgid "In attesa della risposta..."
+#~ msgstr "Waiting for an answer..."
+
+#~ msgid "Sii il più completo possibile, limite caratteri: 1000"
+#~ msgstr "Be as complete as possible, character limitation: 1000"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"

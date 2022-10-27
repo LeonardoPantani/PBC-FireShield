@@ -1,0 +1,592 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-03 13:04+0100\n"
+"PO-Revision-Date: 2019-04-17 03:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rispondiTicketDB.php:61
+msgid "Aggiornamento sul tuo ticket"
+msgstr "Mise à jour sur votre ticket"
+
+#: rispondiTicketDB.php:68
+msgid ""
+"Ciao, ti abbiamo inviato questa mail perché un nostro membro dello staff ha "
+"risposto al tuo ticket!"
+msgstr ""
+"Bonjour, nous vous avons envoyé cet email car un membre de notre personnel a "
+"répondu à votre ticket !"
+
+#: rispondiTicketDB.php:70
+msgid "Clicca qui per visualizzarlo"
+msgstr "Cliquez ici pour le voir"
+
+#: rispondiTicketDB.php:74
+#, php-format
+msgid "Il team del %s"
+msgstr "L'équipe de %s"
+
+#~ msgid "Autenticazione a 2 fattori (2FA)"
+#~ msgstr "2-factor authentication (2FA)"
+
+#~ msgid "Codice QR"
+#~ msgstr "QR Code"
+
+#~ msgid ""
+#~ "Un codice 2FA è un insieme di 6 cifre casuali generate ogni 30 secondi "
+#~ "dall'app Google Authenticator"
+#~ msgstr ""
+#~ "A 2FA code is a set of 6 random digits generated every 30 seconds from "
+#~ "the Google Authenticator app"
+
+#~ msgid ""
+#~ "Se non sai cosa fare, consulta la sezione 'Tutorial' scorrendo questa "
+#~ "pagina verso il basso"
+#~ msgstr ""
+#~ "If you do not know what to do, see the 'Tutorial' section by scrolling "
+#~ "down this page"
+
+#~ msgid "Codice 2FA"
+#~ msgstr "2FA Code"
+
+#~ msgid "Conferma codice QR"
+#~ msgstr "Confirm QR Code"
+
+#~ msgid "Tutorial"
+#~ msgstr "Tutorial"
+
+#~ msgid "L'app Google Authenticator è scaricabile sia per dispositivi"
+#~ msgstr "The Google Authenticator app is available for both"
+
+#~ msgid "Android"
+#~ msgstr "Android"
+
+#~ msgid "che per dispositivi"
+#~ msgstr "and"
+
+#~ msgid "Apple"
+#~ msgstr "Apple devices"
+
+#~ msgid ""
+#~ "Una volta scaricata l'applicazione, cliccare sul tasto '+' in basso a "
+#~ "destra e selezionare l'opzione 'Leggi codice a barre'"
+#~ msgstr ""
+#~ "Once the application has been downloaded, click on the '+' button at the "
+#~ "bottom right and select the 'Read the barcode' option"
+
+#~ msgid ""
+#~ "Qualora il dispositivo fosse sprovvisto di fotocamera selezionare "
+#~ "l'opzione 'Inserisci un codice fornito' ed inserire questo testo:"
+#~ msgstr ""
+#~ "If the device does not have a camera, select the option 'Insert a code' "
+#~ "and enter this text:"
+
+#~ msgid ""
+#~ "Inquadra il codice QR con la fotocamera in modo che il quadrato di "
+#~ "selezione combaci con il codice QR"
+#~ msgstr ""
+#~ "Frame the QR code with the camera so that the selection square matches "
+#~ "the QR code"
+
+#~ msgid ""
+#~ "Una volta completata la procedura comparirà un riquadro contenente un "
+#~ "codice di 6 cifre casuale e sotto di esso il nome dell'account associato a"
+#~ msgstr ""
+#~ "Once the procedure is complete, a box containing a random 6-digit code "
+#~ "will appear and under it the name of the account associated with"
+
+#~ msgid ""
+#~ "Inserire il codice fornito dall'app dentro il riquadro 'Codice 2FA' nel "
+#~ "campo soprastante"
+#~ msgstr ""
+#~ "Enter the code provided by the app inside the '2FA Code' box in the field "
+#~ "above"
+
+#~ msgid ""
+#~ "Verificare che nel codice non ci siano errori e cliccare su 'Conferma "
+#~ "codice QR'"
+#~ msgstr ""
+#~ "Verify that there are no errors in the code and click on 'Confirm QR code'"
+
+#~ msgid ""
+#~ "Una volta completata questa procedura sarà richiesto di nuovo il login, "
+#~ "dove questa volta dovrai inserire anche il nuovo codice fornito oltre "
+#~ "all'Username e la Password"
+#~ msgstr ""
+#~ "Once this procedure is complete, you will be asked to log in again, where "
+#~ "you will also have to enter the new code provided in addition to the "
+#~ "Username and Password"
+
+#~ msgid "Avvertimento"
+#~ msgstr "Warning"
+
+#~ msgid ""
+#~ "I codici di Google scadono ogni 30 secondi, pertanto bisogna essere "
+#~ "sicuri di aver cliccato il pulsante 'Conferma codice QR' prima che il "
+#~ "codice fornito scada."
+#~ msgstr ""
+#~ "Google codes expire every 30 seconds, so be sure to click the 'Confirm QR "
+#~ "code' button before the code provided expires."
+
+#~ msgid "In caso di problemi con il codice 2FA, sei pregato di scriverci"
+#~ msgstr "In case of problems with the 2FA code, please write to us"
+
+#~ msgid "una Email"
+#~ msgstr "an Email"
+
+#~ msgid ""
+#~ "L'autenticazione a 2 fattori è già attiva, non è necessario rieffettuare "
+#~ "l'operazione"
+#~ msgstr ""
+#~ "The 2-factor authentication is already active, it is not necessary to "
+#~ "redo the operation"
+
+#~ msgid "Torna alla Homepage"
+#~ msgstr "Go back to the Homepage"
+
+#~ msgid "Attendi"
+#~ msgstr "Please wait"
+
+#~ msgid "Elaborazione richiesta"
+#~ msgstr "Processing request"
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error occured"
+
+#~ msgid "Il codice inserito non è valido"
+#~ msgstr "The code entered is not valid"
+
+#~ msgid "Successo"
+#~ msgstr "Success"
+
+#~ msgid "Il codice è stato confermato"
+#~ msgstr "The code has been confirmed"
+
+#~ msgid ""
+#~ "Il codice inserito è errato, controlla di averlo inserito correttamente e "
+#~ "che non sia scaduto"
+#~ msgstr ""
+#~ "The code entered is incorrect, check that you have entered it correctly "
+#~ "and that it has not expired"
+
+#~ msgid "Non è stato possibile salvare il codice nel database"
+#~ msgstr "The code could not be saved in the database"
+
+#~ msgid "Inserisci il valore segreto dall'app Google Authenticator"
+#~ msgstr "Enter the secret value from the Google Authenticator app"
+
+#~ msgid "Utente inesistente"
+#~ msgstr "User not found"
+
+#~ msgid "Protezione aggiuntiva Account"
+#~ msgstr "Additional Account Protection"
+
+#~ msgid ""
+#~ "Si è verificato un errore cercando di ottenere informazioni riguardo il "
+#~ "tuo Username. Se vuoi puoi inviarci una segnalazione"
+#~ msgstr ""
+#~ "An internal error occured while attempting to get informations about your "
+#~ "Username. If you want, you can send us a report"
+
+#~ msgid "cliccando qui"
+#~ msgstr "by clicking here"
+
+#~ msgid "Verificando codice..."
+#~ msgstr "Verifying code..."
+
+#~ msgid "Verifica codice 2FA fallita"
+#~ msgstr "2FA code verification failed"
+
+#~ msgid "Errore interno: utente attuale non presente nel database"
+#~ msgstr "Internal error: current user not present in the database"
+
+#~ msgid "Caso imprevisto"
+#~ msgstr "Unexpected event"
+
+#~ msgid "È andata!"
+#~ msgstr "Allright!"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid ""
+#~ "Scansiona il codice QR con il tuo Smartphone ed inserisci il codice "
+#~ "visualizzato sul tuo dispositivo. Nel caso in cui il tuo device sia "
+#~ "sprovvisto di fotocamera puoi inserire manualmente il codice soprastante "
+#~ "nella app Google Authenticator"
+#~ msgstr ""
+#~ "Scan the QR Code with your Smartphone and enter the code displayed on "
+#~ "your device. If your device does not have a camera then you can manually "
+#~ "enter the code above in the Google Authenticator app"
+
+#~ msgid "Per scaricare"
+#~ msgstr "To download"
+
+#~ msgid "clicca qui"
+#~ msgstr "click here"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid ""
+#~ "Scansiona il codice QR con il tuo Smartphone, una volta fatto clicca su"
+#~ msgstr "Scan the QR Code with your Smartphone, then click on"
+
+#~ msgid "Assicurati di aver scansionato il codice prima di premere"
+#~ msgstr "Make sure you have scanned the code before clicking on"
+
+#~ msgid "Login disabilitati."
+#~ msgstr "Login disabled."
+
+#~ msgid "Imposta tutti i parametri."
+#~ msgstr "Set all parameters."
+
+#~ msgid "Username errato."
+#~ msgstr "Wrong Username."
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Errore cercando di impostare la sessione."
+#~ msgstr "An error occured while trying to set session."
+
+#~ msgid "Login"
+#~ msgstr "Log in"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log in"
+
+#~ msgid "Sei nuovo? Registrati adesso al pannello FireShield"
+#~ msgstr "Are you new here? Register now to the FireShield panel"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must log-in first before scanning files"
+
+#~ msgid "Accedi"
+#~ msgstr "Login"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign up"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Every file <b>.zip</b> added cannot exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of size"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Add your search results of ProcessHacker™ in the corresponding section. "
+#~ "More informations"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Inizia la scansione!"
+#~ msgstr "Scan now!"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service temporarly unavailable, try again later."
+
+#~ msgid "Scansione completata!"
+#~ msgstr "Scan complete!"
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same file of the .txt file!"
+
+#~ msgid "Errore, upload file fallito."
+#~ msgstr "Error, file upload failed."
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Errore, estensione non valida."
+#~ msgstr "Error, wrong extension."
+
+#~ msgid "Servizio non disponibile."
+#~ msgstr "Service unavailable."
+
+#~ msgid "Login necessario per effettuare scansioni."
+#~ msgstr "Login required to scan."
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress from"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must have .zip extension"
+
+#~ msgid "Tutti i file devono essere impostati."
+#~ msgstr "All files must be set."
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Pannello Artista"
+#~ msgstr "Artist Panel"
+
+#~ msgid "Clicca qui per segnalare il problema"
+#~ msgstr "Click here to report the problem"
+
+#~ msgid "Clicca qui per effettuare il logout"
+#~ msgstr "Click here to logout"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid "Tutti gli eventi"
+#~ msgstr "All events"
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Invia Messaggio"
+#~ msgstr "Send Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Impossibile inviare altri messaggi"
+#~ msgstr "Unable to send more messages"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

@@ -1,0 +1,1088 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-22 13:52+0200\n"
+"PO-Revision-Date: 2019-04-22 13:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: visualizzaCandidatura.php:40
+msgid "Amministrazione"
+msgstr "Administration"
+
+#: visualizzaCandidatura.php:51
+msgid "Visualizzando candidatura"
+msgstr "Showing application"
+
+#: visualizzaCandidatura.php:53
+msgid "Candidato:"
+msgstr "Candidate:"
+
+#: visualizzaCandidatura.php:55
+msgid "Data di Nascita:"
+msgstr "Date of Birth:"
+
+#: visualizzaCandidatura.php:57
+msgid "Email:"
+msgstr "Email:"
+
+#: visualizzaCandidatura.php:59
+msgid "Username Telegram:"
+msgstr "Telegram Username:"
+
+#: visualizzaCandidatura.php:61
+msgid "Paese di Residenza:"
+msgstr "Country of Residence:"
+
+#: visualizzaCandidatura.php:63
+msgid "Lingua:"
+msgstr "Language:"
+
+#: visualizzaCandidatura.php:65
+msgid "Risposta 1:"
+msgstr "Answer 1:"
+
+#: visualizzaCandidatura.php:69
+msgid "Risposta 2:"
+msgstr "Answer 2:"
+
+#: visualizzaCandidatura.php:73
+msgid "Risposta 3:"
+msgstr "Answer 3:"
+
+#: visualizzaCandidatura.php:77
+msgid "Risposta 4:"
+msgstr "Answer 4:"
+
+#: visualizzaCandidatura.php:81
+msgid "Risposta 5:"
+msgstr "Answer 5:"
+
+#: visualizzaCandidatura.php:85
+msgid "Stato candidatura:"
+msgstr "Application status:"
+
+#: visualizzaCandidatura.php:85 visualizzaCandidatura.php:96
+msgid "In attesa"
+msgstr "Waiting"
+
+#: visualizzaCandidatura.php:85 visualizzaCandidatura.php:97
+msgid "Accettata"
+msgstr "Accepted"
+
+#: visualizzaCandidatura.php:85 visualizzaCandidatura.php:98
+msgid "Rifiutata"
+msgstr "Rejected"
+
+#: visualizzaCandidatura.php:85
+msgid "Sconosciuto"
+msgstr "Unknown"
+
+#: visualizzaCandidatura.php:90
+msgid "Modifica stato candidatura"
+msgstr "Edit application status"
+
+#: visualizzaCandidatura.php:91
+msgid ""
+"Il candidato sarà notificato via Email sull'aggiornamento di stato della sua "
+"candidatura."
+msgstr ""
+"The candidate will be notified via e-mail about the status update of his "
+"application."
+
+#: visualizzaCandidatura.php:101
+msgid "Modifica candidatura"
+msgstr "Edit applicaiton"
+
+#: visualizzaCandidatura.php:106
+msgid "ID candidatura non valido."
+msgstr "Invalid application ID."
+
+#: visualizzaCandidatura.php:110
+msgid "Torna alla lista"
+msgstr "Go back to the list"
+
+#~ msgid "Aperti:"
+#~ msgstr "Open:"
+
+#~ msgid "Come vuoi ordinare la tabella?"
+#~ msgstr "How do you want to order the table?"
+
+#~ msgid "Data"
+#~ msgstr "Date"
+
+#~ msgid "ID Ticket"
+#~ msgstr "Ticket ID"
+
+#~ msgid "Richiedente"
+#~ msgstr "User"
+
+#~ msgid "Tipo"
+#~ msgstr "Type"
+
+#~ msgid "Spiegazione"
+#~ msgstr "Explanation"
+
+#~ msgid "Data invio"
+#~ msgstr "Send date"
+
+#~ msgid "Stato"
+#~ msgstr "Status"
+
+#~ msgid "Staffer"
+#~ msgstr "Staff member"
+
+#~ msgid "Risposta"
+#~ msgstr "Answer"
+
+#~ msgid "Vedi"
+#~ msgstr "See"
+
+#~ msgid "Chiuso"
+#~ msgstr "Closed"
+
+#~ msgid "Aperto"
+#~ msgstr "Open"
+
+#~ msgid "Nessuno"
+#~ msgstr "No one"
+
+#~ msgid "No risposta"
+#~ msgstr "No answer"
+
+#~ msgid "Pronto"
+#~ msgstr "Ready"
+
+#~ msgid "Non ci sono tickets da visualizzare."
+#~ msgstr "There are no tickets to show."
+
+#~ msgid "Inviato il:"
+#~ msgstr "Sent on:"
+
+#~ msgid "Lingua dell'utente:"
+#~ msgstr "User language:"
+
+#~ msgid "(Ticket chiuso)"
+#~ msgstr "(Closed ticket)"
+
+#~ msgid ""
+#~ "Rispondere al ticket lo imposta in automatico come %s, cioè che questo "
+#~ "ticket ha ricevuto risposta ma deve essere ancora letto da chi l'ha "
+#~ "inviato."
+#~ msgstr ""
+#~ "Responding to the ticket marks it automatically as %s, meaning that this "
+#~ "ticket has been answered but still needs to be read by the sender."
+
+#~ msgid "Rispondi alla ticket in lingua %s, limite caratteri: 2500"
+#~ msgstr "Reply to ticket in %s, character limit: 2500"
+
+#~ msgid "Invia risposta"
+#~ msgstr "Send answer"
+
+#~ msgid "ID segnalazione"
+#~ msgstr "ID report"
+
+#~ msgid "Conferma identità"
+#~ msgstr "Identity confirmation"
+
+#~ msgid "Conferma la tua identità"
+#~ msgstr "Confirm your identity"
+
+#~ msgid ""
+#~ "Ciao, %s. Prima di farti accedere dobbiamo accertarci che sia proprio tu, "
+#~ "visto che stai tentando di entrare in un'area riservata."
+#~ msgstr ""
+#~ "Hi %s. Before logging in, we need to make sure it's you, since you're "
+#~ "trying to enter a restricted area."
+
+#~ msgid "Per favore inserisci di nuovo il codice 2FA per continuare."
+#~ msgstr "Please enter the 2FA code again to continue."
+
+#~ msgid "Conferma l'identità inserendo il codice 2FA"
+#~ msgstr "Confirm the identity by entering the 2FA code"
+
+#~ msgid "Effettua l'accesso al pannello"
+#~ msgstr "Access the administration panel"
+
+#~ msgid "Attendi..."
+#~ msgstr "Please wait..."
+
+#~ msgid "Verifico il codice che hai inserito"
+#~ msgstr "Checking the entered code"
+
+#~ msgid "Successo"
+#~ msgstr "Success"
+
+#~ msgid "Trasferimento al pannello di amministrazione in corso..."
+#~ msgstr "Redirecting you to the administration panel..."
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error has occurred"
+
+#~ msgid "Il codice che hai inserito è errato"
+#~ msgstr "The entered code is invalid"
+
+#~ msgid "Imposta tutti i parametri."
+#~ msgstr "Set all parameters."
+
+#~ msgid "Errore token: Impossibile continuare"
+#~ msgstr "Token error: Cannot continue"
+
+#~ msgid "Errore: Token non valido."
+#~ msgstr "Error: Invalid token."
+
+#~ msgid ""
+#~ "Tentativo di accesso bloccato a causa di incongruenze tra i dati del "
+#~ "Database e quelli del Client. %sClicca qui per fare il logout e riprovare"
+#~ "%s."
+#~ msgstr ""
+#~ "Access attempt blocked due to inconsistencies between the Database data "
+#~ "and the Client data. %sClick here to log out and try again%s."
+
+#~ msgid "Tuo IP:"
+#~ msgstr "Your IP:"
+
+#~ msgid "Stato Conn. Database:"
+#~ msgstr "Database Conn. Status:"
+
+#~ msgid "Verificando connessione..."
+#~ msgstr "Checking connection..."
+
+#~ msgid "File nella cartella %s:"
+#~ msgstr "Files in the %s folder:"
+
+#~ msgid "Verificando presenza file..."
+#~ msgstr "Checking file presence..."
+
+#~ msgid "Utenti disabilitati:"
+#~ msgstr "Blocked users:"
+
+#~ msgid "Verificando stato utenti..."
+#~ msgstr "Checking users status..."
+
+#~ msgid "Crea"
+#~ msgstr "Create"
+
+#~ msgid "Elimina"
+#~ msgstr "Delete"
+
+#~ msgid "Accesso alle scansioni:"
+#~ msgstr "Scan access:"
+
+#~ msgid "Solo utenti registrati"
+#~ msgstr "Only registered users"
+
+#~ msgid "Tutti gli utenti"
+#~ msgstr "All users"
+
+#~ msgid "Stato esecuzione aggiornam.:"
+#~ msgstr "Update execution status:"
+
+#~ msgid "Ultimo task eseguito"
+#~ msgstr "Latest task executed"
+
+#~ msgid "oggi"
+#~ msgstr "today"
+
+#~ msgid "alle ore"
+#~ msgstr "at"
+
+#~ msgid "in data:"
+#~ msgstr "on:"
+
+#~ msgid "Media CPS degli utenti:"
+#~ msgstr "CPS users average:"
+
+#~ msgid "Ottenimento risultati..."
+#~ msgstr "Obtaining results..."
+
+#~ msgid "Google Analytics:"
+#~ msgstr "Google Analytics:"
+
+#~ msgid "Visualizza statistiche"
+#~ msgstr "Check stats"
+
+#~ msgid "Lista dei Pagamenti:"
+#~ msgstr "Payment list:"
+
+#~ msgid "Visualizza pagamenti"
+#~ msgstr "Check payments"
+
+#~ msgid "Notizia in Broadcast"
+#~ msgstr "Broadcast News"
+
+#~ msgid "Clicca per modificare"
+#~ msgstr "Click to edit"
+
+#~ msgid "Nessun permesso per modificare"
+#~ msgstr "No permission to edit"
+
+#~ msgid "C'è"
+#~ msgstr "There is"
+
+#~ msgid "Ci sono"
+#~ msgstr "There are"
+
+#~ msgid "aperti"
+#~ msgstr "open"
+
+#~ msgid "Clicca per"
+#~ msgstr "Click to"
+
+#~ msgid "controllarlo"
+#~ msgstr "check it"
+
+#~ msgid "controllarli"
+#~ msgstr "check them"
+
+#~ msgid "Modifica Stringhe"
+#~ msgstr "Edit Strings"
+
+#~ msgid "totali"
+#~ msgstr "in total"
+
+#~ msgid "Aggiungi stringa al Database"
+#~ msgstr "Add string to Database"
+
+#~ msgid "Stringa da aggiungere"
+#~ msgstr "String to add"
+
+#~ msgid "Nome del Client"
+#~ msgstr "Name of the Client"
+
+#~ msgid "Aggiungi"
+#~ msgstr "Add"
+
+#~ msgid "Lista delle Stringhe"
+#~ msgstr "String List"
+
+#~ msgid "Visualizza Lista Stringhe"
+#~ msgstr "Access String List"
+
+#~ msgid "Analisi Similarità"
+#~ msgstr "Similarity Check"
+
+#~ msgid "Lista Proposte Stringhe"
+#~ msgstr "String Suggestion List"
+
+#~ msgid "Rimuovi stringa dal Database"
+#~ msgstr "Remove string from Database"
+
+#~ msgid "Stringa da rimuovere"
+#~ msgstr "String to delete"
+
+#~ msgid "Rimuovi"
+#~ msgstr "Delete"
+
+#~ msgid "Cronologia & Software"
+#~ msgstr "History & Software"
+
+#~ msgid "Cronologia Stringhe"
+#~ msgstr "String History"
+
+#~ msgid "Cronologia eventi (cheat)"
+#~ msgstr "Events History (cheat)"
+
+#~ msgid "Aggiornamento Software"
+#~ msgstr "Software Update"
+
+#~ msgid "File di aggiornamento"
+#~ msgstr "Update file"
+
+#~ msgid "Modifica Versioni "
+#~ msgstr "Edit Software Versions"
+
+#~ msgid "Modifica File Software (DB)"
+#~ msgstr "Edit Software Files (DB)"
+
+#~ msgid "Modifica Pacchetto Applicazioni"
+#~ msgstr "Edit Application Package"
+
+#~ msgid "Carica file e aggiorna Software"
+#~ msgstr "Load file and update Software"
+
+#~ msgid "Cronologia Analyzer"
+#~ msgstr "Analyzer History"
+
+#~ msgid "Cronologia eventi (analyzer)"
+#~ msgstr "Event history (Analyzer)"
+
+#~ msgid "Altre impostazioni"
+#~ msgstr "Other settings"
+
+#~ msgid "Visualizzazione Tickets"
+#~ msgstr "Tickets List"
+
+#~ msgid "Aggiunta News e Invio NewsLetter"
+#~ msgstr "News adding and Newsletter sending"
+
+#~ msgid "Gestione delle News"
+#~ msgstr "News Management"
+
+#~ msgid "Invia una NewsLetter"
+#~ msgstr "Send a Newsletter"
+
+#~ msgid "Cronologia file di scansione:"
+#~ msgstr "Files scanned history:"
+
+#~ msgid "Visualizza file"
+#~ msgstr "Show file"
+
+#~ msgid "Network Log"
+#~ msgstr "Network Log"
+
+#~ msgid "Nessun network..."
+#~ msgstr "No networks..."
+
+#~ msgid "-- Seleziona --"
+#~ msgstr "-- Select --"
+
+#~ msgid "Visualizza Network Log"
+#~ msgstr "Access Network Log"
+
+#~ msgid "Amministrazione & Modifiche Generali"
+#~ msgstr "Administration & General Changes"
+
+#~ msgid "Modifica Config"
+#~ msgstr "Edit Config"
+
+#~ msgid "Modifica il Config"
+#~ msgstr "Edit the Config"
+
+#~ msgid "Esportazione Stringhe"
+#~ msgstr "String Export"
+
+#~ msgid "Esporta"
+#~ msgstr "Export"
+
+#~ msgid "Importazione Stringhe"
+#~ msgstr "String Import"
+
+#~ msgid ""
+#~ "Spiegazione tipi di importazione:&#013;&#013;Tipo 1: Elimina le stringhe "
+#~ "già presenti nella tabella e poi importa quelle nuove.&#013;Tipo 2: "
+#~ "Importa le stringhe nuove lasciando anche quelle vecchie.&#013;&#013;Sono "
+#~ "accettati solo file di testo .txt"
+#~ msgstr ""
+#~ "Explanation of import types:&#013;&#013;Type 1: Delete the strings "
+#~ "already present in the table and then import the new ones.&#013;Type 2: "
+#~ "Import new strings leaving old ones as well.&#013;&#013;Only .txt text "
+#~ "files are accepted"
+
+#~ msgid "File import."
+#~ msgstr "File import."
+
+#~ msgid "Importa da file"
+#~ msgstr "Import from file"
+
+#~ msgid "Format. Tabelle"
+#~ msgstr "Tables Reset"
+
+#~ msgid "Tutte (Stringhe...)"
+#~ msgstr "All (Stringhe…)"
+
+#~ msgid "Svuota tabella/e"
+#~ msgstr "Empty table(s)"
+
+#~ msgid "ERRORE CONFIG"
+#~ msgstr "CONFIG ERROR"
+
+#~ msgid "ERRORE DATABASE"
+#~ msgstr "DATABASE ERROR"
+
+#~ msgid "Sessione non valida: Rieffettua il login"
+#~ msgstr "Invalid sessione: log-in again"
+
+#~ msgid "scansione in corso"
+#~ msgstr "scan in progress"
+
+#~ msgid "scansioni in corso"
+#~ msgstr "scans in progress"
+
+#~ msgid "utente/i è disabilitato e non può accedere."
+#~ msgstr "user(s) is blocked and cannot log-in."
+
+#~ msgid "Stringa aggiunta!"
+#~ msgstr "String added!"
+
+#~ msgid "Inserimento fallito."
+#~ msgstr "Insertion failed."
+
+#~ msgid "Inserisci una stringa."
+#~ msgstr "Enter a string."
+
+#~ msgid "Stringa già presente in quella tabella."
+#~ msgstr "That string already exists in this table."
+
+#~ msgid "Non hai i permessi."
+#~ msgstr "No permission."
+
+#~ msgid "Stringa rimossa!"
+#~ msgstr "String deleted!"
+
+#~ msgid "Rimozione fallita."
+#~ msgstr "Removal failed."
+
+#~ msgid "Stringa non trovata in quella tabella."
+#~ msgstr "That string was not found in this table."
+
+#~ msgid "Inserisci un file di aggiornamento."
+#~ msgstr "Enter a update file."
+
+#~ msgid ".rar richiesto"
+#~ msgstr ".rar required"
+
+#~ msgid "Aggiornamento software pubblicato!"
+#~ msgstr "Software update published!"
+
+#~ msgid "Errore generico."
+#~ msgstr "Generic error."
+
+#~ msgid "L'estensione deve essere .rar"
+#~ msgstr "The extension must be .rar"
+
+#~ msgid "Upload file fallito."
+#~ msgstr "File upload failed."
+
+#~ msgid "Upload in corso"
+#~ msgstr "Uploading"
+
+#~ msgid "Seleziona un file di log."
+#~ msgstr "Select a log file."
+
+#~ msgid "Seleziona una tabella da esportare."
+#~ msgstr "Select a table to export."
+
+#~ msgid "Download..."
+#~ msgstr "Download..."
+
+#~ msgid ".txt richiesto"
+#~ msgstr ".txt required"
+
+#~ msgid "Richiesta conferma"
+#~ msgstr "Confirm required"
+
+#~ msgid "Cliccando su 'Conferma' la tabella"
+#~ msgstr "By clicking on 'Confirm' the table named"
+
+#~ msgid "sarà riempita di nuovi valori contenuti nel file di importazione."
+#~ msgstr "will be filled with new values contained in the import file."
+
+#~ msgid "Annulla"
+#~ msgstr "Cancel"
+
+#~ msgid "Operazione in corso..."
+#~ msgstr "Operation in progress ..."
+
+#~ msgid "Operazione completata"
+#~ msgstr "Operation complete"
+
+#~ msgid "Importazione completata!"
+#~ msgstr "Import completed!"
+
+#~ msgid "Caso imprevisto"
+#~ msgstr "Unexpected event"
+
+#~ msgid "Inserisci il file da importare."
+#~ msgstr "Enter a file to import."
+
+#~ msgid "Seleziona una tabella in cui importare."
+#~ msgstr "Select a table to import into."
+
+#~ msgid "sarà svuotata e non si potrà recuperarla. Confermi l'operazione?"
+#~ msgstr ""
+#~ "it will be emptied and cannot be recovered. Do you confirm the operation?"
+
+#~ msgid "Tabella svuotata con successo!"
+#~ msgstr "Table emptied successfully!"
+
+#~ msgid "Nome tabella errato."
+#~ msgstr "Incorrect table name."
+
+#~ msgid "Imposta tutti i valori."
+#~ msgstr "Set all values."
+
+#~ msgid "Seleziona una tabella da svuotare."
+#~ msgstr "Select a table to empty."
+
+#~ msgid "e"
+#~ msgstr "and"
+
+#~ msgid "secondi"
+#~ msgstr "seconds"
+
+#~ msgid "secondo"
+#~ msgstr "second"
+
+#~ msgid "minuti"
+#~ msgstr "minutes"
+
+#~ msgid "minuto"
+#~ msgstr "minute"
+
+#~ msgid "Termini di Servizio"
+#~ msgstr "Terms of Service"
+
+#~ msgid "Avvertimento"
+#~ msgstr "Warning"
+
+#~ msgid ""
+#~ "Il seguente documento è stato tradotto da una macchina e non da una "
+#~ "persona, pertanto il contenuto potrebbe non essere accurato al 100%."
+#~ msgstr ""
+#~ "The following document has been translated by a machine and not by a real "
+#~ "person, so the content may not be 100% accurate."
+
+#~ msgid ""
+#~ "Si è verificato un errore cercando di ottenere le informazioni dei "
+#~ "Termini di Servizio."
+#~ msgstr "An error occurred while trying to get the Terms of Service page."
+
+#~ msgid "Clicca qui per tornare in cima"
+#~ msgstr "Click here to return to the top"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Leader Sito Web e Sviluppatore Web"
+#~ msgstr "Website Leader and Web Developer"
+
+#~ msgid "Leader Progetto e Sviluppatore Software"
+#~ msgstr "Project Leader and Software Developer"
+
+#~ msgid "Aiuto-Sviluppatore"
+#~ msgstr "Help-Developer"
+
+#~ msgid "Grazie a tutti coloro che hanno contribuito alla realizzazione del"
+#~ msgstr "Thanks to all those who contributed to the realization of the"
+
+#~ msgid "Accesso fallito (401)"
+#~ msgstr "Zugriff fehlgeschlagen (401)"
+
+#~ msgid "Il server ti ha impedito di accedere a questa risorsa."
+#~ msgstr ""
+#~ "Der Server hat Sie daran gehindert, auf diese Ressource zuzugreifen."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta."
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet."
+
+#~ msgid "La pagina che stavi cercando non esiste o è stata rimossa."
+#~ msgstr "Die von Ihnen gesuchte Seite existiert nicht oder wurde entfernt."
+
+#~ msgid ""
+#~ "Il metodo specificato nella linea di richiesta non autorizzato per la "
+#~ "risorsa specificata."
+#~ msgstr ""
+#~ "Die in der nicht autorisierten Anforderungszeile für die angegebene "
+#~ "Ressource angegebene Methode."
+
+#~ msgid ""
+#~ "Il browser ha fallito l'invio della richiesta nel tempo autorizzato dal "
+#~ "server."
+#~ msgstr ""
+#~ "Der Browser konnte die Anfrage nicht innerhalb der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid ""
+#~ "La richiesta è fallita a causa di una condizione inaspettata incontrata "
+#~ "dal server."
+#~ msgstr ""
+#~ "Die Anforderung ist aufgrund einer unerwarteten Bedingung beim Server "
+#~ "fehlgeschlagen."
+
+#~ msgid ""
+#~ "Il server ha ricevuto una risposta non valida dal server di upstream "
+#~ "mentre cercava di rispondere alla tua richiesta"
+#~ msgstr ""
+#~ "Der Server hat vom Upstream-Server eine ungültige Antwort erhalten, als "
+#~ "er versucht hat, auf Ihre Anfrage zu antworten"
+
+#~ msgid ""
+#~ "Il server di upstream ha fallito l'invio della richiesta nel tempo "
+#~ "autorizzato dal server."
+#~ msgstr ""
+#~ "Der Upstream-Server konnte die Anforderung nicht in der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta. (!)"
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet. (!)"
+
+#~ msgid ""
+#~ "Puoi tornare alla Homepage ora. Se pensi che questo sia un errore, "
+#~ "inviaci una mail cliccando il tasto sottostante, grazie!"
+#~ msgstr ""
+#~ "Sie können jetzt zur Homepage zurückkehren. Wenn Sie denken, dass dies "
+#~ "ein Fehler ist, senden Sie uns eine E-Mail durch Klicken auf die "
+#~ "Schaltfläche unten, danke!"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Melde ein Problem"
+
+#~ msgid "(Non ci sono manutenzioni previste)"
+#~ msgstr "(Es gibt keine geplante Wartung)"
+
+#~ msgid "(Inserire un url con stato pagina corretto)"
+#~ msgstr "(Geben Sie eine URL mit dem korrekten Seitenstatus ein)"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must be logged in to be able to scan"
+
+#~ msgid "Accedi"
+#~ msgstr "Log in"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign in"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Each <b>.zip</b> file entered must not exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of weight"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Enter the ProcessHacker™ search results in the respective section. More "
+#~ "information"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service not available at the moment, please try again later."
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same name as the .txt file!"
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Login necessario per effettuare scansioni"
+#~ msgstr "Login required to scan"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress since"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must be .zip"
+
+#~ msgid "Tutti i file devono essere impostati"
+#~ msgstr "All files must be set up"
+
+#~ msgid "FireShield Cheat Detector"
+#~ msgstr "FireShield Cheat Detector"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Benvenuto"
+#~ msgstr "Welcome"
+
+#~ msgid "Clicca qui per segnalarci un problema"
+#~ msgstr "Click here to report a problem"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid ""
+#~ "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid ""
+#~ "Un membro dello Staff ha visualizzato la tua precedente segnalazione. "
+#~ "Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid ""
+#~ "In questo form è possibile segnalare un problema relativo alla "
+#~ "piattaforma FireShield. Una volta inviata la richiesta non sarà possibile "
+#~ "inviarne altre finché la precedente non sarà visionata. Grazie per "
+#~ "aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr ""
+#~ "In this form you can report a problem related to the FireShield platform. "
+#~ "Once the report has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. Thanks for helping us make FireShield "
+#~ "Detector better!"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

@@ -1,0 +1,1147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-15 20:55+0200\n"
+"PO-Revision-Date: 2019-05-15 20:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pannello.php:39
+msgid "Amministrazione"
+msgstr "Administration"
+
+#: pannello.php:50
+msgid "Pannello di Amministrazione"
+msgstr "Administration Panel"
+
+#: pannello.php:51
+msgid "Tuo IP:"
+msgstr "Your IP:"
+
+#: pannello.php:53
+msgid "Visualizza error log"
+msgstr "Access Error Log"
+
+#: pannello.php:62
+msgid "Stato Conn. Database:"
+msgstr "Database Conn. Status:"
+
+#: pannello.php:64
+msgid "Verificando connessione..."
+msgstr "Checking connection..."
+
+#: pannello.php:75
+#, php-format
+msgid "File nella cartella %s:"
+msgstr "Files in the %s folder:"
+
+#: pannello.php:77
+msgid "Verificando presenza file..."
+msgstr "Checking file presence..."
+
+#: pannello.php:88
+msgid "Log Errori:"
+msgstr "Error Log:"
+
+#: pannello.php:90
+msgid "Visualizza log"
+msgstr "Show log file"
+
+#: pannello.php:101
+msgid "Utenti disabilitati:"
+msgstr "Blocked users:"
+
+#: pannello.php:103
+msgid "Verificando stato utenti..."
+msgstr "Checking users status..."
+
+#: pannello.php:108 pannello.php:192 pannello.php:229 pannello.php:271
+#: pannello.php:289 pannello.php:330 pannello.php:344 pannello.php:368
+#: pannello.php:389 pannello.php:403 pannello.php:417 pannello.php:432
+#: pannello.php:445 pannello.php:481 pannello.php:495 pannello.php:522
+#: pannello.php:552
+msgid "Non hai accesso a questo contenuto."
+msgstr "You do not have access to this content."
+
+#: pannello.php:114
+msgid "Modifica Account"
+msgstr "Modify Account"
+
+#: pannello.php:116
+msgid "Vedi"
+msgstr "See"
+
+#: pannello.php:117
+msgid "Crea"
+msgstr "Create"
+
+#: pannello.php:118
+msgid "Elimina"
+msgstr "Delete"
+
+#: pannello.php:134
+msgid "Accesso alle scansioni:"
+msgstr "Scan access:"
+
+#: pannello.php:138
+msgid "Solo utenti registrati"
+msgstr "Only registered users"
+
+#: pannello.php:140
+msgid "Tutti gli utenti"
+msgstr "All users"
+
+#: pannello.php:152
+msgid "Stato esecuzione aggiornam.:"
+msgstr "Update execution status:"
+
+#: pannello.php:155
+msgid "Ultimo task eseguito"
+msgstr "Latest task executed"
+
+#: pannello.php:157
+msgid "oggi"
+msgstr "today"
+
+#: pannello.php:159
+msgid "alle ore"
+msgstr "at"
+
+#: pannello.php:161
+msgid "in data:"
+msgstr "on:"
+
+#: pannello.php:174
+msgid "Media CPS degli utenti:"
+msgstr "CPS users average:"
+
+#: pannello.php:175
+msgid "Ottenimento risultati..."
+msgstr "Obtaining results..."
+
+#: pannello.php:184
+msgid "Google Analytics:"
+msgstr "Google Analytics:"
+
+#: pannello.php:187
+msgid "Visualizza statistiche"
+msgstr "Check stats"
+
+#: pannello.php:197
+msgid "Lista dei Pagamenti:"
+msgstr "Payment list:"
+
+#: pannello.php:200
+msgid "Visualizza pagamenti"
+msgstr "Check payments"
+
+#: pannello.php:211
+msgid "Notizia in Broadcast"
+msgstr "Broadcast News"
+
+#: pannello.php:211
+msgid "Clicca per modificare"
+msgstr "Click to edit"
+
+#: pannello.php:211
+msgid "Nessun permesso per modificare"
+msgstr "No permission to edit"
+
+#: pannello.php:219
+msgid "Tickets:"
+msgstr "Tickets:"
+
+#: pannello.php:219 pannello.php:221
+msgid "C'è"
+msgstr "There is"
+
+#: pannello.php:219 pannello.php:221
+msgid "Ci sono"
+msgstr "There are"
+
+#: pannello.php:219
+msgid "ticket"
+msgstr "ticket"
+
+#: pannello.php:219
+msgid "aperto"
+msgstr "open"
+
+#: pannello.php:219
+msgid "aperti"
+msgstr "open"
+
+#: pannello.php:219
+msgid "in attesa di una risposta"
+msgstr "waiting for an answer"
+
+#: pannello.php:219 pannello.php:221
+msgid "Clicca per"
+msgstr "Click to"
+
+#: pannello.php:219
+msgid "controllarlo"
+msgstr "check it"
+
+#: pannello.php:219
+msgid "controllarli"
+msgstr "check them"
+
+#: pannello.php:221
+msgid "Candidature:"
+msgstr "Applications:"
+
+#: pannello.php:221
+msgid "candidatura"
+msgstr "application"
+
+#: pannello.php:221
+msgid "candidature"
+msgstr "applications"
+
+#: pannello.php:221
+msgid "in attesa di valutazione"
+msgstr "waiting for evaluation"
+
+#: pannello.php:221
+msgid "vederla"
+msgstr "see it"
+
+#: pannello.php:221
+msgid "vederle"
+msgstr "see them"
+
+#: pannello.php:225
+msgid "Modifica Stringhe"
+msgstr "Edit Strings"
+
+#: pannello.php:225
+msgid "totali"
+msgstr "in total"
+
+#: pannello.php:235
+msgid "Aggiungi stringa al Database"
+msgstr "Add string to Database"
+
+#: pannello.php:244
+msgid "Stringa da aggiungere"
+msgstr "String to add"
+
+#: pannello.php:252
+msgid "Nome del Client"
+msgstr "Name of the Client"
+
+#: pannello.php:265
+msgid "Aggiungi"
+msgstr "Add"
+
+#: pannello.php:277
+msgid "Lista delle Stringhe"
+msgstr "String List"
+
+#: pannello.php:280
+msgid "Visualizza Lista Stringhe"
+msgstr "Access String List"
+
+#: pannello.php:282
+msgid "Analisi Similarità"
+msgstr "Similarity Check"
+
+#: pannello.php:284
+msgid "Lista Proposte Stringhe"
+msgstr "String Suggestion List"
+
+#: pannello.php:295
+msgid "Rimuovi stringa dal Database"
+msgstr "Remove string from Database"
+
+#: pannello.php:304
+msgid "Stringa da rimuovere"
+msgstr "String to delete"
+
+#: pannello.php:317
+msgid "Rimuovi"
+msgstr "Delete"
+
+#: pannello.php:326
+msgid "Cronologia & Software"
+msgstr "History & Software"
+
+#: pannello.php:336
+msgid "Cronologia Stringhe"
+msgstr "String History"
+
+#: pannello.php:339
+msgid "Cronologia eventi (cheat)"
+msgstr "Events History (cheat)"
+
+#: pannello.php:350
+msgid "Aggiornamento Software"
+msgstr "Software Update"
+
+#: pannello.php:354 pannello.php:844
+msgid "File di aggiornamento"
+msgstr "Update file"
+
+#: pannello.php:356
+msgid "Modifica Versioni"
+msgstr "Edit Software Versions"
+
+#: pannello.php:358
+msgid "Modifica File Software (DB)"
+msgstr "Edit Software Files (DB)"
+
+#: pannello.php:360
+msgid "Modifica Pacchetto Applicazioni"
+msgstr "Edit Application Package"
+
+#: pannello.php:362
+msgid "Carica file e aggiorna Software"
+msgstr "Load file and update Software"
+
+#: pannello.php:374
+msgid "Cronologia Analyzer"
+msgstr "Analyzer History"
+
+#: pannello.php:377
+msgid "Cronologia eventi (analyzer)"
+msgstr "Event history (Analyzer)"
+
+#: pannello.php:385
+msgid "Altre impostazioni"
+msgstr "Other settings"
+
+#: pannello.php:395
+msgid "Visualizzazione Tickets"
+msgstr "Tickets List"
+
+#: pannello.php:397
+msgid "Ticket aperti:"
+msgstr "Open tickets:"
+
+#: pannello.php:398
+msgid "Visualizza i tickets"
+msgstr "Access ticket list"
+
+#: pannello.php:409
+msgid "Visualizzazione Candidature"
+msgstr "Applications List"
+
+#: pannello.php:411
+msgid "Candidature in attesa:"
+msgstr "Applications waiting:"
+
+#: pannello.php:412
+msgid "Visualizza le candidature"
+msgstr "Access application list"
+
+#: pannello.php:423
+msgid "Aggiunta News e Invio NewsLetter"
+msgstr "News adding and Newsletter sending"
+
+#: pannello.php:425
+msgid "Gestione delle News"
+msgstr "News Management"
+
+#: pannello.php:427
+msgid "Invia una NewsLetter"
+msgstr "Send a Newsletter"
+
+#: pannello.php:437
+msgid "Cronologia file di scansione:"
+msgstr "Files scanned history:"
+
+#: pannello.php:440
+msgid "Visualizza file"
+msgstr "Show file"
+
+#: pannello.php:451
+msgid "Network Log"
+msgstr "Network Log"
+
+#: pannello.php:457
+msgid "Nessun network..."
+msgstr "No networks..."
+
+#: pannello.php:461 pannello.php:505 pannello.php:535 pannello.php:562
+msgid "-- Seleziona --"
+msgstr "-- Select --"
+
+#: pannello.php:468
+msgid "Visualizza Network Log"
+msgstr "Access Network Log"
+
+#: pannello.php:477
+msgid "Amministrazione & Modifiche Generali"
+msgstr "Administration & General Changes"
+
+#: pannello.php:487
+msgid "Modifica Config"
+msgstr "Edit Config"
+
+#: pannello.php:490
+msgid "Modifica il Config"
+msgstr "Edit the Config"
+
+#: pannello.php:501
+msgid "Esportazione Stringhe"
+msgstr "String Export"
+
+#: pannello.php:516
+msgid "Esporta"
+msgstr "Export"
+
+#: pannello.php:528
+msgid "Importazione Stringhe"
+msgstr "String Import"
+
+#: pannello.php:528
+msgid ""
+"Spiegazione tipi di importazione:&#013;&#013;Tipo 1: Elimina le stringhe già "
+"presenti nella tabella e poi importa quelle nuove.&#013;Tipo 2: Importa le "
+"stringhe nuove lasciando anche quelle vecchie.&#013;&#013;Sono accettati "
+"solo file di testo .txt"
+msgstr ""
+"Explanation of import types:&#013;&#013;Type 1: Delete the strings already "
+"present in the table and then import the new ones.&#013;Type 2: Import new "
+"strings leaving old ones as well.&#013;&#013;Only .txt text files are "
+"accepted"
+
+#: pannello.php:531 pannello.php:991
+msgid "File import."
+msgstr "File import."
+
+#: pannello.php:546
+msgid "Importa da file"
+msgstr "Import from file"
+
+#: pannello.php:558
+msgid "Format. Tabelle"
+msgstr "Tables Reset"
+
+#: pannello.php:563
+msgid "Tutte (Stringhe...)"
+msgstr "All (Stringhe…)"
+
+#: pannello.php:586
+msgid "Svuota tabella/e"
+msgstr "Empty table(s)"
+
+#: pannello.php:593
+msgid ""
+"La diffusione del contenuto delle pagine di amministrazione è severamente "
+"vietata."
+msgstr ""
+"The dissemination of the contents of the administration pages is strictly "
+"prohibited."
+
+#: pannello.php:625
+msgid "ERRORE CONFIG"
+msgstr "CONFIG ERROR"
+
+#: pannello.php:628
+msgid "ERRORE DATABASE"
+msgstr "DATABASE ERROR"
+
+#: pannello.php:631 pannello.php:660 pannello.php:685 pannello.php:749
+#: pannello.php:805 pannello.php:890 pannello.php:1057 pannello.php:1137
+msgid "Sessione non valida: Rieffettua il login"
+msgstr "Invalid sessione: log-in again"
+
+#: pannello.php:649 pannello.php:676
+msgid "Nessuno"
+msgstr "No one"
+
+#: pannello.php:653
+msgid "scansione in corso"
+msgstr "scan in progress"
+
+#: pannello.php:655
+msgid "scansioni in corso"
+msgstr "scans in progress"
+
+#: pannello.php:679
+msgid "utente/i è disabilitato e non può accedere."
+msgstr "user(s) is blocked and cannot log-in."
+
+#: pannello.php:717 pannello.php:773 pannello.php:864
+msgid "Successo"
+msgstr "Success"
+
+#: pannello.php:718
+msgid "Stringa aggiunta!"
+msgstr "String added!"
+
+#: pannello.php:724 pannello.php:730 pannello.php:736 pannello.php:742
+#: pannello.php:748 pannello.php:754 pannello.php:780 pannello.php:786
+#: pannello.php:792 pannello.php:798 pannello.php:804 pannello.php:810
+#: pannello.php:826 pannello.php:871 pannello.php:877 pannello.php:883
+#: pannello.php:889 pannello.php:895 pannello.php:904 pannello.php:941
+#: pannello.php:948 pannello.php:959 pannello.php:1038 pannello.php:1044
+#: pannello.php:1050 pannello.php:1056 pannello.php:1080 pannello.php:1087
+#: pannello.php:1124 pannello.php:1130 pannello.php:1136 pannello.php:1153
+msgid "Si è verificato un errore"
+msgstr "An error has occurred"
+
+#: pannello.php:725
+msgid "Inserimento fallito."
+msgstr "Insertion failed."
+
+#: pannello.php:731 pannello.php:787
+msgid "Inserisci una stringa."
+msgstr "Enter a string."
+
+#: pannello.php:737
+msgid "Stringa già presente in quella tabella."
+msgstr "That string already exists in this table."
+
+#: pannello.php:743 pannello.php:799
+msgid "Non hai i permessi."
+msgstr "No permission."
+
+#: pannello.php:774
+msgid "Stringa rimossa!"
+msgstr "String deleted!"
+
+#: pannello.php:781
+msgid "Rimozione fallita."
+msgstr "Removal failed."
+
+#: pannello.php:793
+msgid "Stringa non trovata in quella tabella."
+msgstr "That string was not found in this table."
+
+#: pannello.php:827
+msgid "Inserisci un file di aggiornamento."
+msgstr "Enter a update file."
+
+#: pannello.php:840
+msgid ".rar richiesto"
+msgstr ".rar required"
+
+#: pannello.php:865
+msgid "Aggiornamento software pubblicato!"
+msgstr "Software update published!"
+
+#: pannello.php:872
+msgid "Errore generico."
+msgstr "Generic error."
+
+#: pannello.php:878
+msgid "L'estensione deve essere .rar"
+msgstr "The extension must be .rar"
+
+#: pannello.php:884
+msgid "Upload file fallito."
+msgstr "File upload failed."
+
+#: pannello.php:921
+msgid "Upload in corso"
+msgstr "Uploading"
+
+#: pannello.php:942
+msgid "Seleziona un file di log."
+msgstr "Select a log file."
+
+#: pannello.php:949
+msgid "Non ci sono Network di cui visualizzare i log."
+msgstr "There are no Networks to view logs."
+
+#: pannello.php:960
+msgid "Seleziona una tabella da esportare."
+msgstr "Select a table to export."
+
+#: pannello.php:966
+msgid "Download..."
+msgstr "Download..."
+
+#: pannello.php:987
+msgid ".txt richiesto"
+msgstr ".txt required"
+
+#: pannello.php:1008 pannello.php:1098
+msgid "Richiesta conferma"
+msgstr "Confirm required"
+
+#: pannello.php:1009 pannello.php:1099
+msgid "Cliccando su 'Conferma' la tabella"
+msgstr "By clicking on 'Confirm' the table named"
+
+#: pannello.php:1009
+msgid "sarà riempita di nuovi valori contenuti nel file di importazione."
+msgstr "will be filled with new values contained in the import file."
+
+#: pannello.php:1012 pannello.php:1102
+msgid "Conferma"
+msgstr "Confirm"
+
+#: pannello.php:1013 pannello.php:1103
+msgid "Annulla"
+msgstr "Cancel"
+
+#: pannello.php:1017 pannello.php:1107
+msgid "Attendi"
+msgstr "Please Wait"
+
+#: pannello.php:1018 pannello.php:1108
+msgid "Operazione in corso..."
+msgstr "Operation in progress ..."
+
+#: pannello.php:1032 pannello.php:1118
+msgid "Operazione completata"
+msgstr "Operation complete"
+
+#: pannello.php:1033
+msgid "Importazione completata!"
+msgstr "Import completed!"
+
+#: pannello.php:1039
+msgid "Imposta tutti i campi."
+msgstr "Set all parameters."
+
+#: pannello.php:1045
+msgid "File non valido."
+msgstr "Invalid file."
+
+#: pannello.php:1051
+msgid "Impossibile svuotare la tabella."
+msgstr "The table could not be emptied."
+
+#: pannello.php:1062 pannello.php:1070 pannello.php:1142
+msgid "Caso imprevisto"
+msgstr "Unexpected event"
+
+#: pannello.php:1081
+msgid "Inserisci il file da importare."
+msgstr "Enter a file to import."
+
+#: pannello.php:1088
+msgid "Seleziona una tabella in cui importare."
+msgstr "Select a table to import into."
+
+#: pannello.php:1099
+msgid "sarà svuotata e non si potrà recuperarla. Confermi l'operazione?"
+msgstr ""
+"it will be emptied and cannot be recovered. Do you confirm the operation?"
+
+#: pannello.php:1119
+msgid "Tabella svuotata con successo!"
+msgstr "Table emptied successfully!"
+
+#: pannello.php:1125
+msgid "Nome tabella errato."
+msgstr "Incorrect table name."
+
+#: pannello.php:1131
+msgid "Imposta tutti i valori."
+msgstr "Set all values."
+
+#: pannello.php:1154
+msgid "Seleziona una tabella da svuotare."
+msgstr "Select a table to empty."
+
+#~ msgid "e"
+#~ msgstr "and"
+
+#~ msgid "secondi"
+#~ msgstr "seconds"
+
+#~ msgid "secondo"
+#~ msgstr "second"
+
+#~ msgid "minuti"
+#~ msgstr "minutes"
+
+#~ msgid "minuto"
+#~ msgstr "minute"
+
+#~ msgid "Durata media scansione:"
+#~ msgstr "Average scan duration:"
+
+#~ msgid "Termini di Servizio"
+#~ msgstr "Terms of Service"
+
+#~ msgid "Avvertimento"
+#~ msgstr "Warning"
+
+#~ msgid ""
+#~ "Il seguente documento è stato tradotto da una macchina e non da una "
+#~ "persona, pertanto il contenuto potrebbe non essere accurato al 100%."
+#~ msgstr ""
+#~ "The following document has been translated by a machine and not by a real "
+#~ "person, so the content may not be 100% accurate."
+
+#~ msgid ""
+#~ "Si è verificato un errore cercando di ottenere le informazioni dei "
+#~ "Termini di Servizio."
+#~ msgstr "An error occurred while trying to get the Terms of Service page."
+
+#~ msgid "Clicca qui per tornare in cima"
+#~ msgstr "Click here to return to the top"
+
+#~ msgid "Tutti i diritti riservati. Non distribuire!"
+#~ msgstr "All rights reserved. Do not distribute!"
+
+#~ msgid "Impossibile trovare file Config.php!!"
+#~ msgstr "Unable to find file Config.php !!"
+
+#~ msgid ""
+#~ "Questo sito necessita di JavaScript per funzionare, abilitalo o cambia "
+#~ "browser per continuare"
+#~ msgstr ""
+#~ "This site requires JavaScript to work, enable or change browser to "
+#~ "continue"
+
+#~ msgid "Se non sai come abilitarlo clicca su"
+#~ msgstr "If you do not know how to enable it click on"
+
+#~ msgid "questo link"
+#~ msgstr "this link"
+
+#~ msgid "Crediti"
+#~ msgstr "Credits"
+
+#~ msgid "Leader Sito Web e Sviluppatore Web"
+#~ msgstr "Website Leader and Web Developer"
+
+#~ msgid "Leader Progetto e Sviluppatore Software"
+#~ msgstr "Project Leader and Software Developer"
+
+#~ msgid "Aiuto-Sviluppatore"
+#~ msgstr "Help-Developer"
+
+#~ msgid "Grazie a tutti coloro che hanno contribuito alla realizzazione del"
+#~ msgstr "Thanks to all those who contributed to the realization of the"
+
+#~ msgid "Accesso fallito (401)"
+#~ msgstr "Zugriff fehlgeschlagen (401)"
+
+#~ msgid "Il server ti ha impedito di accedere a questa risorsa."
+#~ msgstr ""
+#~ "Der Server hat Sie daran gehindert, auf diese Ressource zuzugreifen."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta."
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet."
+
+#~ msgid "La pagina che stavi cercando non esiste o è stata rimossa."
+#~ msgstr "Die von Ihnen gesuchte Seite existiert nicht oder wurde entfernt."
+
+#~ msgid ""
+#~ "Il metodo specificato nella linea di richiesta non autorizzato per la "
+#~ "risorsa specificata."
+#~ msgstr ""
+#~ "Die in der nicht autorisierten Anforderungszeile für die angegebene "
+#~ "Ressource angegebene Methode."
+
+#~ msgid ""
+#~ "Il browser ha fallito l'invio della richiesta nel tempo autorizzato dal "
+#~ "server."
+#~ msgstr ""
+#~ "Der Browser konnte die Anfrage nicht innerhalb der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid ""
+#~ "La richiesta è fallita a causa di una condizione inaspettata incontrata "
+#~ "dal server."
+#~ msgstr ""
+#~ "Die Anforderung ist aufgrund einer unerwarteten Bedingung beim Server "
+#~ "fehlgeschlagen."
+
+#~ msgid ""
+#~ "Il server ha ricevuto una risposta non valida dal server di upstream "
+#~ "mentre cercava di rispondere alla tua richiesta"
+#~ msgstr ""
+#~ "Der Server hat vom Upstream-Server eine ungültige Antwort erhalten, als "
+#~ "er versucht hat, auf Ihre Anfrage zu antworten"
+
+#~ msgid ""
+#~ "Il server di upstream ha fallito l'invio della richiesta nel tempo "
+#~ "autorizzato dal server."
+#~ msgstr ""
+#~ "Der Upstream-Server konnte die Anforderung nicht in der vom Server "
+#~ "autorisierten Zeit senden."
+
+#~ msgid "Il server ha rifiutato di rispondere alla tua richiesta. (!)"
+#~ msgstr "Der Server hat auf Ihre Anfrage nicht geantwortet. (!)"
+
+#~ msgid ""
+#~ "Puoi tornare alla Homepage ora. Se pensi che questo sia un errore, "
+#~ "inviaci una mail cliccando il tasto sottostante, grazie!"
+#~ msgstr ""
+#~ "Sie können jetzt zur Homepage zurückkehren. Wenn Sie denken, dass dies "
+#~ "ein Fehler ist, senden Sie uns eine E-Mail durch Klicken auf die "
+#~ "Schaltfläche unten, danke!"
+
+#~ msgid "Torna alla HomePage"
+#~ msgstr "Kehre zur Startseite zurück"
+
+#~ msgid "Segnala un problema"
+#~ msgstr "Melde ein Problem"
+
+#~ msgid "(Non ci sono manutenzioni previste)"
+#~ msgstr "(Es gibt keine geplante Wartung)"
+
+#~ msgid "(Inserire un url con stato pagina corretto)"
+#~ msgstr "(Geben Sie eine URL mit dem korrekten Seitenstatus ein)"
+
+#~ msgid "Devi effettuare il login per poter effettuare scansioni"
+#~ msgstr "You must be logged in to be able to scan"
+
+#~ msgid "Accedi"
+#~ msgstr "Log in"
+
+#~ msgid "Registrati"
+#~ msgstr "Sign in"
+
+#~ msgid "Ogni file <b>.zip</b> inserito non deve superare i"
+#~ msgstr "Each <b>.zip</b> file entered must not exceed"
+
+#~ msgid "MB di peso"
+#~ msgstr "MB of weight"
+
+#~ msgid ""
+#~ "Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva "
+#~ "sezione. Maggiori informazioni"
+#~ msgstr ""
+#~ "Enter the ProcessHacker™ search results in the respective section. More "
+#~ "information"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "qui"
+#~ msgstr "here"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Inserisci"
+#~ msgstr "Insert"
+
+#~ msgid "Servizio non disponibile al momento, riprova più tardi."
+#~ msgstr "Service not available at the moment, please try again later."
+
+#~ msgid "Cheat"
+#~ msgstr "Cheat"
+
+#~ msgid "Pulito"
+#~ msgstr "Clean"
+
+#~ msgid "Sospetto"
+#~ msgstr "Suspect"
+
+#~ msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+#~ msgstr "The compressed file must have the same name as the .txt file!"
+
+#~ msgid "Errore, file troppo grande."
+#~ msgstr "Error, file too big."
+
+#~ msgid "Errore, estensione non valida."
+#~ msgstr "Error, invalid extension."
+
+#~ msgid "Servizio non disponibile"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Login necessario per effettuare scansioni"
+#~ msgstr "Login required to scan"
+
+#~ msgid "Tempo passato totale"
+#~ msgstr "Total past time"
+
+#~ msgid "Progresso upload"
+#~ msgstr "Upload progress"
+
+#~ msgid "Upload completato!"
+#~ msgstr "Upload completed!"
+
+#~ msgid "In corso da"
+#~ msgstr "In progress since"
+
+#~ msgid "Scansione..."
+#~ msgstr "Scanning..."
+
+#~ msgid "Tutti i file devono essere .zip"
+#~ msgstr "All files must be .zip"
+
+#~ msgid "Tutti i file devono essere impostati"
+#~ msgstr "All files must be set up"
+
+#~ msgid "FireShield Cheat Detector"
+#~ msgstr "FireShield Cheat Detector"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Pannello"
+#~ msgstr "Panel"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Benvenuto"
+#~ msgstr "Welcome"
+
+#~ msgid "Clicca qui per segnalarci un problema"
+#~ msgstr "Click here to report a problem"
+
+#~ msgid "Segnalazioni disabilitate."
+#~ msgstr "Reports disabled."
+
+#~ msgid ""
+#~ "Un altro report risulta già inviato, attendi che l'altro venga chiuso"
+#~ msgstr "Another report is already sent, wait until the other one is closed"
+
+#~ msgid "Segnalazione inviata, grazie!"
+#~ msgstr "Report sent, thanks!"
+
+#~ msgid "ID REPORT"
+#~ msgstr "REPORT ID"
+
+#~ msgid ""
+#~ "Un membro dello Staff ha visualizzato la tua precedente segnalazione. "
+#~ "Ecco la risposta:"
+#~ msgstr "A Staff member viewed your previous report. Here is the answer:"
+
+#~ msgid "Risposta del membro dello Staff:"
+#~ msgstr "Answer of the Staff member:"
+
+#~ msgid ""
+#~ "In questo form è possibile segnalare un problema relativo alla "
+#~ "piattaforma FireShield. Una volta inviata la richiesta non sarà possibile "
+#~ "inviarne altre finché la precedente non sarà visionata. Grazie per "
+#~ "aiutarci a rendere FireShield Detector migliore!"
+#~ msgstr ""
+#~ "In this form you can report a problem related to the FireShield platform. "
+#~ "Once the report has been sent, it will not be possible to send others "
+#~ "until the previous one is viewed. Thanks for helping us make FireShield "
+#~ "Detector better!"
+
+#~ msgid "Sii il più completo possibile, limite caratteri: 1000"
+#~ msgstr "Be as complete as possible, character limitation: 1000"
+
+#~ msgid "Invia segnalazione"
+#~ msgstr "Send report"
+
+#~ msgid "Username già esistente."
+#~ msgstr "Username already registered."
+
+#~ msgid "Errore durante la registrazione."
+#~ msgstr "An error occured while doing the sign up."
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Registrazioni disabilitate"
+#~ msgstr "Sign ups disabled"
+
+#~ msgid "Già registrato? Accedi al pannello FireShield"
+#~ msgstr "Already registered? Log-in on the FireShield panel by"
+
+#~ msgid "cliccando qui"
+#~ msgstr "clicking here"
+
+#~ msgid "Password errata."
+#~ msgstr "Wrong Password."
+
+#~ msgid "Effettua il Login"
+#~ msgstr "Log-in"
+
+#~ msgid "Benvenuto su OmniTune!"
+#~ msgstr "Welcome to OmniTune!"
+
+#~ msgid "Lingua"
+#~ msgstr "Language"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Inglese"
+#~ msgstr "English"
+
+#~ msgid "Clicca qui per effettuare una ricerca"
+#~ msgstr "Click here to search"
+
+#~ msgid "Ricerca"
+#~ msgstr "Search"
+
+#~ msgid "Clicca qui per informazioni sui Servizi"
+#~ msgstr "Click here for information of Services"
+
+#~ msgid "Servizi"
+#~ msgstr "Services"
+
+#~ msgid "Clicca qui per informazioni sugli Eventi"
+#~ msgstr "Click here for information on Events"
+
+#~ msgid "Eventi"
+#~ msgstr "Events"
+
+#~ msgid "Contattaci"
+#~ msgstr "Contact us"
+
+#~ msgid "Proponi Locale"
+#~ msgstr "Suggest Local"
+
+#~ msgid "Proponi Evento"
+#~ msgstr "Suggest Event"
+
+#~ msgid "Accedi / Registrati"
+#~ msgstr "Login / Register"
+
+#~ msgid "Le tue Canzoni Preferite"
+#~ msgstr "Your favourite songs"
+
+#~ msgid "Account non verificato, clicca qui per inviare mail di conferma."
+#~ msgstr "Account not verified, click here to send verification email."
+
+#~ msgid "Un nostro amministratore verificherà la tua identità quanto prima!"
+#~ msgstr "Our administrators will verify your identity as soon as possible!"
+
+#~ msgid ""
+#~ "Il tuo account Artista non è ancora abilitato, attendi un amministratore."
+#~ msgstr "Your account is not enabled yet, wait an administrator."
+
+#~ msgid "This is "
+#~ msgstr "This is "
+
+#~ msgid "OmniTune"
+#~ msgstr "OmniTune"
+
+#~ msgid "Catch your Sound!"
+#~ msgstr "Catch your Sound!"
+
+#~ msgid ""
+#~ "Eventi, Canzoni, Artisti e tutto il mondo musicale su un'unica piattaforma"
+#~ msgstr ""
+#~ "Events, Songs, Artists and the whole musical world on a single platform"
+
+#~ msgid "Maggiori informazioni"
+#~ msgstr "More information"
+
+#~ msgid "Generi"
+#~ msgstr "Genres"
+
+#~ msgid ""
+#~ "Esplora, cerca e ascolta tutte le canzoni del nostro sito in modo "
+#~ "semplice e veloce."
+#~ msgstr ""
+#~ "Explore, search and listen to all the songs on our site quickly and "
+#~ "easily."
+
+#~ msgid "Artisti"
+#~ msgstr "Artists"
+
+#~ msgid ""
+#~ "Visualizza tutti gli artisti presenti sul sito. Magari ne troverai uno "
+#~ "che ti piace!"
+#~ msgstr ""
+#~ "See all the artists on the site. Maybe you'll find one that you like!"
+
+#~ msgid "Locali"
+#~ msgstr "Locals"
+
+#~ msgid "Controlla tutti i locali nel nostro Sito, in un'unica lista."
+#~ msgstr "Check all the locals available on the Website, all in one list."
+
+#~ msgid ""
+#~ "Vuoi trovare un evento nella tua zona? Questa è la sezione che fa per te."
+#~ msgstr ""
+#~ "Do you want to find an event in your area? This is the section for you."
+
+#~ msgid "Canzoni Preferite"
+#~ msgstr "Favourite songs"
+
+#~ msgid "Le mie canzoni"
+#~ msgstr "My songs"
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni preferite in un'unica pagina, per ascoltarle "
+#~ "facilmente."
+#~ msgstr "Find all your favorite songs on our site, to easily listen to them."
+
+#~ msgid ""
+#~ "Trova tutte le tue canzoni in un'unica pagina, per gestirle facilmente."
+#~ msgstr "Find all your songs on one page, to easily manage them."
+
+#~ msgid ""
+#~ "In questa sezione puoi trovare tutti gli eventi musicali in programma."
+#~ msgstr "In this section you can find all the musical events scheduled."
+
+#~ msgid ""
+#~ "Clicca su Tutti gli eventi per le informazioni dettagliate di ogni "
+#~ "singolo evento"
+#~ msgstr ""
+#~ "Click on All events for detailed information on each individual event"
+
+#~ msgid "Al momento non abbiamo eventi da proporti."
+#~ msgstr "At the moment we have no events to propose."
+
+#~ msgid "Per favore, presta pazienza."
+#~ msgstr "Please, be patient."
+
+#~ msgid "Ed altri %d eventi..."
+#~ msgstr "And other %d events..."
+
+#~ msgid "Ed un altro evento..."
+#~ msgstr "And another one event..."
+
+#~ msgid "Per qualsiasi dubbio o informazione non esitare a contattarci."
+#~ msgstr ""
+#~ "For any questions or information please do not hesitate to contact us."
+
+#~ msgid "Sei un artista? Registrati gratuitamente e carica le tue tracce!"
+#~ msgstr ""
+#~ "Are you an artist? Sign up for free and add your songs to our Website!"
+
+#~ msgid "Registrati ora!"
+#~ msgstr "Sign up now!"
+
+#~ msgid "Clicca qui per inviare una email a support@omnitune.it"
+#~ msgstr "Click here to send an email to support@omnitune.it"
+
+#~ msgid "Clicca qui per inviare una email a info@omnitune.it"
+#~ msgstr "Click here to send an email to info@omnitune.it"
+
+#~ msgid "Lasciaci un messaggio"
+#~ msgstr "Leave us a message"
+
+#~ msgid "Alcuni campi sono già compilati grazie al login!"
+#~ msgstr "Some fields are already compiled thanks to the login!"
+
+#~ msgid "Nome"
+#~ msgstr "Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Messaggio"
+#~ msgstr "Message"
+
+#~ msgid "Seguici"
+#~ msgstr "Follow us"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Normativa"
+#~ msgstr "Statement"
+
+#~ msgid "Clicca qui per cambiare la lingua di visualizzazione"
+#~ msgstr "Click here to change the display language"

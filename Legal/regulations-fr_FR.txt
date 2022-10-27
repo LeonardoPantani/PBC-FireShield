@@ -1,0 +1,74 @@
+Le détecteur de triche FireShield (généralement appelé "FSCD") est une plate-forme de numérisation de fichiers en ligne permettant une exécution rapide et fiable des contrôles anti-triche de Minecraft©.
+
+Les services fournis par FSCD sont disponibles sur www.fireshield.it et sont hébergés par FireShield.
+
+FSCD n'agit pas en tant que fournisseur d'accès Internet ou service de communication publique électronique.
+
+Les présentes conditions d'utilisation régissent l'utilisation des services FSCD. En utilisant les services FSCD, que vous demandiez ou non une inscription, vous acceptez d'être lié par les présentes conditions.
+
+<i>S'il vous plaît lisez-les attentivement.</i>
+
+<b>Ces conditions d'utilisation ont été mises à jour le 15 août 2019.</b>
+<hr>
+<b>Nom d'utilisateur / surnom</b>
+
+Veuillez respecter le FSCD, les propriétaires du contenu et les autres utilisateurs du service FSCD. Ne vous engagez pas dans des activités, ne publiez pas de contenu utilisateur, ne vous inscrivez pas et / ou n'utilisez pas un nom d'utilisateur qui est ou comprend du matériel:
+<b>1.</b> offensant, dénigrant, diffamatoire, pornographique, menaçant ou obscène;
+<b>2.</b> illégale ou destinée à promouvoir ou à commettre des actes illégaux de toute nature, y compris de manière non limitative, la violation des droits de propriété intellectuelle, des droits à la vie privée ou des droits exclusifs du FSCD ou de tiers;
+<b>3.</b> Contenant délibérément votre mot de passe, le mot de passe d'un autre utilisateur ou des données personnelles de tiers, ou destiné à solliciter l'octroi de telles données personnelles;
+<b>4.</b> malveillants en tant que programmes malveillants, chevaux de Troie ou virus, ou de toute autre façon en mesure de nuire à l'accès des utilisateurs au service;
+<b>5.</b> conçu ou capable de déranger ou de harceler d’autres utilisateurs;
+<b>6.</b> capable de prétendre ou de donner une fausse représentation de votre affiliation avec d'autres utilisateurs, personnes ou entités, ou autrement frauduleux, faux, trompeur ou trompeur;
+<b>7.</b> qui utilise des moyens automatisés pour promouvoir artificiellement le contenu;
+<b>8.</b> qui implique la transmission de messages de masse non sollicités ou d'autres formes de courrier indésirable, de courrier indésirable, de chaînes de messages ou autres par le biais de la boîte de réception du FSCD;
+<b>9.</b> qui implique des activités commerciales ou de vente, telles que publicité, promotions, concours, jeux-concours ou systèmes pyramidaux, qui ne sont pas expressément autorisées par FSCD;
+<b>10.</b> Quels collègues référent ou font autrement la promotion de produits ou services commerciaux, sauf autorisation expresse de la FSCD;
+<b>11.</b> capable d'interférer ou de perturber le service FSCD de quelque manière que ce soit, d'altérer, de violer ou de tenter de sonder, d'examiner ou de tester le service ou les systèmes informatiques ou le réseau FSCD, les règles d'utilisation ou tout autre composant de sécurité, mesure d'authentification ou autre mesure de protection FSCD applicable au service, au contenu ou à une partie de celui-ci;
+<b>12.</b> Ce qui provoque des conflits avec les accords, tels que définis par FSCD.
+
+<b>Achats</b>
+Par le biais de paiements effectués via le système PayPal©, l’utilisateur fournira toutes les données, telles que nom, prénom, adresse de résidence, date de naissance, adresse e-mail et autres informations permettant d’identifier le paiement de manière unique. Ils ne seront en aucun cas fournis à des tiers. Tous les paiements effectués doivent être considérés comme définitifs et, pour cette raison, aucun remboursement ne sera effectué.
+
+<b>Chaînes de reconnaissance du client</b>
+La falsification du système de reconnaissance du client pour empêcher le bon fonctionnement du service FSCD est interdite de quelque manière que ce soit.
+
+<b>Sauvegarde du fichier utilisateur</b>
+Les fichiers envoyés pour des analyses anti-triche seront automatiquement enregistrés par la plate-forme FSCD afin de nous permettre de fournir un service optimal à nos utilisateurs. Par exemple, nous pourrions utiliser ces fichiers pour détecter encore plus de clients, voire pour éliminer les faux positifs.
+
+<b>Partage de compte</b>
+Il est strictement interdit de partager la licence avec qui que ce soit. Une utilisation incorrecte du service peut entraîner l'annulation de votre licence. FSCD se réserve le droit de révoquer les droits de l'utilisateur d'accéder à certaines ressources. Il est interdit de donner accès à son propre compte à d'autres utilisateurs ne disposant pas de leur propre licence pour leur permettre d'effectuer des tests et / ou des analyses.
+
+<b>Limitation de responsabilité</b>
+FSCD ne sera pas responsable des dommages directs, indirects, accessoires, spéciaux ou consécutifs, causés par les utilisateurs qui y répondront à leurs propres frais.
+
+<b>Droits d'auteur et marques de commerce</b>
+Le nom, le logo et les marques commerciales sont protégés par le droit d'auteur du site. Ils ne sont pas reproductibles et ne peuvent être falsifiés ou modifiés sans l'autorisation du FSCD.
+
+<b>Licenses</b>
+Une licence FireShield est requise pour utiliser le service de numérisation. La licence unique est destinée à un seul utilisateur, tandis que la licence réseau peut être attribuée à plusieurs utilisateurs à la fois. La licence unique peut être achetée uniquement et exclusivement via le système de paiement PayPal© et est disponible dans une version mensuelle de 30 (trente) jours et permanente. La durée et les contraintes des licences réseau sont décidées par les membres du personnel de FireShield en accord avec le propriétaire du réseau.
+
+<b>Confidentialité</b>
+Nous allons collecter des données personnelles telles que pseudo, adresses e-mail et adresse IP pour des raisons de sécurité et le bon fonctionnement du Service. Ils ne seront en aucun cas fournis à des tiers.
+
+<b>Les éléments suivants ne sont autorisés sous aucun motif:</b>
+
+<b>1.</b> copier, redistribuer, reproduire, "extraire", enregistrer, transférer, exécuter ou afficher en public, transmettre ou mettre à la disposition du public toute partie du service ou du contenu FSCD, ou bien utiliser le service FSCD ou de contenu qui n'est pas expressément autorisé par les accords ou la loi applicable, ou qui viole par ailleurs les droits de propriété intellectuelle (tels que les droits d'auteur) du service FSCD, du contenu ou de toute partie de ceux-ci;
+<b>2.</b> Utilisez le service FSCD pour importer ou copier des fichiers locaux pour lesquels vous ne possédez pas les droits légaux.
+<b>3.</b> Transférez des copies du contenu mis en cache d'un appareil autorisé vers un autre appareil par n'importe quel moyen;
+<b>4.</b> Vous ne pouvez pas copier, modifier, distribuer, vendre ou louer des éléments de nos services, ni faire de l'ingénierie inverse ni tenter d'extraire le code source d'un tel logiciel, à moins que la loi n'interdit de telles restrictions ou dans les cas où avoir notre autorisation écrite.
+<b>5.</b> Vendre, louer, sous-traiter ou louer toute partie du service ou du contenu FSCD;
+<b>6.</b> contourner les restrictions territoriales appliquées par FSCD;
+<b>7.</b> manipulez les services de toute autre manière à l'aide de scripts ou d'autres processus automatisés;
+<b>8.</b> supprimer ou modifier les droits d'auteur, les marques déposées ou d'autres indications de propriété intellectuelle contenues dans le service FSCD ou fournies par l'intermédiaire de celui-ci (notamment dans le but de dissimuler ou de modifier des indications de propriété ou de provenance d'un contenu);
+<b>9.</b> Fournissez votre mot de passe à d'autres personnes ou utilisez le nom d'utilisateur et le mot de passe d'une autre personne.
+<b>10.</b> effectuez une "exploration" dans le service FSCD ou utilisez un autre moyen automatisé (notamment des robots, un grattoir et des araignées) pour collecter des informations à partir de FSCD;
+
+<b>Violation et signalement du contenu de l'utilisateur</b>
+FireShield respecte les droits des détenteurs de propriété intellectuelle. Si vous pensez qu'un contenu enfreint vos droits de propriété intellectuelle ou d'autres droits, consultez la politique de copyright de la FSCD. Si le détenteur du droit d'auteur est informé d'une violation du droit d'auteur par un contenu, FSCD peut intervenir à son entière discrétion sans préavis au fournisseur de ce contenu. Si vous estimez que le contenu en question ne cause aucune violation, le fournisseur peut envoyer une contre-notification au FSCD avec la demande de restauration du contenu supprimé.
+
+<b>Modifications apportées au même document</b>
+FSCD a le pouvoir de modifier les "Conditions générales" susmentionnées à tout moment et tout changement prendra effet dès la mise à jour de cette page. Votre utilisation continue du site implique l'acceptation de toute révision des conditions générales de cet accord. FSCD se réserve le droit de modifier le règlement à sa propre description.
+
+
+Pour toute information ou préoccupation concernant les conditions de confidentialité, veuillez contacter Email info@fireshield.it
+Pour les enfants de moins de 13 ans, il est interdit de s’inscrire sans l’autorisation d’un parent ou d’un tuteur, conformément à la loi sur la protection de la vie privée des enfants.

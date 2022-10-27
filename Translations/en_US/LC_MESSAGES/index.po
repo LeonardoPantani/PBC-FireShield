@@ -1,0 +1,559 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-25 12:42+0200\n"
+"PO-Revision-Date: 2020-05-25 12:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:51
+msgid "Operazioni di manutenzione in corso, ci scusiamo per il disagio"
+msgstr "Maintenance in progress, we apologize for the inconvenience"
+
+#: index.php:52
+msgid "Il servizio di scansione tornerà disponibile quanto prima"
+msgstr "The scan service will be available again as soon as possible"
+
+#: index.php:55
+msgid "Durante la manutenzione si può"
+msgstr "During the maintenance it is possible to"
+
+#: index.php:57
+msgid "Effettuare il login"
+msgstr "Log-in"
+
+#: index.php:58
+msgid "Acquistare licenze"
+msgstr "Buy licenses"
+
+#: index.php:59
+msgid "Accedere alle proprie Impostazioni"
+msgstr "Access your Settings"
+
+#: index.php:60
+msgid "Effettuare il test dei CPS"
+msgstr "Perform the CPS test"
+
+#: index.php:61
+msgid "Segnalare problemi riguardanti la piattaforma"
+msgstr "Report problems regarding the platform"
+
+#: index.php:62
+msgid "Scaricare lo Screenshare Tool"
+msgstr "Download the Screenshare Tool"
+
+#: index.php:71
+msgid "Benvenuto su"
+msgstr "Welcome to"
+
+#: index.php:72
+msgid "Per effettuare scansioni è necessario acquistare una licenza"
+msgstr "To start the file scan you must purchase a license"
+
+#: index.php:72 index.php:74
+msgid "qui"
+msgstr "here"
+
+#: index.php:74
+msgid ""
+"Abbiamo anche rilasciato uno Screenshare tool <b>gratuito</b> dotato di "
+"numerose funzionalità scaricabile"
+msgstr ""
+"We have also released a <b>free</b> Screenshare tool that comes with many "
+"features. You can download it from"
+
+#: index.php:86
+msgid "Il servizio di scansioni non è disponibile"
+msgstr "The scan service is not available"
+
+#: index.php:87
+msgid "Abilita l'autenticazione a 2 fattori per poter effettuare scansioni"
+msgstr "Enable the 2-factor authentication to unlock the scan feature"
+
+#: index.php:88
+msgid "Clicca per iniziare"
+msgstr "Click here to begin"
+
+#: index.php:88
+msgid "Iniziamo"
+msgstr "Let's start"
+
+#: index.php:101
+#, php-format
+msgid "CHIUSURA DI %s"
+msgstr "CLOSURE OF %s"
+
+#: index.php:104
+#, php-format
+msgid ""
+"Il %s chiuderà definitivamente in data %s. Per maggiori informazioni clicca "
+"%squi%s."
+msgstr ""
+"The %s will permanently close on %s. For more information click %shere%s."
+
+#: index.php:106
+msgid "È sorto un problema grave con la seguente funzionalità"
+msgstr "A serious problem occured with the following functionality"
+
+#: index.php:106
+msgid ""
+"Per questo motivo quest'ultima potrebbe non funzionare come previsto e "
+"consigliamo di non utilizzarla"
+msgstr ""
+"For this reason the latter may not work as intended and we reccomend to not "
+"use it"
+
+#: index.php:106 index.php:108 index.php:110 index.php:112
+msgid "Ci scusiamo per il disagio"
+msgstr "We apologize for the inconvenience"
+
+#: index.php:108
+msgid "È sorto un problema con la seguente funzionalità"
+msgstr "A problem occured with the following functionality"
+
+#: index.php:108
+msgid ""
+"Per questo motivo quest'ultima potrebbe subire rallentamenti o errori "
+"durante il periodo di permanenza di questo avviso"
+msgstr ""
+"For this reason the latter may suffer slowdowns or error during the period "
+"of permanence of this warning"
+
+#: index.php:110
+msgid "È in fase di modifica e aggiornamento la seguente funzionalità"
+msgstr "An update is ongoing for the following functionality"
+
+#: index.php:110
+msgid ""
+"Per questo motivo quest'ultima potrebbe essere temporaneamente non "
+"disponibile mentre viene aggiornata"
+msgstr ""
+"For this reason the latter may be temporarly unavailable while it is getting "
+"updated"
+
+#: index.php:112
+msgid "È sorto un problema con"
+msgstr "A problem occured with"
+
+#: index.php:112
+msgid "Per questo motivo"
+msgstr "For this reason"
+
+#: index.php:112
+msgid "potrebbe non funzionare come previsto"
+msgstr "may not work as intended"
+
+#: index.php:123
+msgid ""
+"Inserisci i risultati di ricerca di ProcessHacker™ nella rispettiva sezione. "
+"La dimensione massima per ogni file è"
+msgstr ""
+"Enter the ProcessHacker™ search results in the respective section. The "
+"maximum size for each file is"
+
+#: index.php:129 index.php:140 index.php:151 index.php:162 index.php:524
+#: index.php:743 index.php:784 index.php:1003 index.php:1043 index.php:1262
+#: index.php:1302 index.php:1521
+msgid "Durata scansione stimata"
+msgstr "Estimated scan duration"
+
+#: index.php:129 index.php:130 index.php:140 index.php:141 index.php:151
+#: index.php:152 index.php:162 index.php:163
+msgid "Check"
+msgstr "Check"
+
+#: index.php:176 index.php:180 index.php:184 index.php:188 index.php:211
+#: index.php:398 index.php:402
+msgid "Sono consentite solo 4 scansioni per i login OTP"
+msgstr "Only 4 scans are allowed for OTP logins"
+
+#: index.php:176 index.php:180 index.php:184 index.php:188 index.php:677
+#: index.php:937 index.php:1196 index.php:1455 index.php:1607 index.php:1637
+#: index.php:1667 index.php:1697
+msgid "Inserisci"
+msgstr "Insert"
+
+#: index.php:184 index.php:1196 index.php:1667
+msgid "o Log Antivirus"
+msgstr "or Antivirus Log"
+
+#: index.php:194
+msgid ""
+"Inserisci TUTTI i file per effettuare una scansione più completa ed "
+"efficace. Alcuni cheats possono essere trovati solo inserendo tutti i file."
+msgstr ""
+"Enter ALL the files to perform a complete and effective scan. Some client "
+"modifications and external executables can only be found by scanning all the "
+"files."
+
+#: index.php:200
+msgid "Codice errore"
+msgstr "Error code"
+
+#: index.php:202
+msgid "Errore non specificato"
+msgstr "Unspecified error"
+
+#: index.php:211
+msgid "Inizia la scansione"
+msgstr "Start file scan"
+
+#: index.php:238
+#, php-format
+msgid "Tutorial del %s"
+msgstr ""
+
+#: index.php:239
+#, php-format
+msgid ""
+"Se preferisci, abbiamo pubblicato un video che spiega come utilizzare lo "
+"Scanner: %sclicca qui per vederlo%s."
+msgstr ""
+
+#: index.php:247
+#, php-format
+msgid ""
+"%sPasso 1:%s Scarica Process Hacker da %squesto link%s o premi il pulsante "
+"'Process Hacker' nel %s Software."
+msgstr ""
+
+#: index.php:253
+#, php-format
+msgid ""
+"%sPasso 2:%s Per trovare i cheat più sofisticati è necessario l'utilizzo di "
+"4 processi: Javaw.exe, Dwm.exe, MsMpEng.exe (o log Antivirus) e lsass.exe."
+"<br><br>Mostreremo come ottenere le stringhe da uno solo di questi processi."
+"<br><br>In questo caso abbiamo scelto il processo Javaw.exe."
+msgstr ""
+
+#: index.php:265
+#, php-format
+msgid ""
+"%sPasso 3:%s Click destro e poi 'Proprietà' oppure clicca sul processo e poi "
+"premi Invio; leva la spunta da 'nascondi regioni vuote', clicca su "
+"'Strings', scrivi 4 e spunta 'image' e 'mapped' e premi 'Ok'."
+msgstr ""
+
+#: index.php:271
+#, php-format
+msgid ""
+"%sPasso 4:%s Ora clicca su 'Salva...' per salvare i risultati della ricerca."
+"<br><br>ATTENZIONE: Potrebbe volerci un po' di tempo in base alle "
+"prestazioni del computer dell'utente."
+msgstr ""
+
+#: index.php:283
+#, php-format
+msgid ""
+"%sPasso 5:%s Scegli una cartella dove vuoi salvare il file contenente le "
+"stringhe estratte da Process Hacker e poi premi 'Salva'."
+msgstr ""
+
+#: index.php:289
+#, php-format
+msgid ""
+"%sPasso 6:%s Se desideri una velocità di upload migliore, puoi comprimere il "
+"file utilizzando il %s Software. Altrimenti premi il tasto destro del mouse "
+"sul file .txt e comprimilo.<br><br>Si possono anche utilizzare altri "
+"strumenti di compressione come 7Zip o WinRar, basta che l'estensione del "
+"file sia .zip."
+msgstr ""
+
+#: index.php:301
+#, php-format
+msgid ""
+"%sPasso 7:%s Ripeti questi passi per gli altri processi (opzionale)."
+"<br>Adesso passa allo Scanner e clicca su 'Inserisci *nomeprocesso*' per "
+"caricare i risultati di ricerca di Process Hacker.<br>Minimo: 1 file, "
+"Massimo: 4 file.<br><br>Consigliamo di caricare tutti e 4 i file per avere "
+"una scansione più accurata e completa, ma puoi anche caricare i 4 file "
+"separatamente."
+msgstr ""
+
+#: index.php:307
+#, php-format
+msgid ""
+"%sPasso finale:%s Clicca su 'Inizia la scansione' e aspetta che lo scanner "
+"completi la scansione. La durata approssimativa per ogni file è visibile "
+"passando il mouse sopra l'icona 'i' di ogni processo."
+msgstr ""
+
+#: index.php:316
+msgid ""
+"Se il giocatore non sta facendo uso di cheats, tutti e 4 i risultati "
+"mostreranno 'Pulito'."
+msgstr ""
+
+#: index.php:319
+msgid ""
+"Altrimenti lo Scanner ti informerà con un avviso di colore rosso (Cheat) o "
+"giallo (Sospetto Cheat)."
+msgstr ""
+
+#: index.php:333
+#, php-format
+msgid "Grazie per aver scelto %s%s%s"
+msgstr "Thanks for choosing %s%s%s."
+
+#: index.php:362
+msgid "Avviso di file pesante"
+msgstr "Big file warning"
+
+#: index.php:363
+msgid "La scansione potrebbe richiedere diversi minuti."
+msgstr "The scan may take several minutes."
+
+#: index.php:364
+msgid "Consigliamo il nostro Screenshare Tool che contiene il compressore."
+msgstr "We suggest our Screenshare Tool that contains a file compressor."
+
+#: index.php:364
+msgid "Download"
+msgstr "Download"
+
+#: index.php:373
+msgid "Clicca qui per maggiori informazioni sulla scansione"
+msgstr "Click here to see more information about the scan"
+
+#: index.php:378
+msgid ""
+"Inserisci TUTTI i file per effettuare una scansione più completa ed "
+"efficace. Alcuni cheats possono essere trovati solo inserendo tutti i files"
+msgstr ""
+"Enter ALL the files to perform a complete and effective scan. Some client "
+"modifications and external executables can only be found by scanning all the "
+"files"
+
+#: index.php:383
+msgid "Maggiori informazioni"
+msgstr "More information"
+
+#: index.php:386 index.php:387 index.php:388 index.php:389
+msgid "Risultato check"
+msgstr "Check outcome"
+
+#: index.php:386 index.php:387 index.php:388 index.php:389
+msgid "Clicca per altre informazioni"
+msgstr "Click here for more information"
+
+#: index.php:391
+msgid "Avviso"
+msgstr "Warning"
+
+#: index.php:391
+msgid "Il risultato di questa scansione non è sicuro al 100%"
+msgstr "The result of this scan is not 100% secure"
+
+#: index.php:391
+msgid "Sono necessarie ulteriori verifiche"
+msgstr "Further checks are necessary"
+
+#: index.php:391
+msgid "Consiglio"
+msgstr "Tip"
+
+#: index.php:391
+msgid ""
+"Puoi cliccare sul risultato per visualizzare tutte le informazioni relative "
+"a quella scansione"
+msgstr ""
+"You can click on the outcome to see all the information related to that scan"
+
+#: index.php:407
+msgid "Inizializzazione del servizio di scansione"
+msgstr "Initialization of the scan service"
+
+#: index.php:410
+msgid "Servizio di scansione caricato con successo"
+msgstr "Scan service loaded successfully"
+
+#: index.php:420
+msgid "Clicca qui per segnalare il problema"
+msgstr "Click here to report the problem"
+
+#: index.php:499 index.php:734 index.php:994 index.php:1253 index.php:1512
+msgid "Scansiono..."
+msgstr "Scanning..."
+
+#: index.php:538 index.php:798 index.php:1057 index.php:1316
+msgid "Cheat Rilevati"
+msgstr "Cheats Found"
+
+#: index.php:547 index.php:807 index.php:1066 index.php:1325
+msgid "Sospetto"
+msgstr "Suspect"
+
+#: index.php:554 index.php:814 index.php:1073 index.php:1332
+msgid "Pulito"
+msgstr "Clean"
+
+#: index.php:563 index.php:568 index.php:573 index.php:583 index.php:588
+#: index.php:593 index.php:598 index.php:603 index.php:823 index.php:828
+#: index.php:833 index.php:843 index.php:848 index.php:853 index.php:858
+#: index.php:863 index.php:1082 index.php:1087 index.php:1092 index.php:1102
+#: index.php:1107 index.php:1112 index.php:1117 index.php:1122 index.php:1341
+#: index.php:1346 index.php:1351 index.php:1361 index.php:1366 index.php:1371
+#: index.php:1376 index.php:1381
+msgid "Si è verificato un errore interno. Ci scusiamo per il disagio."
+msgstr "An internal error occured. We apologize for the inconvenience."
+
+#: index.php:578 index.php:1097 index.php:1356
+msgid "Il file compresso deve avere lo stesso nome del file .txt!"
+msgstr "The compressed file must have the same name as the .txt file!"
+
+#: index.php:610 index.php:665 index.php:870 index.php:925 index.php:1129
+#: index.php:1184 index.php:1388 index.php:1443
+msgid "Si è verificato un errore durante l’upload, riprova."
+msgstr "An error occured during the upload, try again."
+
+#: index.php:615 index.php:875 index.php:1134 index.php:1393
+msgid "Il file che hai caricato è troppo grande."
+msgstr "The uploaded file is too big."
+
+#: index.php:620 index.php:880 index.php:1139 index.php:1398
+msgid "L’estensione del file caricato non è valida."
+msgstr "The uploaded file extension is not valid."
+
+#: index.php:625 index.php:885 index.php:1144 index.php:1403
+msgid "Il file che hai caricato non è valido."
+msgstr "The uploaded file is not valid."
+
+#: index.php:630 index.php:890 index.php:1149 index.php:1408
+msgid "Il limite di scansioni per account OTP è stato raggiunto."
+msgstr "The scan limit for an OTP account has been reached."
+
+#: index.php:637 index.php:897 index.php:1156 index.php:1415
+msgid "Il servizio non è al momento disponibile, riprova più tardi."
+msgstr "The service is unavailable at the moment, try again later."
+
+#: index.php:643 index.php:903 index.php:1162 index.php:1421
+msgid "Il login è richiesto per poter effettuare scansioni."
+msgstr "Login required to execute scans."
+
+#: index.php:648 index.php:908 index.php:1167 index.php:1426
+msgid "La licenza è scaduta."
+msgstr "The license has expired."
+
+#: index.php:655 index.php:667 index.php:915 index.php:927 index.php:1174
+#: index.php:1186 index.php:1433 index.php:1445
+msgid "Caso imprevisto:"
+msgstr "Unexpected event:"
+
+#: index.php:660 index.php:670 index.php:920 index.php:930 index.php:1179
+#: index.php:1189 index.php:1438 index.php:1448
+msgid "Errore"
+msgstr "Error"
+
+#: index.php:680 index.php:940 index.php:1199 index.php:1458
+msgid "Scansione completata!"
+msgstr "Scan completed!"
+
+#: index.php:720 index.php:980 index.php:1239 index.php:1498
+msgid "Calcolo..."
+msgstr "Calculating..."
+
+#: index.php:722 index.php:982 index.php:1241 index.php:1500
+msgid "secondo rimasto"
+msgstr "second remaining"
+
+#: index.php:724 index.php:984 index.php:1243 index.php:1502
+msgid "secondi rimasti"
+msgstr "seconds remaining"
+
+#: index.php:730 index.php:990 index.php:1249 index.php:1508
+msgid "Progresso upload"
+msgstr "Upload progress"
+
+#: index.php:731 index.php:991 index.php:1250 index.php:1509
+msgid "Carico..."
+msgstr "Uploading..."
+
+#: index.php:733 index.php:993 index.php:1252 index.php:1511
+msgid "Upload completato!"
+msgstr "Upload completed!"
+
+#: index.php:757 index.php:1017 index.php:1276 index.php:1535
+msgid "Saltato"
+msgstr "Skipped"
+
+#: index.php:838
+msgid "Il file compresso deve avere lo stesso nome del file .txt all’interno."
+msgstr "The compressed file must have the same name as the .txt file inside."
+
+#: index.php:1540
+msgid "File troppo pesanti"
+msgstr "Files too big"
+
+#: index.php:1541
+msgid "Tutti i file devono pesare meno di "
+msgstr "All files must be less than "
+
+#: index.php:1547
+msgid "Estensioni non valide"
+msgstr "Invalid file extensions"
+
+#: index.php:1548
+msgid "Tutti i file devono essere .zip"
+msgstr "All files must be .zip"
+
+#: index.php:1555
+msgid "È richiesto un file"
+msgstr "At least one file is required"
+
+#: index.php:1556
+msgid "Inserisci un file per iniziare la scansione"
+msgstr "Enter a file to start the scan"
+
+#: index.php:1593 index.php:1623 index.php:1653 index.php:1683
+msgid "File troppo pesante"
+msgstr "File too big"
+
+#: index.php:1594 index.php:1624 index.php:1654 index.php:1684
+msgid "Questo file supera il limite di "
+msgstr "This file exceeds the limit of "
+
+#: index.php:1601 index.php:1631 index.php:1661 index.php:1691
+msgid "Estensione non valida"
+msgstr "Invalid file extension"
+
+#: index.php:1602 index.php:1632 index.php:1662 index.php:1692
+msgid "Ogni file deve terminare con l’estensione .zip"
+msgstr "Every file must end with the .zip extension"
+
+#~ msgid "e"
+#~ msgstr "and"
+
+#~ msgid "secondi"
+#~ msgstr "seconds"
+
+#~ msgid "secondo"
+#~ msgstr "second"
+
+#~ msgid "minuti"
+#~ msgstr "minutes"
+
+#~ msgid "minuto"
+#~ msgstr "minute"
+
+#~ msgid "Vai al tutorial"
+#~ msgstr "Go to the tutorial"
+
+#~ msgid "Si è verificato un errore"
+#~ msgstr "An error has occurred"
+
+#~ msgid "Seleziona almeno 1 file"
+#~ msgstr "Select at least 1 file"
